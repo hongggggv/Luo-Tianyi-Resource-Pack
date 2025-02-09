@@ -1,0 +1,12 @@
+{
+    "ui.button.click": {
+        "replace": true,
+        "sounds": [
+            {
+            "name": "tianyi/click",
+            "type": "event"
+            },
+            "tianyi/click"
+        ]
+    }
+}

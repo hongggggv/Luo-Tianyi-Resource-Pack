@@ -1,0 +1,45 @@
+[
+    {
+        "section": "洛天依整合包",
+        "disciplines": [
+            {
+                "discipline": "作者",
+                "titles": [
+                    {
+                        "title": "总设计",
+                        "names": [
+                            "B-0712天依號A359",
+                            "投靠数学势力的Master"
+                        ]
+                    },
+                    {
+                        "title": "游戏内钢琴曲",
+                        "names": [
+                            "飞侠Shrimp",
+                            "童嘎"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "鸣谢",
+                "titles": [
+                    {
+                        "title": "Vsinger运营团队",
+                        "names": [
+                            "上海禾念信息科技有限公司",
+                            "上海宽娱数码科技有限公司"
+                        ]
+                    },
+                    {
+                        "title": "主要文案",
+                        "names": [
+                            "投靠数学势力的Master"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+   
+]
