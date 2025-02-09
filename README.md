@@ -1,5 +1,5 @@
 # 这是什么？
-- 洛天依资源包是一个可以美化Minecraft1.21版本的以洛天依为主题的资源包，这个资源包修改的部分从死亡提示到游戏界面，囊括Minecraft的相当一部分文案。但为了保持Minecraft原版的体验，大部分原版内容得以保留。其由洛天依的爱好者共同发展，旨在实现洛天依与其他领域的联动，因此本资源包可能也是Minrcraft圈子内的第一个洛天依资源包。
+- 洛天依资源包是一个可以美化Minecraft1.20.x和1.21.x版本的以洛天依为主题的资源包，这个资源包修改的部分从死亡提示到游戏界面，囊括Minecraft的相当一部分文案。但为了保持Minecraft原版的体验，大部分原版内容得以保留。其由洛天依的爱好者共同发展，旨在实现洛天依与其他领域的联动，因此本资源包可能也是Minrcraft圈子内的第一个洛天依资源包。
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的Minecraft更有意思！
 - 相当一部分成就描述与部分字幕修改，体会中文语境下的幽默风趣！
@@ -27,7 +27,7 @@
 
 # English version
 # What is this?
-- The Luo Tianyi Resource Pack is a Lottie-themed resource pack that beautifies Minecraft version 1.21. This resource pack modifies parts of Minecraft from death prompts to the game interface, encompassing a significant portion of Minecraft's text. However, most of the original content has been retained in order to maintain the original Minecraft experience. It was developed by LotR enthusiasts with the aim of linking LotR with other areas, so this resource pack may also be the first LotR resource pack within the Minrcraft circle.
+- The Luo Tianyi Resource Pack is a Lottie-themed resource pack that beautifies Minecraft version 1.20.x and 1.21.x. This resource pack modifies parts of Minecraft from death prompts to the game interface, encompassing a significant portion of Minecraft's text. However, most of the original content has been retained in order to maintain the original Minecraft experience. It was developed by LotR enthusiasts with the aim of linking LotR with other areas, so this resource pack may also be the first LotR resource pack within the Minrcraft circle.
 # What's in it?
 - Almost all of the death hint content modifications to make your Minecraft more interesting!
 - A good portion of the achievement descriptions and subtitles have been changed to reflect the humor in the Chinese context!
