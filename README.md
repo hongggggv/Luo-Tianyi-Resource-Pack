@@ -34,7 +34,7 @@
 - Do you want to experience the feeling of becoming a “Falling Water Tienyi”? Do you want to realize that the trident in your hand turns into a fork?
 - Do you want to experience the 712 flashing slogans?
 - Then come and give it a try!
-- The pack includes some of Luo Tianyi's background music, so use it with “Reactive Music” for better results!
+- The pack includes some of Luo Tianyi's background music, which can be loaded using the “Reactive Music” mod.
 ## Who is Luo Tianyi?
 - Luo Tianyi is the world's first Chinese-language virtual singer, who made her debut on July 12, 2012, and has been loved by her fans for her cute image, beautiful voice, and diverse musical styles and creative ecology. Her classic works include “Ordinary Disco”, “Dara Bash Bar”, “Light Chaser”, etc., which make Luo Tianyi establish her status as the benchmark of Chinese virtual singers. Luo Tianyi's fans call themselves “Jin Yi Wei”, and Luo Tianyi's support color is #66CCFF (RGB).
 # How to load this resourcepack?
