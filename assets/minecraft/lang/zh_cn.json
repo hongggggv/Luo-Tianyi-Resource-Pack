@@ -232,7 +232,7 @@
   "soundCategory.player": "锦依卫",
   "chat.type.admin": "[%s: %s]",
   "chat.type.advancement.challenge": "%s完成了挑战%sBiu~",
-  "chat.type.advancement.goal": "%s达成了目标%s ~",
+  "chat.type.advancement.goal": "%s达成了目标%sBiu~",
   "chat.type.advancement.task": "%s达成了进度%sBiu~",
   "chat.type.announcement": "[%s] %s",
   "chat.type.emote": "* %s %s",
