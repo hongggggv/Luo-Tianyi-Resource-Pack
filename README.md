@@ -1,13 +1,16 @@
 # 这是什么？
 - 洛天依资源包是一个可以美化Minecraft1.20.x和1.21.x版本的以洛天依为主题的资源包，这个资源包修改的部分从死亡提示到游戏界面，囊括Minecraft的相当一部分文案。但为了保持Minecraft原版的体验，大部分原版内容得以保留。其由洛天依的爱好者共同发展，旨在实现洛天依与其他领域的联动，因此本资源包可能也是Minecraft圈子内的第一个洛天依资源包。
+- [天依亲手特调的客户端，基于1.21 Fabric](https://45blcg-my.sharepoint.com/:u:/g/personal/luotianyi_45blcg_onmicrosoft_com/EfvDy_CPDsxDrC0dKh2F8gUBKSuMcYsSkQz_L63cn6VAng?e=QzwAL0)，内部资源包版本为712w09a版本，可能不是最新的，需手动下载更新
+- 由于Modrinth不支持上传mcpack文件，基岩版版本请下载后手动将扩展名改为mcpack格式
+- 想参与开发的欢迎加入开发群，群号78940594
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的Minecraft更有意思！
 - 相当一部分成就描述与部分字幕修改，体会中文语境下的幽默风趣！
 - 你也想体会变成“落水天依”的感觉吗？你也想发现手里的三叉戟变成叉子挥舞吗？
 - 你也想体验712条超多闪烁标语的搭配吗？
 - 那就来试一试吧！
-- 资源包里内置一些洛天依的背景音乐，可使用“Reactive Music”这个模组加载。
-![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
+- 资源包里内置一些洛天依的背景音乐，可使用“Reactive Music”这个模组加载。（将来的版本将不再依赖这个模组，原版客户端就能加载）
+- ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
   ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/39d99d4f10c70cc7fe53a5faf35202dd8defcea8.png)
 - 更多画面详见[Gallery](https://modrinth.com/resourcepack/luo-tianyi-resource-pack/gallery)标签页。
 - More images are detailed in the [Gallery](https://modrinth.com/resourcepack/luo-tianyi-resource-pack/gallery) tab.
@@ -28,7 +31,9 @@
 - A:不好意思，这个暂时没有哦，洛天依的绝大部分歌曲都是中文演唱，目前只有在中文语境下才能体验到完整内容。
 - Q5.支持的游戏版本？
 - A:目前支持1.20.x和1.21.x版本。
-### **注：本资源包由洛天依粉丝创建，与洛天依任何官方无关。所有内容均出于对角色和社区的热爱和尊重。**
+# 作者寄语
+- 本资源包专为锦依卫准备！它包括各种自定义被修改的资源，如闪烁标语、文本和声音（如果您安装了 Reactive Music），其灵感均来自洛天依。无论您是新锦依卫还是老锦依卫，这个资源包都将以独特的视觉效果提升您的游戏体验。所有资源都经过精心制作，以确保与游戏的兼容性和无缝集成。在您喜爱的游戏中尽情探索生机勃勃的洛天依世界吧！
+### **注：本资源包由洛天依粉丝创建，与洛天依任何官方无关。所有内容均出于对角色和社区的热爱和尊重。部分文案改编自[沙雕翻译包](https://modrinth.com/resourcepack/stupid-mc-translate-chn)，如有侵权请联系我修改或删除**
 # English version
 # What is this?
 - The Luo Tianyi Resource Pack is a Luo Tianyi-themed resource pack that beautifies Minecraft version 1.20.x and 1.21.x. This resource pack modifies parts of Minecraft from death prompts to the game interface, encompassing a significant portion of Minecraft's text. However, most of the original content has been retained in order to maintain the original Minecraft experience. It was developed by LotR enthusiasts with the aim of linking Luo Tianyi with other areas, so this resource pack may also be the first LotR resource pack within the Minrcraft circle.
