@@ -16,7 +16,7 @@ body:
   - type: textarea
     attributes:
       label: 问题描述
-      description: 清晰说明 Bug 现象
+      placeholder: 清晰说明 Bug 现象
     validations:
       required: true
 
@@ -24,7 +24,7 @@ body:
   - type: dropdown
     attributes:
       label: 平台版本
-      description: Minecraft 平台
+      placeholder: Minecraft 平台
       options:
         - "Java 版"
         - "基岩版"
@@ -34,7 +34,7 @@ body:
   - type: textarea
     attributes:
       label: 游戏版本
-      description: 你的Minecraft版本，Java通常位于左下角，基岩版通常位于右下角
+      placeholder: 你的Minecraft版本，Java通常位于左下角，基岩版通常位于右下角
     validations:
       required: true
 
