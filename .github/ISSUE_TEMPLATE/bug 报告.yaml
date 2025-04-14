@@ -1,0 +1,45 @@
+name: "🐛 Bug 反馈"
+description: 错别字、无法生效、冲突
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: checkboxes
+    attributes:
+      label: 必填确认项
+      description: 提交前请确认以下内容
+      options:
+        - label: "我已搜索现有 Issue，未找到相同问题"
+          required: true
+        - label: "此问题在项目最新版本中仍可复现"
+          required: true
+
+  - type: textarea
+    attributes:
+      label: 问题描述
+      description: 清晰说明 Bug 现象
+    validations:
+      required: true
+
+  # 新增平台版本选择字段（必填）
+  - type: dropdown
+    attributes:
+      label: 平台版本
+      description: Minecraft 平台
+      options:
+        - "Java 版"
+        - "基岩版"
+    validations:
+      required: true  # 强制用户必须选择
+
+  - type: textarea
+    attributes:
+      label: 游戏版本
+      description: 你的Minecraft版本，Java通常位于左下角，基岩版通常位于右下角
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 附加信息
+      optional: true
+      placeholder: "截图、日志等"
