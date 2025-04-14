@@ -7,7 +7,7 @@ assignees: hongggggv
 
 ---
 
-- [x] 我在Issues页面搜索不到我想要反馈的bug
+- [ ] 我在Issues页面搜索不到我想要反馈的bug
 
 **To Reproduce**
 Steps to reproduce the behavior:
