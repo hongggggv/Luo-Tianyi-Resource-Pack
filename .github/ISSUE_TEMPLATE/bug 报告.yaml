@@ -1,6 +1,6 @@
 name: "🐛 Bug 反馈"
 description: 错别字、无法生效、冲突
-title: "[BUG] "
+title: "[Bug] "
 labels: [bug]
 body:
   - type: checkboxes
