@@ -41,5 +41,4 @@ body:
   - type: textarea
     attributes:
       label: 附加信息
-      optional: true
       placeholder: "截图、日志等"
