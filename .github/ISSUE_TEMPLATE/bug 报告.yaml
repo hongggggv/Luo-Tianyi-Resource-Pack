@@ -23,8 +23,7 @@ body:
   # 新增平台版本选择字段（必填）
   - type: dropdown
     attributes:
-      label: 平台版本
-      placeholder: "Minecraft 平台"
+      label: Minecraft 平台
       options:
         - "Java 版"
         - "基岩版"
