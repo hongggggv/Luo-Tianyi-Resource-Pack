@@ -1,6 +1,6 @@
-name: "建议"
+name: "建议 "
 description: 一些好的建议都可以留下！
-title: "[Bug] "
+title: "[建议] "
 labels: [可用于改善]
 body:
   - type: checkboxes
