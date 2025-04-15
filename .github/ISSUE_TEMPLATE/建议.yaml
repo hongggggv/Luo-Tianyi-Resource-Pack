@@ -29,6 +29,7 @@ body:
     attributes:
       label: Minecraft 平台
       options:
+        - "请选择"
         - "Java 版"
         - "基岩版"
     validations:
