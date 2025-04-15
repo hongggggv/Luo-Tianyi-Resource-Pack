@@ -37,7 +37,7 @@ body:
   - type: textarea
     attributes:
       label: 游戏版本
-      placeholder: "你的Minecraft版本，Java通常位于左下角，基岩版通常位于右下角"
+      placeholder: "你的Minecraft版本，Java通常位于标题屏幕左下角，基岩版通常位于主菜单右下角"
     validations:
       required: true
 
