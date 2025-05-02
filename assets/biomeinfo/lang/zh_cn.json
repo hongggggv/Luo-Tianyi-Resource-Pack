@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.biomeinfo.option.color": "文本颜色",
+    "text.autoconfig.biomeinfo.option.displayTime": "显示时间",
+    "text.autoconfig.biomeinfo.option.enabled": "启用",
+    "text.autoconfig.biomeinfo.option.fadeIn": "淡入",
+    "text.autoconfig.biomeinfo.option.fadeOut": "淡出",
+    "text.autoconfig.biomeinfo.option.hideOnDebugScreen": "在调试屏幕上隐藏文本（F3）",
+    "text.autoconfig.biomeinfo.option.posX": "文本横向位置",
+    "text.autoconfig.biomeinfo.option.posY": "文本纵向位置",
+    "text.autoconfig.biomeinfo.option.scale": "文本缩放",
+    "text.autoconfig.biomeinfo.option.textAlignment": "文字排列",
+    "text.autoconfig.biomeinfo.option.textShadow": "文本阴影",
+    "text.autoconfig.biomeinfo.title": "生物群系信息设置"
+}

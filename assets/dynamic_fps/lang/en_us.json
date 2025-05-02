@@ -1,0 +1,16 @@
+{
+    "config.dynamic_fps.category.abandoned": "闲置",
+    "config.dynamic_fps.disabled": "已禁用",
+    "config.dynamic_fps.enabled": "启用",
+    "config.dynamic_fps.graphics_state_default": "默认",
+    "config.dynamic_fps.graphics_state_minimal": "最小化",
+    "config.dynamic_fps.graphics_state_minimal_tooltip": "最小的图形会导致世界重新加载！",
+    "config.dynamic_fps.graphics_state_reduced": "降低",
+    "config.dynamic_fps.idle_time": "闲置时间",
+    "config.dynamic_fps.idle_time_tooltip": "当游戏正在运行时，没有输入操作的分钟数，直到Dynamic FPS激活闲置状态。",
+    "config.dynamic_fps.minutes": "%d 分钟",
+    "config.dynamic_fps.run_garbage_collector_tooltip": "在切换到此状态时释放未使用的内存",
+    "config.dynamic_fps.show_toasts_tooltip": "是否保持显示或延迟提示通知",
+    "config.dynamic_fps.uncap_menu_frame_rate": "解除菜单FPS限制",
+    "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "去除主菜单的60帧每秒限制。"
+}

@@ -1,0 +1,4 @@
+{
+    "sodium-extra.overlay.coordinates": "横坐标：%s， 纵坐标：%s， 纵深坐标：%s",
+    "sodium-extra.overlay.fps": "%s 帧每秒"
+}

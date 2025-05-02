@@ -1,0 +1,19 @@
+{
+    "text.skinlayers.basevoxelsize.tooltip": "用于玩家的体素大小",
+    "text.skinlayers.bodyvoxelheightsize.tooltip": "用于玩家身体的体素高度（用于防止插入头部/伸出手臂）",
+    "text.skinlayers.bodyvoxelwidthsize.tooltip": "用于玩家躯干的体素宽度（用于防止插入手臂）",
+    "text.skinlayers.enable.hat.tooltip": "将玩家的帽子层渲染为3D模型",
+    "text.skinlayers.enable.jacket.tooltip": "将玩家的夹克层渲染为3D模型",
+    "text.skinlayers.enable.leftpants.tooltip": "将玩家的左裤腿层渲染为3D模型",
+    "text.skinlayers.enable.leftsleeve.tooltip": "将玩家的左袖层渲染为3D模型",
+    "text.skinlayers.enable.rightpants.tooltip": "将玩家的右裤腿层渲染为3D模型",
+    "text.skinlayers.enable.rightsleeve.tooltip": "将玩家的右袖层渲染为3D模型",
+    "text.skinlayers.fastrender.enable.tooltip": "尽可能快地渲染3D模型，这可能会导致透明度出现一些图形故障",
+    "text.skinlayers.firstperson.voxelsize": "第一人称体素大小",
+    "text.skinlayers.firstperson.voxelsize.tooltip": "用于第一人称玩家手部的体素大小",
+    "text.skinlayers.headvoxelsize.tooltip": "用于玩家头部的体素大小",
+    "text.skinlayers.renderdistancelod.tooltip": "模型切换到较低细节层次的距离（原版2D）",
+    "text.skinlayers.skulls.enable.tooltip": "将玩家头部（方块）渲染为3D模型",
+    "text.skinlayers.skulls.voxelsize.tooltip": "用于玩家头部（方块/物品）的体素大小",
+    "text.skinlayers.skullsitems.enable.tooltip": "将玩家头部（物品）渲染为3D模型"
+}

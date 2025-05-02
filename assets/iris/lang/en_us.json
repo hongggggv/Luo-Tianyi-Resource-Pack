@@ -1,0 +1,9 @@
+{
+    "iris.keybind.wireframe": "线框仅限单人模式",
+    "iris.keybinds": "奥库卢斯",
+    "iris.load.failure.generic": "Iris 在尝试加载着色器时遇到了问题；请向 Iris 开发者报告此问题。",
+    "iris.load.failure.shader": "着色器包加载失败！请将错误报告给着色器开发者。",
+    "iris.unsupported.iris": "奥库卢斯不支持",
+    "options.iris.colorSpace": "颜色空间",
+    "options.iris.colorSpace.sodium_tooltip": "将屏幕转换为的颜色空间。在着色器包上工作。如果不确定，请使用SRGB。"
+}

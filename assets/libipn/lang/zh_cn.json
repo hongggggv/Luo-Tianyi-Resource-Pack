@@ -1,0 +1,11 @@
+{
+    "libipn.common.enum.context.gui": "界面",
+    "libipn.common.gui.config.color_picker_dialog": "选择颜色",
+    "libipn.common.gui.config.colorpicker.alpha": "透明度",
+    "libipn.common.gui.config.colorpicker.blue": "蓝色",
+    "libipn.common.gui.config.colorpicker.green": "绿色",
+    "libipn.common.gui.config.colorpicker.red": "红色",
+    "libipn.common.gui.config.description.settings_screen.search-box": "仅显示与搜索框中的搜索词匹配的选项。",
+    "libipn.common.gui.config.modifier_key": "控制键/交替键/换挡键",
+    "libipn.common.gui.config.settings_screen.search-box": "搜索"
+}

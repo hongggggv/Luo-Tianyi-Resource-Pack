@@ -1,0 +1,21 @@
+{
+    "entity_model_features.config.debug_right_click": "右键点击实体时显示 EMF 调试数据",
+    "entity_model_features.config.debug_right_click.tooltip": "如果启用，当右键点击实体时会在日志和聊天中显示 EMF 调试信息。",
+    "entity_model_features.config.ebe_config_modify": "增强方块实体 (EBE) 模组补丁",
+    "entity_model_features.config.ebe_config_modify.tooltip": "启用时，EMF 可以修改 EBE 模组的设置\n如果某个方块实体实际上有自定义的 EMF 模型\nEMF 将禁用该方块实体的 EBE 模组设置\nEMF 无法自动重新启用这些设置，如果需要必须手动设置。",
+    "entity_model_features.config.lod": "动画 LOD 距离",
+    "entity_model_features.config.lod.tooltip": "设置动画开始跳帧的距离，降低 LOD 等级可以提高性能\n无 = 不跳帧\n16 = 离玩家每 16 个方块距离跳一次帧\n较小的数字表示更多的跳帧和更高的性能提升\n但是帧率会变得更低，距离 LOD 距离越近，跳帧越明显",
+    "entity_model_features.config.low_fps_lod": "低帧率保留LOD",
+    "entity_model_features.config.low_fps_lod.tooltip": "如果启用，这将根据您的fps减少上述设置的LOD影响。\n仅在低于60 fps时适用，因为在低fps下跳帧变得越来越明显。",
+    "entity_model_features.config.print_mode": "模型导出设置",
+    "entity_model_features.config.print_mode.all_log": "全部模型 - 仅记录日志",
+    "entity_model_features.config.print_mode.all_log_jem": "全部模型 - 记录日志并保存 .jem 文件",
+    "entity_model_features.config.print_mode.log": "未知模型 - 仅记录日志",
+    "entity_model_features.config.print_mode.log_jem": "未知模型 - 日志和.jem",
+    "entity_model_features.config.print_mode.tooltip": "此选项将打印出 EMF 可访问的所有模型的部分信息或完整的 .jem 文件\n重载后，.jem 文件可以在  “MC_DIRECTORY/emf/export “ 中找到\n这些 .jem 文件可以直接用于 Blockbench，包含正确的旋转点、盒子和 UV\n未知模型指的是 OptiFine CEM 不支持的模型",
+    "entity_model_features.config.render.lines_texture": "线框模式并覆盖贴图",
+    "entity_model_features.config.render.lines_texture_flash": "闪烁的线框模式并覆盖贴图",
+    "entity_model_features.config.update": "模型更新频率",
+    "entity_model_features.config.update.tooltip": "设置生物模型更新的频率\n如健康和年龄等变化\n从不 = 从不更新\n慢 = 3-5秒\n普通 = 约1秒\n快 = 少于1秒\n即时 = 瞬间更新（可能造成大量生物时的卡顿）",
+    "entity_model_features.title": "实体模型功能"
+}

@@ -1,0 +1,116 @@
+{
+    "config.dynamic_fps.title": "Dynamic FPS 动态帧率配置",
+
+    "config.dynamic_fps.warn_cloth_config.0": "需要 Cloth Config 才能在 Minecraft 内设置 Dynamic FPS。",
+    "config.dynamic_fps.warn_cloth_config.1": "安裝 Cloth Config、编辑配置文件，或是使用默认设置。",
+
+    "config.dynamic_fps.category.general": "通用",
+    "config.dynamic_fps.category.advanced": "高级设置",
+
+    "config.dynamic_fps.category.hovered": "悬停",
+    "config.dynamic_fps.category.unfocused": "失焦",
+    "config.dynamic_fps.category.invisible": "不可见",
+    "config.dynamic_fps.category.unplugged": "电池供电时",
+    "config.dynamic_fps.category.abandoned": "闲置时",
+
+    "config.dynamic_fps.feature.misc": "杂项",
+    "config.dynamic_fps.feature.idle": "闲置",
+    "config.dynamic_fps.feature.volume_transition": "音量过度",
+    "config.dynamic_fps.feature.battery": "电池综合设置",
+
+
+    "config.dynamic_fps.enabled": "启用",
+
+    "config.dynamic_fps.disabled": "停用",
+    "config.dynamic_fps.minutes": "%d 分钟",
+
+    "config.dynamic_fps.idle_time": "闲置时间",
+    "config.dynamic_fps.idle_time_tooltip": "在游戏聚焦时，几分钟无操作后 Dynamic FPS 会启用闲置状态。",
+
+    "config.dynamic_fps.idle_condition": "闲置条件",
+
+    "config.dynamic_fps.idle_condition_none": "无",
+    "config.dynamic_fps.idle_condition_vanilla": "原版",
+    "config.dynamic_fps.idle_condition_on_battery": "供电模式",
+
+    "config.dynamic_fps.idle_condition_none_tooltip": "闲置过久时一律启用闲置状态。",
+    "config.dynamic_fps.idle_condition_vanilla_tooltip": "停用 Dynamic FPS 闲置。改用原版设置。",
+    "config.dynamic_fps.idle_condition_on_battery_tooltip": "闲置过久且使用电池供电时启用闲置状态。",
+
+    "config.dynamic_fps.uncap_menu_frame_rate": "移除菜单 FPS 限制",
+    "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "移除主菜单的 60 FPS 限制。",
+
+    "config.dynamic_fps.ignore_initial_click": "忽略初始点击",
+    "config.dynamic_fps.ignore_initial_click_tooltip": "当点击非聚焦游戏窗口时，忽略意外输入",
+    "config.dynamic_fps.ignore_initial_click_disabled": "禁用",    
+    "config.dynamic_fps.ignore_initial_click_in_world": "在共鸣地中",    
+    "config.dynamic_fps.ignore_initial_click_constant": "持续启用",
+
+    "config.dynamic_fps.battery_tracker": "电池追踪",
+    "config.dynamic_fps.battery_tracker_tooltip": "开启或关闭所有与电池相关的功能。",
+
+    "config.dynamic_fps.battery_tracker_switch_states": "启用电池供电状态",
+    "config.dynamic_fps.battery_tracker_switch_states_tooltip": "在电池供电时自动启用电池供电状态。",
+
+    "config.dynamic_fps.battery_tracker_notifications": "电池通知",
+    "config.dynamic_fps.battery_tracker_notifications_tooltip": "接收有关电池供电状态的游戏内通知。",
+    
+    "config.dynamic_fps.battery_critical_level": "最低电量设置",
+    "config.dynamic_fps.battery_critical_level_tooltip": "设置最低电量",
+
+    "config.dynamic_fps.battery_indicator_condition": "电池指示条件",
+    "config.dynamic_fps.battery_indicator_condition_disabled": "已停用",
+    "config.dynamic_fps.battery_indicator_condition_draining": "电池供电时",
+    "config.dynamic_fps.battery_indicator_condition_critical": "少于 10%",
+    "config.dynamic_fps.battery_indicator_condition_constant": "持续显示",
+
+    "config.dynamic_fps.battery_indicator_placement": "指示器位置",
+    "config.dynamic_fps.battery_indicator_placement_top_left": "左上方",
+    "config.dynamic_fps.battery_indicator_placement_top_right": "右上方",
+    "config.dynamic_fps.battery_indicator_placement_bottom_left": "左下方",
+    "config.dynamic_fps.battery_indicator_placement_bottom_right": "右下方",
+
+    "config.dynamic_fps.volume_transition_speed_up": "音量上升过度速度",
+    "config.dynamic_fps.volume_transition_speed_down": "音量下降过度速度",
+    "config.dynamic_fps.volume_transition_speed_instant": "立即",
+    "config.dynamic_fps.volume_transition_speed_tooltip": "设置每秒调整游戏音量的速度。",
+
+    "config.dynamic_fps.frame_rate_target": "帧率限制值",
+    "config.dynamic_fps.volume_multiplier": "音量设置",
+
+    "config.dynamic_fps.graphics_state": "图形选项",
+    "config.dynamic_fps.graphics_state_default": "默认",
+    "config.dynamic_fps.graphics_state_reduced": "减少",
+    "config.dynamic_fps.graphics_state_minimal": "最低",
+    "config.dynamic_fps.graphics_state_minimal_tooltip": "最低图形会重新加载世界！",
+
+    "config.dynamic_fps.show_toasts": "显示提示",
+    "config.dynamic_fps.show_toasts_tooltip": "是否持续显示或延迟显示通知",
+
+    "config.dynamic_fps.download_natives": "下载电池组件",
+    "config.dynamic_fps.download_natives_description_0": "使用电池功能需要额外的组件。",
+    "config.dynamic_fps.download_natives_description_1": "设置模组是否可以自动下载额外的组件。",
+
+    "config.dynamic_fps.mock_battery_data": "使用模拟电池数据",
+
+    "key.dynamic_fps.toggle_forced": "强制限制帧率",
+    "key.dynamic_fps.toggle_disabled": "禁用帧率限制",
+    "gui.dynamic_fps.hud.reducing": "Dynamic FPS: 已限制帧率",
+    "gui.dynamic_fps.hud.disabled": "Dynamic FPS 已禁用",
+
+    "toast.dynamic_fps.error": "Dynamic FPS 电池功能出现错误",
+    "toast.dynamic_fps.no_support": "无法读取电池数据",
+    "toast.dynamic_fps.no_library": "额外组件下载已停用",
+
+    "toast.dynamic_fps.battery_charging": "正在充电！",
+    "toast.dynamic_fps.battery_draining": "正在放电！",
+    "toast.dynamic_fps.battery_critical": "电池电量不足！",
+
+    "toast.dynamic_fps.battery_charge": "目前电量为 %d%%",
+
+    "config.dynamic_fps.frame_rate_target_description": "设置帧率限制值为 -1 以禁用帧率限制。",
+    
+    "config.dynamic_fps.run_garbage_collector": "运行内存回收器",
+
+    "modmenu.descriptionTranslation.dynamic_fps": "动态限制游戏帧率，使Minecraft处于后台时占用更少的资源。"
+}

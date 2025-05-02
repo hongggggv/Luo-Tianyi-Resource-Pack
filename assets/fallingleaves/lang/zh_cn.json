@@ -1,0 +1,4 @@
+{
+    "config.fallingleaves.spawn_breaking_leaves": "当这个方块被打击或腐烂时，是否掉落一些树叶？",
+    "text.autoconfig.fallingleaves.title": "飘落的树叶"
+}

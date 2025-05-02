@@ -1,0 +1,8 @@
+{
+    "modifier.cloth-config.alt": "按下Alt + %s",
+    "modifier.cloth-config.ctrl": "按下Ctrl + %s",
+    "modifier.cloth-config.shift": "按住Shift键 + %s",
+    "text.cloth-config.disabled_tooltip": "已禁用（未满足要求）",
+    "text.cloth-config.testing.2": "布料模组配置维基",
+    "title.cloth-config.config": "布料模组配置"
+}

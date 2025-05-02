@@ -1,0 +1,6 @@
+{
+    "modmenu.descriptionTranslation.firstperson": "启用第一人称时的第三人称模型",
+    "modmenu.summaryTranslation.firstperson": "启用第一人称时的第三人称模型",
+    "text.firstperson.option.firstperson.renderStuckFeatures": "渲染箭矢与蜇刺",
+    "text.firstperson.option.firstperson.renderStuckFeatures.tooltip": "在第一人称视角中显示箭矢、蜜蜂蜇刺或其他模组功能"
+}

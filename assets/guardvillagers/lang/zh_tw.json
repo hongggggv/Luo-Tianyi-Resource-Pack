@@ -1,0 +1,75 @@
+{
+  "entity.guardvillagers.guard": "警卫村民",
+
+  "item.guardvillagers.guard_spawn_egg": "警卫村民刷怪蛋",
+
+  "guardinventory.health": "生命值：%s",
+
+  "guardinventory.armor": "护甲：%s",
+
+  "guardvillagers.midnightconfig.title":"警卫村民配置",
+
+  "guardvillagers.midnightconfig.reputationRequirementToBeAttacked":"被袭击需要的声望要求",
+
+  "guardvillagers.midnightconfig.reputationRequirement":"声望要求",
+  
+  "guardvillagers.midnightconfig.guardEntitysRunFromPolarBears":"警卫村民害怕北极熊",
+  
+  "guardvillagers.midnightconfig.guardEntitysOpenDoors":"警卫村民开门",
+  
+  "guardvillagers.midnightconfig.guardEntityFormation":"警卫村民编队",
+
+  "guardvillagers.midnightconfig.clericHealing": "牧师治疗",
+
+  "guardvillagers.midnightconfig.armorerRepairGuardEntityArmor":"铁匠修复警卫村民盔甲",
+
+  "guardvillagers.midnightconfig.attackAllMobs": "警卫村民攻击所有生物",
+
+  "guardvillagers.midnightconfig.guardAlwaysShield": "警卫村民始终使用盾牌",
+
+  "guardvillagers.midnightconfig.friendlyFire": "友军伤害",
+
+  "guardvillagers.midnightconfig.mobBlackList":"黑名单",
+
+  "guardvillagers.midnightconfig.amountOfHealthRegenerated": "警卫村民恢复生命值",
+
+  "guardvillagers.midnightconfig.followHero":"跟随村庄英雄",
+
+  "guardvillagers.midnightconfig.healthModifier":"生命值修正",
+  
+  "guardvillagers.midnightconfig.speedModifier":"速度修正",
+  
+  "guardvillagers.midnightconfig.followRangeModifier":"跟随范围修正",
+
+  "guardvillagers.midnightconfig.giveGuardStuffHotv": "需要村庄英雄才能给予警卫村民物品",
+
+  "guardvillagers.midnightconfig.setGuardPatrolHotv": "需要村庄英雄才能设置警卫村民巡逻",
+
+  "guardvillagers.midnightconfig.chanceToDropEquipment":"掉落装备的几率",
+
+  "guardvillagers.midnightconfig.useSteveModel": "使用史蒂夫模型",
+
+  "guardvillagers.midnightconfig.raidAnimals": "掠夺者会攻击动物",
+
+  "guardvillagers.midnightconfig.witchesVillager": "女巫会攻击村民",
+
+  "guardvillagers.midnightconfig.blackSmithHealing": "铁匠会治疗铁傀儡",
+
+  "guardvillagers.midnightconfig.armorerRepairGuardArmor": "铁匠修复警卫村民护甲",
+
+  "guardvillagers.midnightconfig.convertVillagerIfHaveHotv": "需要村庄英雄才能转化村民",
+
+  "guardvillagers.midnightconfig.guardVillagerHelpRange": "警卫村民帮助范围",
+
+  "guardvillagers.midnightconfig.illagersRunFromPolarBears":"灾厄村民害怕北极熊",
+
+  "guardvillagers.midnightconfig.villagersRunFromPolarBears":"村民害怕北极熊",
+
+  "guardvillagers.midnightconfig.guardArrowsHurtVillagers": "警卫村民箭矢伤害村民",
+
+  "subtitles.entity.guard.ambient": "警卫：喃喃自语",
+
+  "subtitles.entity.guard.hurt": "警卫：受伤",
+  
+  "subtitles.entity.guard.death": "警卫：死亡"
+}

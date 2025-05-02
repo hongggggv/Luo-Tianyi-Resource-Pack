@@ -1,0 +1,11 @@
+{
+    "option.ebe.decorated_pot_ao": "平滑装饰罐光照",
+    "option.ebe.decorated_pot_ao.comment": "允许装饰罐使用平滑光照和环境遮蔽。要求启用增强装饰罐渲染。",
+    "option.ebe.force_resource_pack_compat": "强制资源包兼容性",
+    "option.ebe.force_resource_pack_compat.comment": "如果使用资源包时方块不可见，请启用此选项。不要与为此mod设计的资源包一起使用。如果问题仍然存在，请报告。",
+    "option.ebe.render_enhanced_decorated_pots": "增强装饰罐渲染",
+    "option.ebe.render_enhanced_decorated_pots.comment": "启用烘焙装饰罐模型，大大提高了拥有大量装饰罐区域的性能。还可以从远处看到装饰罐。如果装饰罐看起来不可见，或者modded陶瓷图案无法正常工作，请禁用。",
+    "text.ebe.advanced": "高级",
+    "text.ebe.decorated_pot_options": "装饰罐选项",
+    "text.ebe.option_value_division": "：分割"
+}
