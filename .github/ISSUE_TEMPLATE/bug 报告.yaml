@@ -8,7 +8,7 @@ body:
       label: 必填确认项
       description: 提交前请确认以下内容
       options:
-        - label: "我已搜索现有 Issue，未找到相同问题"
+        - label: "我已搜索现有Issue，未找到相同问题"
           required: true
         - label: "此问题在项目最新版本中仍可复现"
           required: true
