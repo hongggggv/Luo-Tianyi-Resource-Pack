@@ -1,0 +1,602 @@
+{
+    "music.menu": {
+    "category": "music",
+    "sounds": [
+        {
+            "name": "sounds/music/menu/Xiyoujiuzhou",
+            "stream": true,
+     
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/zaishengrecallcn",
+            "stream": true,
+        
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/zaishengjp",
+            "stream": true,
+        
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/hudie",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/dazaiqianyuan",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/chaoshenghuixiang",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/youyigeyewan",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/zuiwanmeidexiatian",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/qianjinlongmeng",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/guangyuying",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/xiachong",
+            "stream": true,
+            
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/lianaise",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/66ccff",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/yiban",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/gouzhi",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/wanfen",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/yihuayi",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/cike",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/juguang",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/xinyin",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/txw",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/gxsf",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/ymqx",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/syy",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/sanyueyure",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/mono",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/wwyl",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/xttb",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/qytx",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/ilt",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/wgsx",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/bkrj",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/dkqb",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/jij",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/tsdf",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/xszy",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/qgx",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/tszw",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/djbtr",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/ps",
+            "stream": true,
+             
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/db",
+            "stream": true,
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/ilu",
+            "stream": true,
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/qnsps",
+            "stream": true,
+            "load_on_low_memory": true
+        },
+        {
+            "name": "sounds/music/menu/zgsz",
+            "stream": true,
+            "load_on_low_memory": true
+        }
+    ]
+    },
+        "random.click" :{
+            "sounds":[
+                {
+                   "name": "sounds/random/click",
+                    "stream": true,
+                    "volume": 0.6,
+                    "load_on_low_memory": true 
+                }
+            ]
+        },
+        "music.game":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/hudiepiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/guangyuyinpiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/youyigeyewanpiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/lianaisep",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/yibanp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/wanfenp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/zuiwanmeip",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/cikep",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/zaishengp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xiyoup",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/66ccffp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/gxsfp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/ymqxp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/syyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/djbtrp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/yhyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xcp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "music.game.water":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/chaoshengp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "music.game.end":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/ssg",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name": "sounds/music/menu/bytz",
+                    "stream": true,
+                    "load_on_low_memory": true
+                }
+            ]
+        },
+        "music.game.endboss":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/dala",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "music.game.nether":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/jtjmp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "music.game.credits":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/weichang",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "music.game.creative":{
+            "category": "music",
+            "sounds":[
+                {
+                    "name":"sounds/music/menu/hudiepiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/guangyuyinpiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/youyigeyewanpiano",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/lianaisep",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/yibanp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/wanfenp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/zuiwanmeip",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/cikep",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/zaishengp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xiyoup",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/66ccffp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/gxsfp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/ymqxp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/syyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/djbtrp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/yhyp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                },
+                {
+                    "name":"sounds/music/menu/xcp",
+                    "stream":true,
+                     
+                    "load_on_low_memory":true
+                }
+            ]
+        },
+        "tokens.vanilla.release":
+        {
+            "category":"ui",
+            "sounds":
+            [
+                {
+                    "name":"sounds/random/click",
+                    "volume": 0.6,
+                    "load_on_low_memory":true,
+                    "stream":true
+                }
+            ]
+        },
+        "tokens.vanilla.snes_pop":
+        {
+            "category":"ui",
+            "sounds":
+            [
+                {
+                    "name":"sounds/random/click",
+                    "load_on_low_memory":true,
+                    "volume": 0.6,
+                    "stream":true
+                }
+            ]
+        },
+        "tokens.vanilla.modal_hide":
+        {
+            "category":"ui",
+            "sounds":
+            [
+                {
+                    "name":"sounds/random/click",
+                    "volume": 0.6,
+                    "load_on_low_memory":true,
+                    "stream":true
+                }
+            ]
+        }
+    }

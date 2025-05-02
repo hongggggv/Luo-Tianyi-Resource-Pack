@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description":"让玩MC的你也有天依的陪伴~",
+        "name": "Tianyicraft",
+        "uuid": "8a0838ed-0ed6-4c05-9330-769f1b93ff03",
+        "version": [712,10,3],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "b8e1056d-22c3-4007-bd94-23070dd1a42d",
+            "version": [0, 0, 1]
+        }
+   ]
+}
