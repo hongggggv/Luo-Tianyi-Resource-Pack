@@ -1037,8 +1037,8 @@ commands.give.item.invalid=命令语法无效: 不存在具有该数值的%s	#
 commands.give.item.notFound=没有这种 %1$d 名字的物品	#
 commands.give.map.invalidData=提供的地图数据无效	#
 commands.give.map.featureNotFound=无法制作探险地图。在此维度上找不到特征	#
-commands.give.success=给予 %3$s%1$s* %2$d 效果	#
-commands.give.successRecipient=你已被给予%1$s* %2$d	#
+commands.give.success=天依将%2$d个名为%1$s的小礼物送给%3$s啦~
+commands.give.successRecipient=你伸出手，被天依给予了%2$d个%1$s
 commands.give.tagError=数据标签解析失败：%1$s	#
 commands.hasitem.fail.invalidData=“数据”有无效输入，必须为整数。	#
 commands.hasitem.fail.invalidQuantity=“数量”有无效输入，必须为整数或一系列整数。	#
@@ -1082,10 +1082,10 @@ commands.itemswithtag.fail.noitemsfound=项目均未包含标记%s。	#
 commands.kick.description=从服务器踢出一名锦依卫。	#
 commands.kick.description.edu=会从游戏中移除一位锦依卫。	#
 commands.kick.no.player=请提供你想要踢出的锦依卫的名称	#
-commands.kick.not.found=无法找到锦依卫%1$s	#
+commands.kick.not.found=天依找不着锦依卫%1$s啦！qwq
 commands.kick.not.yourself=天依不能把你踢掉哦~天依很黑凤梨的~	#
 commands.kick.success=已将%1$s踢出游戏	#
-commands.kick.success.reason=已将%1$s踢出游戏：'%2$s'	#
+commands.kick.success.reason=已将%1$s踢出游戏：%2$s
 commands.kick.success.reasonedu=已将%1$s移除出游戏：'%2$s'	#
 commands.kick.no.host=天依不能把主办者踢掉哦~除非你卡bug嘻嘻~	#
 commands.kick.no.teacher=天依不能把老师踢掉哦~除非你卡bug嘻嘻~	#
@@ -1151,9 +1151,9 @@ commands.music.success.playAction=%s已加入播放序列。	#
 commands.music.success.stopAction=自定义音乐即将停止。	#
 commands.music.success.volumeAction=音乐音量更新为 %d。	#
 commands.op.description=授予一名锦依卫无限共鸣者状态。	#
-commands.op.failed=无法夺得权限（已夺得或具有更高权限）：%s	#
-commands.op.success=已将%s设为 无限共鸣者	#
-commands.op.message=你已拿下权限	#
+commands.op.failed=啥都莫得发生，%s已经拥有无限共鸣之力惹~
+commands.op.success=现在%s拥有了无限共鸣之力！
+commands.op.message=你现在拥有了无限共鸣之力！
 commands.operator.invalid=操作无效%1$s。	#
 commands.origin.commandblock=天依终端	#
 commands.origin.external=外部	#
@@ -1500,13 +1500,13 @@ commands.tickingarea-list.success.allDimensions=所有维度中的所有常加�
 commands.tickingarea-list.failure.allDimensions=任何维度中都不存在任何常加载区域。	#
 commands.tickingarea-list.to=到		### Used in the context of "from position to other position"
 commands.tickingarea-list.type.circle=圆形	#
-commands.time.added=将时间调快了 %1$d 	#
-commands.time.description=更改或查询共鸣地的游戏时间。	#
-commands.time.disabled=此共鸣地启用了终为白日模式。	#
-commands.time.query.day=日期为 %d	#
-commands.time.query.daytime=白天为 %d	#
-commands.time.query.gametime=游戏时间为 %d	#
-commands.time.set=将时间设为 %1$d	#
+commands.time.added=已将瓦纳海姆时调快了%1$d
+commands.time.description=更改或查询共鸣地的瓦纳海姆时。	#
+commands.time.disabled=此共鸣地启用了“终为白日”。
+commands.time.query.day=当前天数为%d
+commands.time.query.daytime=当前瓦纳海姆时为%d
+commands.time.query.gametime=当前共鸣时间为%d
+commands.time.set=已设置瓦纳海姆时为%1$d
 commands.time.stop=时间%1$s	#
 commands.title.description=控制屏幕标题。	#
 commands.title.success=标题命令执行成功	#
@@ -1517,11 +1517,11 @@ commands.tp.description=传送实体（锦依卫、生物等）。	#
 commands.tp.notSameDimension=无法传送，因为目标锦依卫不存在于同一个维度	#
 commands.tp.outOfWorld=无法传送共鸣地外的实体	#
 commands.tp.permission=你没有使用此斜杠命令的权限。	#
-commands.tp.safeTeleportFail=无法将%1$s传送到 %2$s，因为该区域有障碍。	#
+commands.tp.safeTeleportFail=无法将%1$s传送到%2$s，因为该区域有障碍。	#
 commands.tp.far=无法将%1$s传送到%2$s的未加载区域	#
 commands.tp.success=已让%1$s和%2$s贴贴啦awa~
 commands.tp.successVictim=你走进时空裂缝到了%1$s
-commands.tp.success.coordinates=已让%1$s进入时空裂缝传送至 %2$s, %3$s, %4$s
+commands.tp.success.coordinates=已让%1$s进入时空裂缝传送至%2$s, %3$s, %4$s
 commands.transferserver.description=将锦依卫转移至另一个服务器。	#
 commands.transferserver.successful=已转移的锦依卫	#
 commands.transferserver.invalid.port=无效端口(0-65535)	#
@@ -3271,17 +3271,17 @@ gameTip.placeBlock.touch.crosshair=点击 :tip_virtual_button_action_build_or_us
 
 gameTip.openInventorySurvival.mouse=打开物品栏~LINEBREAK~按下 :_input_key.inventory:		#### {StrContains=~LINEBREAK~}
 gameTip.openInventorySurvival.touch=打开物品栏可查看合成配方	#
-gameTip.openInventorySurvival.controller=按 :_input_key.inventory: 可打开物品栏	#
+gameTip.openInventorySurvival.controller=按:_input_key.inventory:可打开物品栏	#
 
 gameTip.openInventoryCreative.mouse=打开物品栏~LINEBREAK~按下 :_input_key.inventory:		#### {StrContains=~LINEBREAK~}
 gameTip.openInventoryCreative.touch=打开物品栏以查看建造方块	#
-gameTip.openInventoryCreative.controller=按 :_input_key.inventory: 可打开物品栏	#
+gameTip.openInventoryCreative.controller=按:_input_key.inventory:可打开物品栏	#
 
-gameTip.useSneak.mouse=按住 :_input_key.sneak: 以潜行！~LINEBREAK~现在不能从边缘掉下去		#### {StrContains=~LINEBREAK~}
+gameTip.useSneak.mouse=按住:_input_key.sneak:以潜行！~LINEBREAK~按下后将不会从边缘掉下去		#### {StrContains=~LINEBREAK~}
 
-gameTip.sneak.mouse=你正在潜行！现在不能从边缘掉下去	#
-gameTip.sneak.touch=你正在潜行，所以不能从边缘掉下去	#
-gameTip.sneak.controller=你正在潜行，所以不能从边缘掉下去	#
+gameTip.sneak.mouse=你正在潜行！现在不会从边缘掉下去	#
+gameTip.sneak.touch=你正在潜行，所以不会从边缘掉下去	#
+gameTip.sneak.controller=你正在潜行，所以不会从边缘掉下去	#
 
 gameTip.placeCraftingTable.mouse=放置你的工作台。按住工作台并点击进行放置	#
 gameTip.placeCraftingTable.touch=点击地面放置你的工作台	#
@@ -3368,9 +3368,9 @@ gui.minecraftBundle=Minecraft捆绑包	#
 gui.login=登录	#
 gui.logout=登出	#
 gui.next=下一个	#
-gui.no=否	#
+gui.no=不要嘛~
 gui.none=无	#
-gui.ok=确定	#
+gui.ok=彳亍
 gui.store=检查商店	#
 gui.continue=继续	#
 gui.pickWorld=浏览Minecraft中的共鸣地	#
@@ -3382,13 +3382,13 @@ gui.tab=标签	#
 gui.toMenu=回到标题画面	#
 gui.tryAgain=再试一次看看	#
 gui.up=向上	#
-gui.warning.exitGameWarning=是否要退出Minecraft？	#
+gui.warning.exitGameWarning=你确定要和Minecraft与天依说再见了吗？
 gui.worldTemplate=Minecraft共鸣地模板	#
-gui.yes=是	#
+gui.yes=哦是的是的
 gui.feedbackYes=是的，前往反馈网站	#
 gui.resourcepacks=资源包…	#
 gui.submit=提交	#
-gui.submitRating=正在提交评分	#
+gui.submitRating=提交评分
 gui.submitFeedback.button.text=发送反馈	#
 gui.submitFeedback.text=向创作者发送反馈	#
 gui.submitFeedback.body.text=写下任何反馈意见，并将其直接发送给创作者。你的信息不会被发布到周边商城，且创作者将无法回复。	#
@@ -5903,25 +5903,25 @@ key.toggleLivingroom=切换沉浸模式	#
 key.toggleRenderer=切换渲染器	#
 
 keyboard.keyName.backspace=Backspace
-keyboard.keyName.tab=TAB	#
+keyboard.keyName.tab=Tab
 keyboard.keyName.return=Return
-keyboard.keyName.pause=暂停	#
+keyboard.keyName.pause=Pause
 keyboard.keyName.lshift=Shift
-keyboard.keyName.control=控制	#
-keyboard.keyName.alt=替代	#
+keyboard.keyName.control=Ctrl
+keyboard.keyName.alt=Alt
 keyboard.keyName.capsLock=Caps Lock
 keyboard.keyName.escape=Esc
 keyboard.keyName.space=空格	#
 keyboard.keyName.pgDown=Page Down
-keyboard.keyName.pgUp=PAGE Down
-keyboard.keyName.end=结束	#
-keyboard.keyName.home=首页	#
+keyboard.keyName.pgUp=Page Down
+keyboard.keyName.end=End
+keyboard.keyName.home=Home
 keyboard.keyName.left=左	#
 keyboard.keyName.up=上	#
 keyboard.keyName.right=右	#
 keyboard.keyName.down=下	#
-keyboard.keyName.insert=插入	#
-keyboard.keyName.delete=删除	#
+keyboard.keyName.insert=Insert
+keyboard.keyName.delete=Delete
 keyboard.keyName.0=0	#
 keyboard.keyName.1=1	#
 keyboard.keyName.2=2	#
@@ -5982,8 +5982,8 @@ keyboard.keyName.numpad7=小键盘7	#
 keyboard.keyName.numpad8=小键盘8	#
 keyboard.keyName.numpad9=小键盘9	#
 keyboard.keyName.scroll=滚动	#
-keyboard.keyName.equals=等于	#
-keyboard.keyName.add=加	#
+keyboard.keyName.equals=等于
+keyboard.keyName.add=加
 keyboard.keyName.minus=减	#
 keyboard.keyName.subtract=减	#
 keyboard.keyName.multiply=乘	#
@@ -6005,10 +6005,10 @@ keyboard.keyName.tab.short=TAB	#
 keyboard.keyName.return.short=返回	#
 keyboard.keyName.pause.short=暂停	#
 keyboard.keyName.lshift.short=Shift
-keyboard.keyName.control.short=CTRL	#
+keyboard.keyName.control.short=Ctrl
 keyboard.keyName.alt.short=Alt
-keyboard.keyName.capsLock.short=CAPS	#
-keyboard.keyName.escape.short=ESC	#
+keyboard.keyName.capsLock.short=Caps
+keyboard.keyName.escape.short=Esc
 keyboard.keyName.space.short=空格	#
 keyboard.keyName.pgDown.short=PgDn	#
 keyboard.keyName.pgUp.short=PgUp	#
@@ -7535,12 +7535,12 @@ persona.csb.savings=通过订阅歌行周边，你可以节省%s个Minecoin！	#
 persona.preview.emote=播放表情	#
 
 progressScreen.cantConnect=无法连接到共鸣地。请检查你的互联网连接并重试。	#
-progressScreen.generating=正在生成共鸣地	#
+progressScreen.generating=生成共鸣地中......
 progressScreen.saving=保存当前共鸣地钟
-progressScreen.loading=加载中...	#
+progressScreen.loading=加载中...
 progressScreen.title.loading=正在加载%1	#
-progressScreen.title.downloading=正在下载资源包 %1	#
-progressScreen.title.applyingPacks=正在加载资源包	#
+progressScreen.title.downloading=正在下载资源包%1	#
+progressScreen.title.applyingPacks=正在将资源包喂给天依
 progressScreen.title.searchingForSession=正在搜索游戏会话...	#
 progressScreen.title.waitingForStorageProvider=正在同步用户数据	#
 progressScreen.title.connectingLocal=正在启动共鸣地	#
@@ -10783,7 +10783,7 @@ survey.line6=不感兴趣	#
 survey.title=反馈：你为什么没有注册？	#
 ## end of 15.* release branch strings
 
-tips.edu.1=你可以在按住 Shift 的同时用摄像机拍摄近景图片。	#
+tips.edu.1=你可以在按住Shift的同时用摄像机拍摄近景图片。	#
 tips.edu.2=与标志不一样，你可以反复地编辑石板、海报和黑板。	#
 tips.edu.3=使用 Ctrl+B 打开文本转语音功能，来进行游戏内聊天。	#
 tips.edu.4=你可以导出Minecraft的共鸣地与他人共享。	#
@@ -12406,7 +12406,7 @@ hbui.PlayScreen.underConstructionTitle=此功能当前正在建设中	#
 hbui.PlayScreen.underConstructionMessage=前面的功能，以后再来探索吧！	#
 hbui.PlayScreen.underConstructionTitleRealms=云上瓦纳海姆服务在Minecraft Preview中不可用	#
 hbui.PlayScreen.feedbackButton=提供反馈	#
-hbui.PlayScreen.optOutButton=回到最初的Json UI
+hbui.PlayScreen.optOutButton=想回去？你别想！
 hbui.PlayScreen.designPreviewTitle=欢迎来到卡顿Bug又多的Ore UI！	#
 hbui.PlayScreen.designPreviewDescription=ojang想听听你对新设计的吐槽。但是提醒一句还在咕咕咕，所以一些功能可能没有。
 hbui.PlayScreen.designPreviewInputLegend=选择	#
@@ -13569,7 +13569,7 @@ hbui.PlayScreen.realmsTab.joinRealmOptionsModalMenu.joinRealm=加入现有的云
 hbui.PurchaseRealmOnRetailBanner.text=云瓦订阅服务可以在完整版本的Minecraft中进行购买。
 hbui.JoinRealmsServer.inputDescription=输入你收到的邀请链接以加入云瓦。
 hbui.InboxRoute.emptyInvitesText=当有人邀请你加入某个云瓦时，你的邀请将会显示在这里。
-hbui.WorldCard.multiplayerWorldOffline=共鸣地离线
+hbui.WorldCard.multiplayerWorldOffline=离线共鸣地
 hbui.AchievementsSummary.time=共鸣时间
 
 xbox.statistics.timePlayed=共鸣时长	#
@@ -13678,3 +13678,56 @@ hbui.AddFriendAccordion.followers=关注的锦依卫
 hbui.ProfileRoute.followersInputLegend=查看关注的锦依卫
 hbui.ProfileRoute.followersItemLabel=关注的锦依卫
 hbui.ProfileRoute.followersNarration=关注的锦依卫：%1$s个
+
+hbui.AchievementDisabledModal.behaviorPacks=戏游包已激活
+hbui.AchievementDisabledModal.cheatsEnabled=已启用无限共鸣
+hbui.AchievementDisabledModal.closeButton=关闭  ###Secondary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.confirmButton=Create anyway  ###Primary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.confirmButtonEW=Continue anyway  ###Primary button of modal that appears when the user tries to edit a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.creativeMode=已在神明模式创建共鸣地   ###Reason world will have achievements permanently disabled {MaxLength=150}
+hbui.AchievementDisabledModal.experiments=已谱写未完成的乐章
+hbui.AchievementDisabledModal.firstParagraph=依照这个共鸣地的设置，你将无法在共鸣时获得成就。创建后更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。
+hbui.AchievementDisabledModal.firstParagraph.singleReason=依照这个共鸣地的设置，你将无法在共鸣时获得成就。创建后更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。
+hbui.AchievementDisabledModal.firstParagraphEW=依照这个共鸣地的设置，你将无法在共鸣时获得成就。现在更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。  ###First paragraph of modal that appears when the user tries to edit a world with settings that will permanently disabled achievements {MaxLength=300}
+hbui.AchievementDisabledModal.flatWorld=这个共鸣地室超平坦共鸣地   ###Reason world will have achievements permanently disabled {MaxLength=150}
+hbui.AchievementDisabledModal.goBackButton=Go back  ###Secondary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.operator=共鸣地创建者拥有无限共鸣者特权	   ###Reason world will have achievements permanently disabled {MaxLength=150}
+hbui.AchievementDisabledModal.secondParagraph=以下情况在这个共鸣地中无法获得成就：   ###Second paragraph of modal that appears when the user tries to create a world with settings that will permanently disabled achievements
+hbui.AchievementDisabledModal.template=共鸣地由模板建造而来   ###Reason world will have achievements permanently disabled {MaxLength=150}
+hbui.AchievementDisabledModal.title=你无法获得成就   ###Title of modal that appears when the user tries to create a world with settings that will permanently disabled achievements
+hbui.AchievementDisabledModal.trial=共鸣地创建者使用的是Minecraft试用版
+
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.msaGuestCreateWorld.message=你需要登录到Microsoft账户才能在云瓦上创建共鸣地。
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.msaGuestEditWorld.message=你需要登录到Microsoft账户才能在云瓦上进行共鸣。
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.platformGuestCreate.nintendo.message=你需要登录到你的Nintendo账户才能在云瓦上创建共鸣地。	#### {StrContains="Realms"}
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.platformGuestCreate.playStation.message=你需要登录到你的PlayStation™Network账户才能在云瓦上创建共鸣地。	#### CertRequirement: [account for PlayStation™Network] ### {StrContains="Realms"}
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.platformGuestEdit.nintendo.message=你需要登录到你的Nintendo账户才能在云瓦上进行共鸣。	#### {StrContains="Realms"}
+hbui.CreateNewWorld.signInPromptWorldOnRealmModal.platformGuestEdit.playStation.message=你需要登录到你的PlayStation™Network账户才能在云瓦上进行共鸣。
+
+hbui.RealmsPreviews.SubscriptionNeeded.message.beta=你需要爆米云瓦订阅才能阔以用Beta版云瓦。可以去正式版的Minecraft爆米订阅或开始免费试用。
+hbui.RealmsPreviews.SubscriptionNeeded.message.preview=你需要爆米云瓦订阅才能创建Preview版云瓦。可以去正式版的Minecraft爆米订阅或开始免费试用。 
+hbui.RealmsPreviews.SubscriptionNeeded.select=选择
+hbui.RealmsPreviews.SubscriptionNeeded.title=需要拥有云瓦订阅
+hbui.notLoggedInWarning.playScreen.message.realms=你需要登录到Microsoft账户才能在云瓦上进行游戏。
+hbui.notLoggedInWarning.startFromTemplateScreen.message.marketplacePass=你需要登录到Microsoft账户才能访问歌行周边。
+hbui.PlayScreen.genericError.realmDetails.description=出错了，请稍后重试吧qwq
+hbui.PlayScreen.genericError.realmDetails.title=唔...云瓦无法加载
+hbui.PlayScreen.genericError.realms.description=出错了，请稍后重试吧qwq
+hbui.PlayScreen.genericError.realms.title=唔...云瓦无法加载 	#### {StrContains="Realms"}
+hbui.PlayScreen.genericError.servers.description=出错了，请稍后重试吧qwq
+hbui.PlayScreen.genericError.servers.title=服务器无法加载	#
+hbui.StartFromTemplateRoute.NoContentMessage.message=在周边商城探索数以千计的原创共鸣地、模板和皮肤，或者导入你自己的共鸣地。	#
+hbui.CreateNewWorld.resourcePacks.marketplacePassPromotionTitle=你没有歌行周边订阅！
+hbui.FirstTimeSignInRoute.signInButton=立即登录	#
+hbui.FirstTimeSignInRoute.signInHeader=欢迎来到Minecraft × 洛天依！
+hbui.FirstTimeSignInRoute.signInList1=解锁成就并查看进度
+hbui.FirstTimeSignInRoute.signInList2=与不同平台的锦依卫或在云瓦上进行聊天和玩游戏
+hbui.FirstTimeSignInRoute.signInList2PS=与多个平台的锦依卫或在你的云瓦上进行聊天和玩游戏
+hbui.FirstTimeSignInRoute.signInList3=加入数百名其他锦依卫们的队列，享受独特的服务器体验
+hbui.FirstTimeSignInRoute.signInList3PS=加入数百名其他锦依卫们的队列，享受独特的特色服务器体验
+hbui.FirstTimeSignInRoute.signInList4=在多个平台上访问您的周边内容和角色
+hbui.FirstTimeSignInRoute.signInPrompt=立即使用您的巨硬(Microsoft)帐户登录以解锁各种功能，包括：
+hbui.Bedtime.messageAllPlayersSleepingNight=天依今晚祝你好梦~晚安~
+hbui.Bedtime.messageAllPlayersSleepingThunderstorm=天依发现在下雷阵雨哦~祝你睡好~
+createWorldScreen.experimentalLocatorBar=寻人栏
+createWorldScreen.experimentalLocatorBarDescription=在多人共鸣地中中展示其他锦依卫的方位
