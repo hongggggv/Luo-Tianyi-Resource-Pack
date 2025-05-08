@@ -13683,15 +13683,15 @@ hbui.ProfileRoute.followersNarration=关注的锦依卫：%1$s个
 hbui.AchievementDisabledModal.behaviorPacks=戏游包已激活
 hbui.AchievementDisabledModal.cheatsEnabled=已启用无限共鸣
 hbui.AchievementDisabledModal.closeButton=关闭  ###Secondary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
-hbui.AchievementDisabledModal.confirmButton=Create anyway  ###Primary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
-hbui.AchievementDisabledModal.confirmButtonEW=Continue anyway  ###Primary button of modal that appears when the user tries to edit a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.confirmButton=继续共鸣！  ###Primary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.confirmButtonEW=继续共鸣！  ###Primary button of modal that appears when the user tries to edit a world with settings that will permanently disabled achievements {MaxLength=40}
 hbui.AchievementDisabledModal.creativeMode=已在神明模式创建共鸣地   ###Reason world will have achievements permanently disabled {MaxLength=150}
 hbui.AchievementDisabledModal.experiments=已谱写未完成的乐章
 hbui.AchievementDisabledModal.firstParagraph=依照这个共鸣地的设置，你将无法在共鸣时获得成就。创建后更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。
 hbui.AchievementDisabledModal.firstParagraph.singleReason=依照这个共鸣地的设置，你将无法在共鸣时获得成就。创建后更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。
 hbui.AchievementDisabledModal.firstParagraphEW=依照这个共鸣地的设置，你将无法在共鸣时获得成就。现在更改这个共鸣地设置也无法使其生效。你需要访问其他共鸣地才能获得成就。  ###First paragraph of modal that appears when the user tries to edit a world with settings that will permanently disabled achievements {MaxLength=300}
 hbui.AchievementDisabledModal.flatWorld=这个共鸣地室超平坦共鸣地   ###Reason world will have achievements permanently disabled {MaxLength=150}
-hbui.AchievementDisabledModal.goBackButton=Go back  ###Secondary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
+hbui.AchievementDisabledModal.goBackButton=不要嘛~  ###Secondary button of modal that appears when the user tries to create a world with settings that will permanently disabled achievements {MaxLength=40}
 hbui.AchievementDisabledModal.operator=共鸣地创建者拥有无限共鸣者特权	   ###Reason world will have achievements permanently disabled {MaxLength=150}
 hbui.AchievementDisabledModal.secondParagraph=以下情况在这个共鸣地中无法获得成就：   ###Second paragraph of modal that appears when the user tries to create a world with settings that will permanently disabled achievements
 hbui.AchievementDisabledModal.template=共鸣地由模板建造而来   ###Reason world will have achievements permanently disabled {MaxLength=150}
@@ -13742,7 +13742,7 @@ hbui.FlatWorld.narration.dropdownHint=下面的层材料    	#### Below the cont
 hbui.FlatWorld.narration.dropdownHintEditWorldOff=超平坦共鸣地无法开启    	#### Flat world setting can't be turned on. {MaxLength="1000"}
 hbui.FlatWorld.narration.dropdownHintEditWorldOn=超平坦共鸣地无法关闭。下面的层材料    	#### Flat world setting can't be turned off. Below the content the player is focused on in the UI we show the material that the layers consists of, eg layer of stone. {MaxLength="1000"}
 hbui.FlatWorld.narration.height=高度    	#### Block height, eg 3 blocks high. {MaxLength="1000"}
-hbui.FlatWorld.narration.layer=层%1$s   	#### Material layer, eg layer of stone. {MaxLength="1000"}
+hbui.FlatWorld.narration.layer=第%1$s层   	#### Material layer, eg layer of stone. {MaxLength="1000"}
 hbui.FlatWorld.narration.material=材料    	#### Minecraft material, eg stone, redstone block or dirt. {MaxLength="1000"}
 hbui.FlatWorld.narration.switchHintOff=在启用超平坦共鸣地之前，超平坦共鸣地预设下拉菜单将隐藏     	#### Flat world is a world that is generated as completely flat, preset is a predetermined composition of layers and materials for this generation. {MaxLength="1000"}
 hbui.FlatWorld.narration.switchHintOffEditWorld=超平坦共鸣地无法开启    	#### Flat world setting can't be turned on. {MaxLength="1000"}
