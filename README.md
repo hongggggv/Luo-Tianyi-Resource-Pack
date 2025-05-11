@@ -2,7 +2,7 @@
 - Tianyicraft是一个可以美化Minecraft1.20.x和1.21.x版本的以洛天依为主题的资源包，这个资源包修改的部分从死亡提示到游戏界面，囊括Minecraft的相当一部分文案。但为了保持Minecraft原版的体验，大部分原版内容得以保留。其由洛天依的爱好者共同发展，旨在实现洛天依与其他领域的联动，因此本资源包可能也是Minecraft圈子内的第一个洛天依资源包。
 - [天依亲手特调的客户端，基于1.21 Fabric](https://45blcg-my.sharepoint.com/:u:/g/personal/luotianyi_45blcg_onmicrosoft_com/EfvDy_CPDsxDrC0dKh2F8gUBKSuMcYsSkQz_L63cn6VAng?e=QzwAL0)，内部资源包版本为712w09a版本，可能不是最新的，需手动下载更新
 - 基岩版和其他主题请前往Version标签页下载，由于Modrinth不支持上传mcpack文件，基岩版版本请下载后手动将扩展名改为mcpack格式
-- 想参与开发的欢迎加入开发群，群号789040594
+- 目前我想设计一个新的UI，但是以我个人的能力还是不太行啊...我需要一个会设计UI的帮我设计一下UI...群号789040594，拜托了！
 - UP现在还是高一学生，没那么多时间去维护这个项目...但Github的Issues我还是会看的！
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的Minecraft更有意思！
