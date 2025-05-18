@@ -35,7 +35,7 @@ body:
     validations:
       required: true  # 强制用户必须选择
 
-  - type: textarea
+  - type: input
     attributes:
       label: 游戏版本
       placeholder: "你的Minecraft版本，Java通常位于标题屏幕左下角，基岩版通常位于主菜单右下角"
