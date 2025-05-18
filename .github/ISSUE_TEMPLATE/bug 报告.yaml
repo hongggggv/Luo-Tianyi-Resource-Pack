@@ -1,7 +1,7 @@
 name: "🐛 Bug 反馈"
 description: 错别字、无法生效、冲突
 title: "[Bug] "
-labels: [bug]
+labels: [Bug]
 body:
   - type: checkboxes
     attributes:
@@ -27,10 +27,10 @@ body:
   # 新增平台版本选择字段（必填）
   - type: dropdown
     attributes:
-      label: Minecraft 平台
+      label: Minecraft平台
       options:
         - "请选择"
-        - "Java 版"
+        - "Java版"
         - "基岩版"
     validations:
       required: true  # 强制用户必须选择
