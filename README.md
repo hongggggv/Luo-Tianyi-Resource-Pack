@@ -10,7 +10,7 @@
 - 你也想体会变成“落水天依”的感觉吗？你也想发现手里的三叉戟变成叉子挥舞吗？
 - 你也想体验712条超多闪烁标语的搭配吗？
 - 那就来试一试吧！
-- 资源包里内置一些洛天依的背景音乐，可使用“Reactive Music”这个模组加载。（将来的版本将不再依赖这个模组，原版客户端就能加载）
+- 资源包里内置一些洛天依的背景音乐，无需模组即可加载。
 - ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
   ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/39d99d4f10c70cc7fe53a5faf35202dd8defcea8.png)
 - 更多画面详见[Gallery](https://modrinth.com/resourcepack/luo-tianyi-resource-pack/gallery)标签页。
