@@ -3837,7 +3837,7 @@
   "gui.fileDropFailure.detail": "Rejected %s files",
   "gui.fileDropFailure.title": "Failed to add files",
   "gui.hours": "%s hour(s)",
-  "gui.loadingMinecraft": "Loading Minecraft",
+  "gui.loadingMinecraft": "天依正在加载Minecraft",
   "gui.minutes": "%s minute(s)",
   "gui.multiLineEditBox.character_limit": "%s/%s",
   "gui.narrate.button": "%s button",
