@@ -8,11 +8,11 @@ body:
       label: 必填确认项
       description: 提交前请确认以下内容
       options:
-        - label: "我已搜索现有Issue或Pull request，确认这一建议没有人提交过"
+        - label: "我已搜索现有 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 或 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls)，确认这一建议没有人提交过"
           required: true
         - label: "此建议在最新版本尚未实现并且更新我已为最新版本"
           required: true
-        - label: "过于简单的且无法清晰描述的Issue可能会直接关闭"
+        - label: "过于简单且无法清晰描述的 Issue 可能会直接关闭"
           required: true
 
   - type: textarea
@@ -24,11 +24,11 @@ body:
       
   - type: dropdown
     attributes:
-      label: Minecraft平台
+      label: Minecraft 平台
       options:
         - "请选择"
-        - "Java版"
+        - "Java 版"
         - "基岩版"
-        - "Java版、基岩版"
+        - "Java 版、基岩版"
     validations:
       required: true
