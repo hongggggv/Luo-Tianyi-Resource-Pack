@@ -8,7 +8,7 @@ body:
       label: 必填确认项
       description: 提交前请确认以下内容
       options:
-        - label: "我已搜索现有 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 或 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls)，确认没有人提交过这个Bug"
+        - label: "我已搜索现有 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 或 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls)，确认没有人提交过这个 Bug"
           required: true
         - label: "此 Bug 在项目最新版本中仍可复现并且我已更新为最新版本"
           required: true
@@ -27,7 +27,7 @@ body:
       label: Minecraft 平台
       options:
         - "请选择"
-        - "Java版"
+        - "Java 版"
         - "基岩版"
     validations:
       required: true
@@ -35,7 +35,7 @@ body:
   - type: input
     attributes:
       label: Minecraft 版本
-      placeholder: "Java 版通常位于标题屏幕左下角，基岩版通常右下角，例如：1.21.5、25w20a、1.21.80"
+      placeholder: "Java 版通常位于标题屏幕左下角，基岩版通常位于右下角，例如：1.21.5、25w20a、1.21.80"
     validations:
       required: true
 
