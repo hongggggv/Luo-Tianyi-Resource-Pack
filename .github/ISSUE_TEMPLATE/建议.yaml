@@ -29,5 +29,6 @@ body:
         - "请选择"
         - "Java版"
         - "基岩版"
+        - "Java版、基岩版"
     validations:
       required: true
