@@ -1,6 +1,6 @@
-name: "建议 "
+name: "优化 "
 description: 一些好的优化都可以留下！
-title: "[建议] "
+title: "[优化] "
 labels: [优化, 等待审核]
 body:
   - type: checkboxes
