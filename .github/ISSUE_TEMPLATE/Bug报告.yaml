@@ -1,45 +1,49 @@
-name: "🐛 Bug反馈"
-description: 错别字、无法生效、冲突
+name: "🐛 Bug 反馈"
+description: 错别字、无法生效等一系列 Bug
 title: "[Bug] "
-labels: [Bug]
+labels: [Bug, 等待审核]
 body:
   - type: checkboxes
     attributes:
       label: 必填确认项
       description: 提交前请确认以下内容
       options:
-        - label: "我已搜索现有Issue或Pull request，确认没有人提交过这个Bug"
+        - label: "我已搜索现有 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 或 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls)，确认没有人提交过这个 Bug"
           required: true
-        - label: "此Bug在项目最新版本中仍可复现并且我已更新为最新版本"
+        - label: "此 Bug 在项目最新版本中仍可复现并且我已更新为最新版本"
           required: true
-        - label: "过于简单的且无法清晰描述的Issue可能会直接关闭"
+        - label: "过于简单的且无法清晰描述的 Issue 可能会直接关闭"
+          required: true
+        - label: "由 I18n 等第三方引发的问题一律不处理"
           required: true
 
   - type: textarea
     attributes:
       label: 问题描述
-      placeholder: "清晰说明Bug现象"
+      placeholder: "清晰说明 Bug 现象"
     validations:
       required: true
 
   - type: dropdown
     attributes:
-      label: Minecraft平台
+      label: Minecraft 平台
       options:
         - "请选择"
-        - "Java版"
+        - "Java 版"
         - "基岩版"
     validations:
       required: true
 
   - type: input
     attributes:
-      label: Minecraft版本
-      placeholder: "Java版通常位于标题屏幕左下角，基岩版通常右下角，例如：1.21.5、25w20a、1.21.80"
+      label: Minecraft 版本
+      placeholder: "Java 版通常位于标题屏幕左下角，基岩版通常位于右下角，例如：1.21.5、25w20a、1.21.80"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 附加信息
-      placeholder: "截图、日志等"
+      label: 日志
+      placeholder: "请将游戏日志（latest.log）拖拽上传（仅 Java 版，基岩版请填写“基岩版”）"
+    validations:
+      required: true
