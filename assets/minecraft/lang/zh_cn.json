@@ -839,7 +839,7 @@
   "chat.link.confirm": "天依询问：你要打开这个网页吗？",
   "chat.link.confirmTrusted": "天依询问：你要打开这个网页或把链接贴剪贴板吗？",
   "chat.link.open": "我要开链接看看！",
-  "chat.link.warning": "乱打开不明来历的网页可能会导致电脑被rua爆哦~",
+  "chat.link.warning": "乱打开不明来历的网页可能会导致设备被rua爆哦~",
   "chat.tag.system": "这是服务器的消息，不能举报掉哦~",
   "chat.type.admin": "[%s: %s]",
   "chat.type.advancement.challenge": "%s完成了挑战%s66CCFF~",
