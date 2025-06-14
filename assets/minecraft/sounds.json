@@ -293,7 +293,20 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/aloud"
+            "tianyi/aloud",
+            {
+                "name": "tianyi/yhw",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhw",
+            {
+                "name": "tianyi/lg",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/lg"
+
         ]
     },
     "music.credits": {
@@ -428,7 +441,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.desert": {
@@ -529,7 +548,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.creative": {
@@ -630,7 +655,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.dragon": {
@@ -662,6 +693,23 @@
         ]
     },
     "music.nether.crimson.forest": {
+        "replace":true,
+        "sounds":[
+            {
+                "name":"tianyi/jtjmp"
+            },
+            "tianyi/jtjmp",
+            {
+                "name":"tianyi/aloudp"
+            },
+            "tianyi/aloudp",
+            {
+                "name":"tianyi/dzqyp"
+            },
+            "tianyi/dzqyp"
+        ]
+    },
+    "music.nether.crimson_forest": {
         "replace":true,
         "sounds":[
             {
@@ -733,101 +781,17 @@
         "replace":true,
         "sounds":[
             {
-                "name": "tianyi/hudiepiano",
-                "volume": 0.30,
-                "type": "event"
+                "name":"tianyi/jtjmp"
             },
-            "tianyi/hudiepiano",
+            "tianyi/jtjmp",
             {
-                "name": "tianyi/guangyuyinpiano",
-                "volume": 0.30,
-                "type": "event"
+                "name":"tianyi/aloudp"
             },
-            "tianyi/guangyuyinpiano",
+            "tianyi/aloudp",
             {
-                "name": "tianyi/youyigeyewanpiano",
-                "volume": 0.30,
-                "type": "event"
+                "name":"tianyi/dzqyp"
             },
-            "tianyi/youyigeyewanpiano",
-            {
-                "name": "tianyi/lianaisep",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/lianaisep",
-            {
-                "name": "tianyi/yibanp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/yibanp",
-            {
-                "name": "tianyi/wanfenp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/wanfenp",
-            {
-                "name": "tianyi/zuiwanmeip",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/zuiwanmeip",
-            {
-                "name": "tianyi/cikep",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/cikep",
-            {
-                "name": "tianyi/zaishengp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/zaishengp",
-            {
-                "name": "tianyi/xiyoup",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/xiyoup",
-            {
-                "name": "tianyi/66ccffp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/66ccffp",
-            {
-                "name": "tianyi/gxsfp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/gxsfp",
-            {
-                "name": "tianyi/ymqxp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/ymqxp",
-            {
-                "name": "tianyi/syyp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/syyp",
-            {
-                "name": "tianyi/xyp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/xyp",
-            {
-                "name": "tianyi/djbtrp",
-                "volume": 0.30,
-                "type": "event"
-            },
-            "tianyi/djbtrp"
+            "tianyi/dzqyp"
         ]
     },
     "music.overworld.badlands": {
@@ -928,7 +892,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.bamboo_jungle": {
@@ -1029,7 +999,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.cherry_grove": {
@@ -1130,7 +1106,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.deep_dark": {
@@ -1231,7 +1213,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.dripstone_caves": {
@@ -1332,7 +1320,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.flower_forset": {
@@ -1433,7 +1427,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.forest": {
@@ -1534,7 +1534,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.frozen.peaks": {
@@ -1635,7 +1641,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.grove": {
@@ -1736,7 +1748,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.jagged_peaks": {
@@ -1837,7 +1855,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.jungle": {
@@ -1938,7 +1962,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.lush_caves": {
@@ -2039,7 +2069,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.meadow": {
@@ -2140,7 +2176,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.old_growth_taiga": {
@@ -2241,7 +2283,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.snowy_slopes": {
@@ -2342,7 +2390,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.sparse.jungle": {
@@ -2443,7 +2497,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.stony_peaks": {
@@ -2544,7 +2604,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.overworld.swamp": {
@@ -2645,7 +2711,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/djbtrp"
+            "tianyi/djbtrp",
+            {
+                "name": "tianyi/yhwp",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/yhwp"
         ]
     },
     "music.under_water": {
