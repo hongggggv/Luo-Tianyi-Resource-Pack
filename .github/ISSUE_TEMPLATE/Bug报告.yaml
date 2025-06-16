@@ -44,6 +44,6 @@ body:
   - type: textarea
     attributes:
       label: 日志
-      placeholder: "请将游戏日志（latest.log）拖拽上传（仅 Java 版，基岩版请填写“基岩版”）"
+      placeholder: "请将游戏日志（latest.log）拖拽上传（仅 Java 版，基岩版请填写“基岩版”，错别字请填写“错别字”）"
     validations:
       required: true
