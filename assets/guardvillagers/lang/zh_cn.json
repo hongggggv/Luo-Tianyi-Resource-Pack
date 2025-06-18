@@ -3,7 +3,7 @@
 
   "item.guardvillagers.guard_spawn_egg": "警卫村民刷怪蛋",
 
-  "guardinventory.health": "生命值：%s",
+  "guardinventory.health": "血量：%s",
 
   "guardinventory.armor": "护甲：%s",
 
@@ -13,7 +13,7 @@
 
   "guardvillagers.midnightconfig.reputationRequirement":"声望要求",
   
-  "guardvillagers.midnightconfig.guardEntitysRunFromPolarBears":"警卫村民害怕北极熊",
+  "guardvillagers.midnightconfig.guardEntitysRunFromPolarBears":"警卫村民遇北极熊尖叫跑开",
   
   "guardvillagers.midnightconfig.guardEntitysOpenDoors":"警卫村民开门",
   
@@ -23,7 +23,7 @@
 
   "guardvillagers.midnightconfig.armorerRepairGuardEntityArmor":"铁匠修复警卫村民盔甲",
 
-  "guardvillagers.midnightconfig.attackAllMobs": "警卫村民攻击所有生物",
+  "guardvillagers.midnightconfig.attackAllMobs": "警卫村民对谁都想打",
 
   "guardvillagers.midnightconfig.guardAlwaysShield": "警卫村民始终使用盾牌",
 
@@ -31,11 +31,11 @@
 
   "guardvillagers.midnightconfig.mobBlackList":"黑名单",
 
-  "guardvillagers.midnightconfig.amountOfHealthRegenerated": "警卫村民恢复生命值",
+  "guardvillagers.midnightconfig.amountOfHealthRegenerated": "警卫村民恢复血量",
 
   "guardvillagers.midnightconfig.followHero":"跟随村庄英雄",
 
-  "guardvillagers.midnightconfig.healthModifier":"生命值修正",
+  "guardvillagers.midnightconfig.healthModifier":"血量修正",
   
   "guardvillagers.midnightconfig.speedModifier":"速度修正",
   
@@ -45,15 +45,15 @@
 
   "guardvillagers.midnightconfig.setGuardPatrolHotv": "需要村庄英雄才能设置警卫村民巡逻",
 
-  "guardvillagers.midnightconfig.chanceToDropEquipment":"掉落装备的几率",
+  "guardvillagers.midnightconfig.chanceToDropEquipment":"爆装备概率",
 
-  "guardvillagers.midnightconfig.useSteveModel": "使用史蒂夫模型",
+  "guardvillagers.midnightconfig.useSteveModel": "使用史蒂夫模型(好丑)",
 
-  "guardvillagers.midnightconfig.raidAnimals": "掠夺者会攻击动物",
+  "guardvillagers.midnightconfig.raidAnimals": "掠夺者会屠杀动物",
 
-  "guardvillagers.midnightconfig.witchesVillager": "女巫会攻击村民",
+  "guardvillagers.midnightconfig.witchesVillager": "女巫会用药毒村民",
 
-  "guardvillagers.midnightconfig.blackSmithHealing": "铁匠会治疗铁傀儡",
+  "guardvillagers.midnightconfig.blackSmithHealing": "铁匠会修复铁傀儡",
 
   "guardvillagers.midnightconfig.armorerRepairGuardArmor": "铁匠修复警卫村民护甲",
 
@@ -61,15 +61,15 @@
 
   "guardvillagers.midnightconfig.guardVillagerHelpRange": "警卫村民帮助范围",
 
-  "guardvillagers.midnightconfig.illagersRunFromPolarBears":"灾厄村民害怕北极熊",
+  "guardvillagers.midnightconfig.illagersRunFromPolarBears":"灾厄村民遇北极熊尖叫跑开",
 
-  "guardvillagers.midnightconfig.villagersRunFromPolarBears":"村民害怕北极熊",
+  "guardvillagers.midnightconfig.villagersRunFromPolarBears":"村民遇北极熊尖叫跑开",
 
-  "guardvillagers.midnightconfig.guardArrowsHurtVillagers": "警卫村民箭矢伤害村民",
+  "guardvillagers.midnightconfig.guardArrowsHurtVillagers": "警卫村民箭矢扎伤村民",
 
   "subtitles.entity.guard.ambient": "警卫：喃喃自语",
 
   "subtitles.entity.guard.hurt": "警卫：受伤",
   
-  "subtitles.entity.guard.death": "警卫：死亡"
+  "subtitles.entity.guard.death": "警卫：殉职"
 }
