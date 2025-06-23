@@ -4265,7 +4265,7 @@
     "world.effect.wither_skeletons.description": "凋零、起泡、燃烧与剥落",
     "world.effect.wither_skeletons.hint": "隐藏在普通骷髅中",
     "world.effect.wither_skeletons.name": "凋灵骷髅",
-    "world.effect.zoglins.description": "如此愤怒",
+    "world.effect.zoglins.description": "如此红温",
     "world.effect.zoglins.hint": "在猪灵领地击杀僵尸",
     "world.effect.zoglins.name": "僵尸疣猪兽",
     "world.effect.zombies.description": "脑~~~~~",
@@ -4287,13 +4287,13 @@
     "world.mine.revisit.won": "重访胜利的旧矿境",
     "world.mine": "矿境%s",
     //以下内容需要修改：
-    "death.attack.inWall.player": "%1$s在与%2$s战斗时在墙里窒息而亡",
-    "death.attack.hotFloor": "%1$s发现了地板是熔岩做的",
-    "death.attack.indirectMagic": "%1$s被%2$s使用的魔法杀死了",
-    "death.attack.indirectMagic.item": "%1$s被%2$s用%3$s杀死了",
-    "death.attack.cactus": "%1$s被戳死了",
-    "death.attack.cactus.player": "%1$s在试图逃离%2$s时撞上了仙人掌",
-    "death.attack.cramming": "%1$s因被过度挤压而死",
-    "death.attack.cramming.player": "%1$s被%2$s挤扁了",
-    "deathScreen.titleScreen": "标题屏幕"
+    "death.attack.inWall.player": "%1$s被%2$s焚书坑儒了，可惜没卡进后室",
+    "death.attack.hotFloor": "%1$s突然意识到自己的jio踩到火锅热源了",
+    "death.attack.indirectMagic": "%1$s被%2$s使用阿瓦达啃大瓜啃了",
+    "death.attack.indirectMagic.item": "%1$s被%2$s用%3$s啃大瓜啃了",
+    "death.attack.cactus": "%1$s撞到了刺猬，倒头就睡",
+    "death.attack.cactus.player": "%1$s在%2$s帮忙做针灸时不小心摔倒了",
+    "death.attack.cramming": "%1$s被挤碎还爆浆了，把天依吓跑了QAQ",
+    "death.attack.cramming.player": "%1$s在%2$s的哄骗下躺在液压机下，然后液压机启动了",
+    "deathScreen.titleScreen": "补想丸啦呜呜呜"
 }
