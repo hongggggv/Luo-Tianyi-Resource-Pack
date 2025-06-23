@@ -336,11 +336,11 @@
             },
             "tianyi/wcwnhm",
             {
-                "name": "tianyi/bytz",
+                "name": "tianyi/cl",
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/bytz"
+            "tianyi/cl"
         ]
     },
     "music.game": {
