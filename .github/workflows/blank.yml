@@ -1,0 +1,36 @@
+name: Auto-manage issue closure
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  process_closure:
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤1：检查关闭者身份
+      - name: Identify closer
+        id: closer_info
+        run: |
+          echo "closer=${{ github.event.sender.login }}" >> $GITHUB_OUTPUT
+          echo "is_collaborator_a=${{ github.event.sender.login == 'a' }}" >> $GITHUB_OUTPUT
+      
+      # 步骤2：处理协作者a关闭的情况
+      - name: Add label for collaborator 'The_Worst1'
+        if: steps.closer_info.outputs.is_collaborator_a == 'true'
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'add-labels'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          labels: '等待审查'
+          
+      # 步骤3：处理普通用户关闭的情况
+      - name: Handle user closure
+        if: ${{ !contains(fromJson('["a", "OWNER"]'), github.event.sender.login) && github.event.issue.state_reason == 'completed' }}
+        uses: actions-cool/issues-helper@v3
+        with:
+          actions: 'edit'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          state: 'closed'
+          state_reason: 'not_planned'
