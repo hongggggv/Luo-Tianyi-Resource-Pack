@@ -1525,7 +1525,6 @@
     "deathScreen.spectate": "我再看看",
     "deathScreen.title.hardcore": "共鸣终止！",
     "deathScreen.title": "你汐了！",
-    "deathScreen.titleScreen": "回主界单",
     "debug.copy_location.help": "F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C让天依吃掉游戏",
     "debug.crash.message": "F3 + C已被按下。如果不取消，天依将会在9秒后吃掉游戏。",
     "debug.crash.warning": "天依将会在%s秒后吃掉游戏...",
@@ -4295,5 +4294,6 @@
     "death.attack.cactus": "%1$s被戳死了",
     "death.attack.cactus.player": "%1$s在试图逃离%2$s时撞上了仙人掌",
     "death.attack.cramming": "%1$s因被过度挤压而死",
-    "death.attack.cramming.player": "%1$s被%2$s挤扁了"
+    "death.attack.cramming.player": "%1$s被%2$s挤扁了",
+    "deathScreen.titleScreen": "标题屏幕"
 }
