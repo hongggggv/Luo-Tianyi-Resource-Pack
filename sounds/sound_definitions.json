@@ -42,7 +42,7 @@
     "category": "music",
     "sounds": [
         {
-            "name": "sounds/music/menu/Xiyoujiuzhou",
+            "name": "sounds/music/menu/xiyoujiuzhou",
             "stream": true,
      
             "load_on_low_memory": true
@@ -462,7 +462,12 @@
                     "load_on_low_memory":true
                 },
                 {
-                    "name": "sounds/music/menu/bytz",
+                    "name": "sounds/music/menu/cl",
+                    "stream": true,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/music/menu/wcwnhm",
                     "stream": true,
                     "load_on_low_memory": true
                 }
@@ -487,6 +492,16 @@
                     "stream":true,
                      
                     "load_on_low_memory":true
+                },
+                {
+                    "name": "sounds/music/menu/aloudp",
+                    "stream": true,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/music/menu/dzqyp",
+                    "stream": true,
+                    "load_on_low_memory": true
                 }
             ]
         },
