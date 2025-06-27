@@ -1287,6 +1287,7 @@
     "commands.tick.sprint.stop.fail": "暂时莫得正在执行的游戏刻加速",
     "commands.tick.sprint.stop.success": "游戏刻加速已停止~",
     "commands.tick.status.frozen": "砸瓦鲁多！",
+    "commands.tick.status.lagging": "好像设备跟不上游戏刻呢，天依唱歌都变得飘飘的了~",
     "commands.tick.status.running": "游戏现在正常运行，生活一天天日子一年年~",
     "commands.tick.status.sprinting": "游戏加速运行中，睁开眼又是新的一天~",
     "commands.tick.step.fail": "现在无法步进游戏，请先冻结游戏awa",
