@@ -305,8 +305,19 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/lg"
-
+            "tianyi/lg",
+            {
+                "name": "tianyi/mao",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/mao",
+            {
+                "name": "tianyi/wzyn",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/wzyn"
         ]
     },
     "music.credits": {
