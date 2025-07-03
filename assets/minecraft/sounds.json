@@ -317,7 +317,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/wzyn"
+            "tianyi/wzyn",
+            {
+                "name": "tianyi/zmc",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/zmc"
         ]
     },
     "music.credits": {
