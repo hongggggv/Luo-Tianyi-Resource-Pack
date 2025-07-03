@@ -993,7 +993,7 @@
   "gui.twilightforest.moonworm_queen_jei": "修复月光蠕虫女王",
   "gui.twilightforest.optifine.message": "在继续之前，请注意 Optifine 已知会导致崩溃、多部分实体视觉错误和许多其他问题。\n\n在报告错误之前，请先删除 Optifine，然后再次检查错误是否仍然存在。\n\nOptifine 相关问题在暮色森林中可能永远无法解决！\n\n该内容可能在客户端配置中被禁用。",
   "gui.twilightforest.optifine.suggestions": "如下是我们推荐使用的一些替代西柚包。",
-  "gui.twilightforest.optifine.title": "警告：检测到 OptiF**k",
+  "gui.twilightforest.optifine.title": "警告：检测到 OptiFine",
   "gui.twilightforest.progression_end.discord": "Discord 服务器",
   "gui.twilightforest.progression_end.message": "进度已经完成。 在高原上等待的终焉城堡尚未完工，正在进行中。 如果您想了解西柚包的开发进度，您可以加入我们的%s。",
   "gui.twilightforest.transformation_jei": "转换粉",
