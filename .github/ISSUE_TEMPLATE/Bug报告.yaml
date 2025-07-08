@@ -12,9 +12,7 @@ body:
           required: true
         - label: "此 Bug 在项目最新版本中仍可复现并且我已更新为最新版本"
           required: true
-        - label: "过于简单的且无法清晰描述的 Issue 可能会直接关闭"
-          required: true
-        - label: "由 I18n 等第三方引发的问题一律不处理"
+        - label: "我知晓大部分冲突的问题都是由模组造成的，但我确实认为存在 Bug 无法加载，并且我已在原版游戏上启动没有此问题"
           required: true
 
   - type: textarea
