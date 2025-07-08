@@ -12,8 +12,6 @@ body:
           required: true
         - label: "此优化在最新版本尚未实现并且更新我已为最新版本"
           required: true
-        - label: "过于简单且无法清晰描述的 Issue 可能会直接关闭"
-          required: true
         - label: "天依知道可以提出的优化太多啦，本人还是一个高一生忙不过来...所以我有足够的耐心等待本人的处理啦...催促这个 Issue 可能会被直接关闭哦！"
           required: true
 
