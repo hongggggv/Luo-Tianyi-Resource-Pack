@@ -5,16 +5,16 @@
 - UP现在还是高一学生，没那么多时间去维护这个项目...但 Github 的 Issue 我还是会看的！
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的 Minecraft 更有意思！
-- 支持 Java 和基岩版双平台！（目前基岩版最新版为 712w12a）
+- 支持 Java 和基岩版双平台！（目前基岩版最新版为 712w12a，需前往 Versions 标签页下载）
 - 相当一部分进度描述与部分字幕修改，体会中文语境下的幽默风趣！
 - 你也想体会变成“落水天依”的感觉吗？你也想发现手里的三叉戟变成叉子挥舞吗？
 - 你也想体验 712 条超多闪烁标语的搭配吗？
 - 那就来试一试吧！
-- 资源包里内置一些洛天依的背景音乐，无需模组即可加载。
+- 资源包里内置一些洛天依的背景音乐，1.21.6+ 版本可以打开“显示共鸣曲框”以及将“天依歌唱频率”调整为“跃动不息”体验更佳。
 - ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
   ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/39d99d4f10c70cc7fe53a5faf35202dd8defcea8.png)
-- 更多画面详见[Gallery](https://modrinth.com/resourcepack/luo-tianyi-resource-pack/gallery)标签页。
-- More images are detailed in the [Gallery](https://modrinth.com/resourcepack/luo-tianyi-resource-pack/gallery) tab.
+- 更多画面详见 [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) 标签页。
+- More images are detailed in the [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) tab.
 ## 洛天依是谁？
 - 洛天依(Luo Tianyi)，世界首位中文虚拟歌手，2012年7月12日正式出道，以其可爱的形象，动听的歌声，多样的音乐风格和创作生态深受广大乐迷的喜爱。经典作品包括《普通DISCO》，《达拉崩吧》，《追光使者》等，使得洛天依奠定其中国虚拟歌手的标杆地位。洛天依的粉丝自称“锦依卫”，洛天依的应援颜色为 #66CCFF(RGB制)。
 # 如何加载这个资源包呢？
