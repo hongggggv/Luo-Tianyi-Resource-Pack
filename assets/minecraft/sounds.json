@@ -323,7 +323,61 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/zmc"
+            "tianyi/zmc",
+            {
+                "name": "tianyi/xjx",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/xjx",
+            {
+                "name": "tianyi/8102",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/8102",
+            {
+                "name": "tianyi/ddd",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/ddd",
+            {
+                "name": "tianyi/bjbs",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/bjbs",
+            {
+                "name": "tianyi/fxfx",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/fxfx",
+            {
+                "name": "tianyi/lost08",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/lost08",
+            {
+                "name": "tianyi/sfks",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/skfs",
+            {
+                "name": "tianyi/sr",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/sr",
+            {
+                "name": "tianyi/zdh",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/zdh"
         ]
     },
     "music.credits": {
