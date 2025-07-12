@@ -377,7 +377,13 @@
                 "volume": 0.30,
                 "type": "event"
             },
-            "tianyi/zdh"
+            "tianyi/zdh",
+            {
+                "name": "tianyi/zz",
+                "volume": 0.30,
+                "type": "event"
+            },
+            "tianyi/zz"
         ]
     },
     "music.credits": {
