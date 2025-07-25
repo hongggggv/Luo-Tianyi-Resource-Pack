@@ -8,7 +8,7 @@ body:
       label: 必填确认项
       description: 提交前请确认以下内容
       options:
-        - label: "我已搜索现有 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 或 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls)，确认这一优化没有人提交过"
+        - label: "此优化不在 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 和 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls) 列表中"
           required: true
         - label: "此优化在最新版本尚未实现并且更新我已为最新版本"
           required: true
