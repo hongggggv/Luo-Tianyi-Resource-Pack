@@ -3957,7 +3957,7 @@
     "unlocks.unlock.smelter_1.name": "学徒熔炼师",
     "unlocks.unlock.smelter_2.description": "你已掌握熔炼艺术",
     "unlocks.unlock.smelter_2.name": "大师熔炼师",
-    "unlocks.unlock.sneak_1.description": "潜行速度与同时按住 'w' 和 'a' 或 'd' 时相同",
+    "unlocks.unlock.sneak_1.description": "潜行速度与同时按住'w'和'a'或'd'时相同",
     "unlocks.unlock.sneak_1.name": "迅捷潜行",
     "unlocks.unlock.sneak_2.description": "现在可能比跑步还快？",
     "unlocks.unlock.sneak_2.name": "极速潜行",
@@ -4358,8 +4358,9 @@
     "debug.options.category.text": "调试屏幕文本",
     "debug.options.category.renderer": "调试渲染器",
     "debug.entry.always": "始终显示",
-    "debug.entry.currently.never": "%s：当前关机状态",
+    "debug.entry.currently.never": "%s：当前为关机状态",
     "debug.entry.currently.alwaysOn": "%s：当前始终显示",
     "debug.entry.f3": "仅F3",
-    "debug.options.title": "调试选项"
+    "debug.options.title": "调试选项",
+    "pack.source.world": "共鸣地"
 }
