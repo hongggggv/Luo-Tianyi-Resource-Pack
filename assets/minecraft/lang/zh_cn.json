@@ -3369,7 +3369,7 @@
     "soundCategory.player": "友人乐章（锦依卫）",
     "soundCategory.record": "乐谱流芳（天依唱片机/音符盒）",
     "soundCategory.ui": "共鸣主页",
-    "soundCategory.voice": "天音也悠扬（语音）",
+    "soundCategory.voice": "天依领航员/语言",
     "soundCategory.weather": "天气",
     "spectatorMenu.close": "关闭视奸者菜单",
     "spectatorMenu.root.prompt": "点点键盘数字按键来选择命令，再按一次来使用它。",
@@ -4322,9 +4322,8 @@
     "neoforge.configgui.logUntranslatedItemTagWarnings.tooltip": "一个主要面向西柚包P主配置选项。在内置服务端上共鸣时，天依在日志中记录没有翻译的西柚包环境物品标签，要求格式是tag.item.<命名空间>.<路径>。默认值为SILENCED。",
     "neoforge.configgui.logLegacyTagWarnings": "记录旧标签",
     "neoforge.configgui.logLegacyTagWarnings.tooltip": "一个主要面向西柚包P主配置选项。在内置服务端上共鸣时，天依在日志中记录那些使用“forge”命名空间的西柚包环境标签，默认值为DEV_SHORT。",
-
-    "debug.options.warning": "这些选项仅用于测试目的。它们可能会拖慢你的设备，使游戏崩溃，或者点一碗酒吧里的炒饭。",//此条目译名尚未最终确认，在其中文译名决定前，请勿擅自更改。
     //以下是新增的内容：
+    "debug.options.warning": "这些选项仅用于测试目的。它们可能会拖慢你的设备，使游戏崩溃，或者点一碗酒吧里的炒饭。",
     "pack.incompatible.confirm.unknown": "这个包已损坏，或是为未知的Minecraft版本所打造的，在此版本可能不会正常工作。",
     "pack.incompatible.unknown": "（已损坏或不兼容）",
     "options.sprintWindow": "疾跑间隔",
@@ -4349,7 +4348,7 @@
     "subtitles.entity.llama.chest": "羊驼：装备小笼包",
     "subtitles.entity.mule.chest": "骡：装备小笼包",
     "debug.options.help": "F3 + F5 = 编辑调试选项",
-    "debug.pause.help": "F3 + Esc = 暂停共鸣但不显示天依的小菜单（如果可以暂停的话）",
+    "debug.pause.help": "F3 + Esc = 暂停共鸣但不显示天依的共鸣面板（如果可以暂停的话）",
     "debug.entry.currently.inF3": "%s：当前仅F3",
     "debug.options.search": "搜索选项",
     "debug.options.profile.performance": "性能监控配置",
