@@ -1,6 +1,6 @@
 name: "新模组适配"
 description: 想要适配新的模组
-title: "[优化] "
+title: "[模组适配] "
 labels: [优化]
 body:
   - type: checkboxes
