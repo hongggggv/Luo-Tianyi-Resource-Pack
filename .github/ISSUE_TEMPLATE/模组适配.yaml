@@ -1,0 +1,43 @@
+name: "新模组适配"
+description: 想要适配新的模组
+title: "[优化] "
+labels: [优化]
+body:
+  - type: checkboxes
+    attributes:
+      label: 必填确认项
+      description: 提交前请确认以下内容
+      options:
+        - label: "此适配请求不在 [Issue](https://github.com/hongggggv/Tianyicraft/issues) 和 [Pull request](https://github.com/hongggggv/Tianyicraft/pulls) 列表中"
+          required: true
+        - label: "此适配请求在最新版本尚未实现并且更新我已为最新版本"
+          required: true
+        - label: "天依知道可以提出的请求太多啦，本人还是一个高一生忙不过来...所以我有足够的耐心等待本人的处理啦...催促这个 Issue 可能会被直接关闭哦！"
+          required: true
+
+  - type: textarea
+    attributes:
+      label: 描述适配请求
+      placeholder: "清晰说明你的请求"
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: 模组语言文件（可选）
+      placeholder: "如果你有能力可以把模组的语言文件（zh_cn.json）上传"
+
+  - type: input
+    attributes:
+      label: 模组链接
+      placeholder: "MC 百科、CurseForge、Modrinth 均可"
+    validations:
+      required: true
+      
+  - type: dropdown
+    attributes:
+      label: Minecraft 平台
+      options:
+        - "Java 版"
+    validations:
+      required: true
