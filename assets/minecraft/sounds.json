@@ -81,13 +81,56 @@
     "music.end": {
         "replace": true,
         "sounds": [
-            "tianyi/ssg",
-            "tianyi/wcwnhm",
-            "tianyi/cl",
-            "tianyi/zz"
+            "tianyi/ssgp",
+            "tianyi/clp",
+            "tianyi/zzp"
         ]
     },
     "music.game": {
+        "replace": true,
+        "sounds": [
+            "tianyi/hudiepiano",
+            "tianyi/guangyuyinpiano",
+            "tianyi/youyigeyewanpiano",
+            "tianyi/lianaisep",
+            "tianyi/yibanp",
+            "tianyi/wanfenp",
+            "tianyi/zuiwanmeip",
+            "tianyi/cikep",
+            "tianyi/zaishengp",
+            "tianyi/xiyoup",
+            "tianyi/66ccffp",
+            "tianyi/gxsfp",
+            "tianyi/ymqxp",
+            "tianyi/syyp",
+            "tianyi/xyp",
+            "tianyi/djbtrp",
+            "tianyi/yhwp"
+        ]
+    },
+    "music.game.creative": {
+        "replace": true,
+        "sounds": [
+            "tianyi/hudiepiano",
+            "tianyi/guangyuyinpiano",
+            "tianyi/youyigeyewanpiano",
+            "tianyi/lianaisep",
+            "tianyi/yibanp",
+            "tianyi/wanfenp",
+            "tianyi/zuiwanmeip",
+            "tianyi/cikep",
+            "tianyi/zaishengp",
+            "tianyi/xiyoup",
+            "tianyi/66ccffp",
+            "tianyi/gxsfp",
+            "tianyi/ymqxp",
+            "tianyi/syyp",
+            "tianyi/xyp",
+            "tianyi/djbtrp",
+            "tianyi/yhwp"
+        ]
+    },
+    "music.creative": {
         "replace": true,
         "sounds": [
             "tianyi/hudiepiano",
@@ -148,7 +191,7 @@
     "music.nether.crimson.forest": {
         "replace":true,
         "sounds":[
-    "tianyi/jtjmp",
+            "tianyi/jtjmp",
             "tianyi/aloudp",
             "tianyi/dzqyp"
         ]
