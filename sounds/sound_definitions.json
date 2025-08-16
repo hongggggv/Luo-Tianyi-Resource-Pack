@@ -395,13 +395,13 @@
             {
                 "name": "sounds/tianyi/menu/miao",
                 "stream": true,
-                "volume": 0.5,
+                "volume": 0.4,
                 "load_on_low_memory": true 
             },
             {
                 "name": "sounds/tianyi/menu/mua",
                 "stream": true,
-                "volume": 0.5,
+                "volume": 0.4,
                 "load_on_low_memory": true 
             }
         ]
