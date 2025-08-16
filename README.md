@@ -12,8 +12,7 @@
 - 那就来试一试吧！
 - 其他背景图见[这里](https://wwzp.lanzoum.com/b01391usmb) 密码：9icv
 - 资源包里内置一些洛天依的背景音乐，1.21.6+ 版本可以打开`显示共鸣曲框`以及将`天依歌唱频率`调整为`跃动不息`体验更佳。
-- ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
-  ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/39d99d4f10c70cc7fe53a5faf35202dd8defcea8.png)
+![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
 - 更多画面详见 [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) 标签页。
 - More images are detailed in the [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) tab.
 ## 洛天依是谁？
