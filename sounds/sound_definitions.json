@@ -375,6 +375,11 @@
             "name":"sounds/tianyi/menu/zdh",
             "stream":true,
             "load_on_low_memory":true
+        },
+        {
+            "name":"sounds/tianyi/menu/dramatic",
+            "stream":true,
+            "load_on_low_memory":true
         }
     ]
     },
