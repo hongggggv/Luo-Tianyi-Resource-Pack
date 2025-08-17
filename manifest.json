@@ -4,7 +4,7 @@
         "description":"让玩MC的你也有天依的陪伴~",
         "name": "Tianyicraft",
         "uuid": "8a0838ed-0ed6-4c05-9330-769f1b93ff03",
-        "version": [712,13,1],
+        "version": [712,14,1],
         "min_engine_version": [1, 17, 0]
     },
     "modules": [
