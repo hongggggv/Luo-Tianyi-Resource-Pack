@@ -205,7 +205,7 @@
 	"jade.mobduplication.time": "复制冷却：%s",
 	"config.jade.plugin_minecraft.brewing_stand": "酿造台",
 	"config.jade.plugin_minecraft.tnt_stability": "TNT稳定性",
-	"config.jade.plugin_minecraft.tnt_stability_desc": "警告玩家被破坏时会爆炸特殊的TNT。",
+	"config.jade.plugin_minecraft.tnt_stability_desc": "警告锦依卫被破坏时会爆炸特殊的TNT。",
 	"jade.tnt.unstable": "易爆,快逃",
 	"config.jade.plugin_minecraft.beehive": "蜂箱",
 	"config.jade.plugin_minecraft.beehive_extra_msg": "蜜蜂,蜂蜜,蜂巢",
