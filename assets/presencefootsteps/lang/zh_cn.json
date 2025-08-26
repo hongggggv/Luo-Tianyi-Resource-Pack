@@ -1,12 +1,12 @@
 {
     "key.category.presencefootsteps": "足音模组",
-    "key.presencefootsteps.toggle.disabled": "声音已禁用",
-    "key.presencefootsteps.toggle.enabled": "声音已启用",
+    "key.presencefootsteps.toggle.disabled": "声音已ban掉",
+    "key.presencefootsteps.toggle.enabled": "声音已共鸣",
     "menu.pf.footwear.on": "穿鞋：开启",
     "menu.pf.group.volume": "音量",
-    "menu.pf.volume.hostile_entities": "敌对生物声音音量：%d%%",
-    "menu.pf.volume.hostile_entities.tooltip": "调整敌对生物的脚步声音量。",
-    "menu.pf.volume.passive_entities": "被动生物：%d%%",
+    "menu.pf.volume.hostile_entities": "恶灵声音音量：%d%%",
+    "menu.pf.volume.hostile_entities.tooltip": "调整恶灵(敌对生物)的脚步声音量。",
+    "menu.pf.volume.passive_entities": "善灵声音音量：%d%%",
     "menu.pf.volume.passive_entities.tooltip": "调整动物的脚步声音量。",
     "pf.default_sounds.missing": "未检测到声音包。前往资源包并启用 %s 以开始。"
 }
