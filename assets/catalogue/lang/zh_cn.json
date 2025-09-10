@@ -1,0 +1,18 @@
+{
+  "fml.menu.mods.filter_updates": "只显示有更新的西柚包",
+  "catalogue.gui.internal_libraries": "显示内部库",
+  "catalogue.gui.no_selection": "没有选择西柚包⋯⋯",
+  "catalogue.gui.mod_list": "西柚包",
+  "catalogue.gui.search": "搜索",
+  "catalogue.gui.config": "配置",
+  "catalogue.gui.website": "网站",
+  "catalogue.gui.submit_bug": "报告Bug",
+  "catalogue.gui.open_mods_folder": "打开西柚包文件夹",
+  "catalogue.gui.licenses": "许可协议：%s",
+  "catalogue.gui.authors": "P主：%s",
+  "catalogue.gui.contributors": "贡献者：%s",
+  "catalogue.gui.credits": "致谢：%s",
+  "catalogue.gui.version": "版本：%s",
+  "catalogue.gui.update_available": "更新：%s",
+  "catalogue.gui.info": "此菜单由Catalogue提供。戳戳此处打开此西柚包的CurseForge页面！"
+}
