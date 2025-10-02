@@ -13,21 +13,19 @@
 - 其他背景图见[这里](https://wwzp.lanzoum.com/b01391usmb) 密码：0712
 - 资源包里内置一些洛天依的背景音乐，1.21.6+ 版本可以打开`显示共鸣曲框`以及将`天依歌唱频率`调整为`跃动不息`体验更佳。
 ![一些死亡提示](https://cdn.modrinth.com/data/cached_images/93bb677de2e3d40d6ebb05aa65cb25442654c5c2.png)
-- 更多画面详见 [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) 标签页。
-- More images are detailed in the [Gallery](https://modrinth.com/resourcepack/tianyicraft/gallery) tab.
 ## 洛天依是谁？
 - 洛天依(Luo Tianyi)，世界首位中文虚拟歌手，2012年7月12日正式出道，以其可爱的形象，动听的歌声，多样的音乐风格和创作生态深受广大乐迷的喜爱。经典作品包括《普通DISCO》，《达拉崩吧》，《追光使者》等，使得洛天依奠定其中国虚拟歌手的标杆地位。洛天依的粉丝自称“锦依卫”，洛天依的应援颜色为 #66CCFF(RGB制)。
 # 如何加载这个资源包呢？
 - 下载以后放入 `resourcepacks` 这个文件夹即可
 # 我发现了 Bug！
-- 直接在这里提交 issue 即可，资源包的创作者会去捉虫的（可能会回复不及时，请见谅）。
+- 直接在这里提交 [issue](https://github.com/hongggggv/Tianyicraft/issues) 即可，资源包的创作者会去捉虫的（可能会回复不及时，请见谅）。
 # 常见问题
 - Q1.这个资源包怎么用呢？
 - A:请见上文。
 - Q2.资源包的闪烁标语为什么这么多？
 - A:这 712 条闪烁标语是文案组无数个小时的努力制作而成，712 条是为了庆祝洛天依的生日 7 月 12 日。
 - Q3.我有一些问题要问！
-- A:直接在 Discussion 提出即可。
+- A:直接在 [Discussion](https://github.com/hongggggv/Tianyicraft/discussions) 提出即可。
 - Q4.有英文版本吗？
 - A:不好意思，这个暂时没有哦，洛天依的绝大部分歌曲都是中文演唱，目前只有在中文语境下才能体验到完整内容。
 - Q5.支持的游戏版本？
