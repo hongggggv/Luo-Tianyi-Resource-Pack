@@ -1,5 +1,5 @@
 {
-    "accessibility.onboarding.screen.narrator": "戳一下空格或回车以启用“天依领航员”",
+    "accessibility.onboarding.screen.narrator": "戳一下空格或回车启用“天依领航员”",
     "accessibility.onboarding.screen.title": "你好呀，我是虚拟歌手洛天依！感谢你的喜欢！\n如果你能从天依的歌声里感受到一点点快乐和幸福，就是我最开心的事情啦！\n这是个充满创造力的世界，期待你在这里，留下独属于我们的故事~\n欢迎来到Minecraft × 洛天依！天依想问你一下需要访问辅助功能设置或启用天依领航员吗？",
     "addServer.add": "完毕",
     "addServer.enterIp": "地址（IPv4、IPv6均可）",
@@ -1331,7 +1331,7 @@
     "death.attack.drown.player": "%1$s在试图逃离%2$s时变成了落水天依",
     "death.attack.drown": "%1$s成功地变成了落水天依",
     "death.attack.dryout.player": "%1$s被%2$s做成了肉干，天依看起来很馋~",
-    "death.attack.dryout": "%1$s被天依吃了~ (╯▽╰ )好香~~",
+    "death.attack.dryout": "%1$s试图进化上岸变成两栖类生物，但是失败了，变成了肉干",
     "death.attack.even_more_magic": "%1$s在不知道的情况下莫名死亡",
     "death.attack.explosion.player.item": "%1$s被%2$s用%3$s炸熟了，QWQ",
     "death.attack.explosion.player": "%1$s被%2$s炸成了爆米花，天依闻着味就来了~",
@@ -4302,5 +4302,9 @@
     "narration.checkbox.usage.focused.check": "戳戳空格或回车来勾选它",
     "narration.checkbox.usage.focused.uncheck": "戳戳空格或回车来取消勾选它",
     "narration.checkbox.usage.hovered.uncheck": "戳戳左键来取消勾选它",
-    "narration.checkbox.usage.hovered.check": "戳戳左键来勾选它"
+    "narration.checkbox.usage.hovered.check": "戳戳左键来勾选它",
+    "key.debug.spectate": "循环切换视奸模式",
+    "key.debug.clearChat": "清空天依聊天室",
+    "key.debug.crash": "让天依吃掉游戏（崩溃）~",
+    "options.vignette.tooltip": "共鸣界面周围一些小小的细微纹理，用于和缓屏幕边缘亮度与警示共鸣地边界。"
 }
