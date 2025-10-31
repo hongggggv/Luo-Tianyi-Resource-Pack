@@ -45,31 +45,26 @@
             {
                 "name": "sounds/tianyi/menu/xiyoujiuzhou",
                 "stream": true,
-        
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/zaishengrecallcn",
                 "stream": true,
-            
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/zaishengjp",
                 "stream": true,
-            
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/hudie",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/dazaiqianyuan",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
@@ -81,205 +76,171 @@
             {
                 "name": "sounds/tianyi/menu/youyigeyewan",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/zuiwanmeidexiatian",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/qianjinlongmeng",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/guangyuying",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/xiachong",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/lianaise",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/66ccff",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/yiban",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/gouzhi",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/wanfen",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/yihuayi",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/cike",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/juguang",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/xinyin",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/txw",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/gxsf",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/ymqx",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/syy",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/sanyueyure",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/mono",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/wwyl",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/xttb",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/qytx",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/ilt",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/wgsx",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/bkrj",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/dkqb",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/jij",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/tsdf",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/xszy",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/qgx",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/tszw",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/djbtr",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
                 "name": "sounds/tianyi/menu/ps",
                 "stream": true,
-                
                 "load_on_low_memory": true
             },
             {
@@ -418,109 +379,91 @@
             {
                 "name":"sounds/tianyi/menu/hudiepiano",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/guangyuyinpiano",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/youyigeyewanpiano",
-                "stream":true,
-                    
+                "stream":true,  
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/lianaisep",
-                "stream":true,
-                    
+                "stream":true,  
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/yibanp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/wanfenp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/zuiwanmeip",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/cikep",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/zaishengp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xiyoup",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/66ccffp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/gxsfp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/ymqxp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/syyp",
-                "stream":true,
-                    
+                "stream":true,  
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xyp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/djbtrp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/yhyp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xcp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             }
         ]
@@ -531,8 +474,7 @@
         "sounds":[
             {
                 "name":"sounds/tianyi/menu/chaoshengp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             }
         ]
@@ -544,7 +486,6 @@
             {
                 "name":"sounds/tianyi/menu/ssgp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
@@ -565,8 +506,7 @@
         "sounds":[
             {
                 "name":"sounds/tianyi/menu/dala",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             }
         ]
@@ -576,8 +516,7 @@
         "sounds":[
             {
                 "name":"sounds/tianyi/menu/jtjmp",
-                "stream":true,
-                    
+                "stream":true,  
                 "load_on_low_memory":true
             },
             {
@@ -599,7 +538,6 @@
             {
                 "name":"sounds/tianyi/menu/weichang",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             }
         ]
@@ -611,109 +549,91 @@
             {
                 "name":"sounds/tianyi/menu/hudiepiano",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/guangyuyinpiano",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/youyigeyewanpiano",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/lianaisep",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/yibanp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/wanfenp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/zuiwanmeip",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/cikep",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/zaishengp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xiyoup",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/66ccffp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/gxsfp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/ymqxp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/syyp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xyp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/djbtrp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/yhyp",
-                "stream":true,
-                    
+                "stream":true, 
                 "load_on_low_memory":true
             },
             {
                 "name":"sounds/tianyi/menu/xcp",
                 "stream":true,
-                    
                 "load_on_low_memory":true
             }
         ]
