@@ -207,6 +207,14 @@
             "tianyi/dzqyp"
         ]
     },
+    "music.nether.basalt_deltas": {
+        "replace":true,
+        "sounds":[
+            "tianyi/jtjmp",
+            "tianyi/aloudp",
+            "tianyi/dzqyp"
+        ]
+    },
     "music.nether.nether_wastes": {
         "replace":true,
         "sounds":[
