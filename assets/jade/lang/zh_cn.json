@@ -185,7 +185,7 @@
 	"config.jade.plugin_jade.block_face": "目标方块的朝向",
 	"config.jade.plugin_jade.block_face_desc": "显示瞄准方块的面的朝向。",
 	"config.jade.plugin_jade.block_face_extra_msg": "方向",
-	"entity.minecraft.villager.none": "失业",
+	"entity.minecraft.villager.none": "无业",
 	"entity.minecraft.villager.nitwit": "憨憨",
 	"command.jade.dump.success": "导出啦~",
 	"config.jade.plugin_minecraft.horse_stats": "马儿信息",
