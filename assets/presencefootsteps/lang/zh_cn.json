@@ -8,5 +8,5 @@
     "menu.pf.volume.hostile_entities.tooltip": "调整恶灵(敌对生物)的脚步声音量。",
     "menu.pf.volume.passive_entities": "善灵声音音量：%d%%",
     "menu.pf.volume.passive_entities.tooltip": "调整动物的脚步声音量。",
-    "pf.default_sounds.missing": "未检测到声音包。前往资源包并启用 %s 以开始。"
+    "pf.default_sounds.missing": "还莫得检测到声音包。请前往资源包并启用 %s 然后才能开始哦~"
 }
