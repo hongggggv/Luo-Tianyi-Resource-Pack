@@ -1,6 +1,6 @@
 {
     "item.enigmaticlegacy.enigmatic_amulet": "神秘护身符",
-    "item.enigmaticlegacy.enigmatic_item": "创造之心",
+    "item.enigmaticlegacy.enigmatic_item": "神明之心",
     "item.enigmaticlegacy.magnet_ring": "磁力之戒",
     "item.enigmaticlegacy.extradimensional_eye": "超维之眼",
     "item.enigmaticlegacy.recall_potion": "召回药水",
@@ -110,7 +110,7 @@
     "item.enigmaticlegacy.quote_player": "呓语播放器",
     "item.enigmaticlegacy.insignia": "迷人徽章",
     "item.enigmaticlegacy.deception_amulet": "诡计护符 [未完成]",
-    "item.enigmaticlegacy.the_judgement": "审判",
+    "item.enigmaticlegacy.the_judgement": "虚伪审判",
     "item.enigmaticlegacy.soul_dust": "灵魂尘",
     
     "block.enigmaticlegacy.big_lamp": "大灯笼",
@@ -217,14 +217,14 @@
     "enchantment.enigmaticlegacy.eternal_binding": "永恒绑定诅咒",
     "enchantment.enigmaticlegacy.sorrow": "悲恸诅咒",
     
-    "enchantment.enigmaticlegacy.eternal_binding.desc": "使装备无法被卸下，即便持有者死亡。",
-    "enchantment.enigmaticlegacy.sorrow.desc": "受到伤害时有可能会遭到额外的随机负面效果。",
+    "enchantment.enigmaticlegacy.eternal_binding.desc": "使装备无法被非神明卸下，即使持有者死亡。",
+    "enchantment.enigmaticlegacy.sorrow.desc": "受到伤害时有可能会受到额外的随机负面效果。",
     "enchantment.enigmaticlegacy.nemesis.desc": "对使用者造成反弹伤害，威力为近战伤害的25%",
     "enchantment.enigmaticlegacy.sharpshooter.desc": "增加箭矢的伤害并减少伤害随机性",
-    "enchantment.enigmaticlegacy.ceaseless.desc": "射击不消耗普通箭矢",
+    "enchantment.enigmaticlegacy.ceaseless.desc": "射击不消耗普通箭矢（弩专用）",
     "enchantment.enigmaticlegacy.torrent.desc": "增加对火焰免疫和怕水的生物的伤害",
     "enchantment.enigmaticlegacy.wrath.desc": "增加对任意生物的伤害",
-    "enchantment.enigmaticlegacy.slayer.desc": "增加对任意怪物的伤害",
+    "enchantment.enigmaticlegacy.slayer.desc": "增加对任意怪物的伤害并暂时缓慢",
     
     "curios.identifier.scroll": "奥秘卷轴",
     "curios.identifier.spellstone": "术石",
@@ -245,17 +245,17 @@
     "key.spellstoneAbility": "术石能力激活",
     "tooltip.enigmaticlegacy.currentKeybind": "§6绑定按键：§d%1$s",
     "tooltip.enigmaticlegacy.seconds": "秒",
-    "death.attack.darkness": "%1$s被黑暗吞噬了",
-    "message.enigmaticlegacy.permadeath": "在尝试完成这项壮举的过程中，你证明了自己的勇气。 \n愿您碎裂的灵魂最终得以安息。",
+    "death.attack.darkness": "%1$s太为虚弱，看完书被黑暗吞噬了",
+    "message.enigmaticlegacy.permadeath": "在尝试完成这项壮举的过程中，你证明了自己的勇气。 \n愿您碎裂的灵魂最终得以安息。\n轮回因果将安息，现实朝灰色的破晓迫近...",
     "message.enigmaticlegacy.cursed_sleep": "当你接近睡着时，七咒唤醒了你内心最深处不可言语的恐惧，以及恼人的不确定性。就如绝望者永无希望，不眠者永不安息……",
     "message.enigmaticlegacy.gen_sim_complete": "正在模拟 §632768§5 个实例；检查 §6latest.log§5 文件查看结果。",
     "message.enigmaticlegacy.animal_analysis_complete": "实体注册分析已完成；请检查 §6latest.log§5 文件查看结果。",
-    "message.enigmaticlegacy.voiceover_experimental": "§e你好！这这里§6神秘遗物§e制作组。此画外音功能并不是一个模组常用的功能，我们需要告知你的是这是个实验性功能，而我们正在积极获取玩家的反馈。在游玩一段时间后请你们加入我们的§6Discord§e频道给出你游玩时的体验：（需要翻墙）§6https://discord.gg/fuWK8ns",
+    "message.enigmaticlegacy.voiceover_experimental": "§e你好！这里是§6神秘遗物§e制作组。此画外音功能并不是一个模组常用的功能，我们需要告知你的是这是个实验性功能，而我们正在积极获取玩家的反馈。在游玩一段时间后请你们加入我们的§6Discord§e频道给出你游玩时的体验：（需要翻墙）§6https://discord.gg/fuWK8ns",
     "status.enigmaticlegacy.outdated": "§6神秘遗物§5推出新版本了： %1$s。它的魅力必须被您见证!",
     "status.enigmaticlegacy.noconnection": "神秘遗物检查更新失败。",
     "world.enigmaticlegacy.name": "世界 #",
-    "gui.enigmaticlegacy.permadeathTitle": "末地",
-    "gui.enigmaticlegacy.toWorldList": "回到世界列表",
+    "gui.enigmaticlegacy.permadeathTitle": "终了结束，你的灵魂业已泯灭。",
+    "gui.enigmaticlegacy.toWorldList": "回归灰白的原来",
     "gameMode.enigmaticlegacy.cursed": "§c诅咒模式",
     "gameMode.enigmaticlegacy.cursedHardcore": "§4极限诅咒！",
     "gameMode.enigmaticlegacy.fractured": "§4已逝……",
@@ -286,51 +286,51 @@
     "advancement.enigmaticlegacy:discoverSpellstone.desc": "找到你的第一块术石",
     
     "advancement.enigmaticlegacy:discoverScroll": "专业的巫师",
-    "advancement.enigmaticlegacy:discoverScroll.desc": "获得你的第一个奥秘卷轴",
+    "advancement.enigmaticlegacy:discoverScroll.desc": "获得你的第一个奥秘卷轴，但你不能直接施法",
     
-    "advancement.enigmaticlegacy:discoverRing": "疯狂的 0.5 克拉钻石",
+    "advancement.enigmaticlegacy:discoverRing": "交换无名指金色的契约",
     "advancement.enigmaticlegacy:discoverRing.desc": "找到或制作你的第一个戒指",
     
-    "advancement.enigmaticlegacy:recallPotion": "跑路",
-    "advancement.enigmaticlegacy:recallPotion.desc": "酿造召回药水",
+    "advancement.enigmaticlegacy:recallPotion": "溜了溜了",
+    "advancement.enigmaticlegacy:recallPotion.desc": "酿造召回药水\n“曾跨越多少次昼夜更替”",
     
-    "advancement.enigmaticlegacy:magnetRing": "富有磁性",
+    "advancement.enigmaticlegacy:magnetRing": "天磁良机",
     "advancement.enigmaticlegacy:magnetRing.desc": "找到或制作磁力之戒",
     
     "advancement.enigmaticlegacy:superMagnetRing": "饕餮之眼",
     "advancement.enigmaticlegacy:superMagnetRing.desc": "找到或制作错位之戒",
     
-    "advancement.enigmaticlegacy:heavenScroll": "天堂之卷轴",
+    "advancement.enigmaticlegacy:heavenScroll": "天音也悠扬~",
     "advancement.enigmaticlegacy:heavenScroll.desc": "找到或制作天堂之礼",
     
     "advancement.enigmaticlegacy:voidPearl": "希望消逝",
-    "advancement.enigmaticlegacy:voidPearl.desc": "认领虚空珍珠",
+    "advancement.enigmaticlegacy:voidPearl.desc": "认领虚(yang)空(shou)珍珠，仅能在末地城以0.7%概率发现",
     
     "advancement.enigmaticlegacy:forbiddenAxe": "骇人报复",
     "advancement.enigmaticlegacy:forbiddenAxe.desc": "用行刑者之斧砍下敌人的头颅。",
     
-    "advancement.enigmaticlegacy:megasponge": "谁住在最深处？",
+    "advancement.enigmaticlegacy:megasponge": "是谁住在最深处的大菠萝里？",
     "advancement.enigmaticlegacy:megasponge.desc": "找到或制作无内海绵",
     
     "advancement.enigmaticlegacy:mendingMixture": "外星物质",
     "advancement.enigmaticlegacy:mendingMixture.desc": "找到或制作修补混合物",
     
-    "advancement.enigmaticlegacy:unholyGrail": "不听老人言",
+    "advancement.enigmaticlegacy:unholyGrail": "啊哈哈哈，寄汤来喽",
     "advancement.enigmaticlegacy:unholyGrail.desc": "饮用不洁圣杯内的水",
     
     "advancement.enigmaticlegacy:unholyGrailWorthy": "罪恶霸业",
-    "advancement.enigmaticlegacy:unholyGrailWorthy.desc": "驾驭不洁圣杯的力量……但代价是什么？",
+    "advancement.enigmaticlegacy:unholyGrailWorthy.desc": "足以驾驭不洁圣杯的力量……但代价是什么？",
     
-    "advancement.enigmaticlegacy:astralDust": "原始催化剂",
-    "advancement.enigmaticlegacy:astralDust.desc": "发现星尘",
+    "advancement.enigmaticlegacy:astralDust": "悬停在无界的太空",
+    "advancement.enigmaticlegacy:astralDust.desc": "发现星尘，一种很有用的材料",
     
-    "advancement.enigmaticlegacy:smeltEtherium": "并没有那么虚无缥缈",
-    "advancement.enigmaticlegacy:smeltEtherium.desc": "熔炼以太锭",
+    "advancement.enigmaticlegacy:smeltEtherium": "以太不存在吗？",
+    "advancement.enigmaticlegacy:smeltEtherium.desc": "熔炼与获取以太锭",
     
-    "advancement.enigmaticlegacy:etheriumTool": "激进工具设计师",
+    "advancement.enigmaticlegacy:etheriumTool": "深空宝具设计师",
     "advancement.enigmaticlegacy:etheriumTool.desc": "制作任意以太工具",
     
-    "advancement.enigmaticlegacy:etheriumGear": "终极防御",
+    "advancement.enigmaticlegacy:etheriumGear": "瓦纳海姆科技",
     "advancement.enigmaticlegacy:etheriumGear.desc": "制作全套以太护甲",
     
     "advancement.enigmaticlegacy:ultimatePotion": "酿造大师",
@@ -339,46 +339,46 @@
     "advancement.enigmaticlegacy:loreInscriber": "铭文撰者",
     "advancement.enigmaticlegacy:loreInscriber.desc": "获得设计师的墨水",
     
-    "advancement.enigmaticlegacy:burnTheTome": "你怎敢",
+    "advancement.enigmaticlegacy:burnTheTome": "你怎敢！",
     "advancement.enigmaticlegacy:burnTheTome.desc": "尝试并使用远古巨著作为熔炉燃料",
     
     "advancement.enigmaticlegacy:forbiddenFruit": "原初罪行",
-    "advancement.enigmaticlegacy:forbiddenFruit.desc": "吃下禁果，摆脱饥饿的诅咒",
+    "advancement.enigmaticlegacy:forbiddenFruit.desc": "吃下禁果，摆脱饥饿的诅咒；那么，神罚是什么呢？",
     
-    "advancement.enigmaticlegacy:cursedRing": "前途黑暗",
+    "advancement.enigmaticlegacy:cursedRing": "七重痼病",
     "advancement.enigmaticlegacy:cursedRing.desc": "带上七咒之戒并接受七个诅咒",
     
-    "advancement.enigmaticlegacy:twistedHeart": "它将背叛你",
+    "advancement.enigmaticlegacy:twistedHeart": "痛苦游离之核",
     "advancement.enigmaticlegacy:twistedHeart.desc": "创造扭曲的心",
     
     "advancement.enigmaticlegacy:guardianHeart": "恶意之眼",
     "advancement.enigmaticlegacy:guardianHeart.desc": "杀死远古守护者并获得守护者之心",
     
     "advancement.enigmaticlegacy:infernalShield": "有本事刺穿§l它§r啊！",
-    "advancement.enigmaticlegacy:infernalShield.desc": "锻造赤炎之盾，一个终极防御工具",
+    "advancement.enigmaticlegacy:infernalShield.desc": "锻造赤炎之盾，一个只有咒怨缠身者才能用的终极防御工具",
     
-    "advancement.enigmaticlegacy:twistedMirror": "嫉妒美人",
+    "advancement.enigmaticlegacy:twistedMirror": "织线与终章",
     "advancement.enigmaticlegacy:twistedMirror.desc": "创建扭曲魔镜",
     
-    "advancement.enigmaticlegacy:theTwist": "命运倒转",
+    "advancement.enigmaticlegacy:theTwist": "逆转童话",
     "advancement.enigmaticlegacy:theTwist.desc": "击杀凋灵并使用邪恶精髓制作倒转之启",
     
-    "advancement.enigmaticlegacy:astralFruit": "绝妙的果子",
-    "advancement.enigmaticlegacy:astralFruit.desc": "在末地城内找到天体果实",
+    "advancement.enigmaticlegacy:astralFruit": "神明的造物",
+    "advancement.enigmaticlegacy:astralFruit.desc": "在末地城内找到天体果实\n“你眺望整个宇宙，找不到我”",
     
-    "advancement.enigmaticlegacy:abyssalHeart": "邪异的恐怖",
-    "advancement.enigmaticlegacy:abyssalHeart.desc": "杀死末影龙并获得深渊之心",
+    "advancement.enigmaticlegacy:abyssalHeart": "不堪一击却君临你的心",
+    "advancement.enigmaticlegacy:abyssalHeart.desc": "在满足极度邪恶的情况下杀死末影龙并获得深渊之心",
     
-    "advancement.enigmaticlegacy:theInfinitum": "超然象外",
+    "advancement.enigmaticlegacy:theInfinitum": "我即是无由无用无穷无尽",
     "advancement.enigmaticlegacy:theInfinitum.desc": "获得无止之言，成为深渊的使者",
     
-    "advancement.enigmaticlegacy:desolationRing": "现实者鄙",
+    "advancement.enigmaticlegacy:desolationRing": "现实面前如此不堪一击",
     "advancement.enigmaticlegacy:desolationRing.desc": "铸造荒芜之负，并忍受其结果",
     
-    "advancement.enigmaticlegacy:allSpellstones": "石头做的魔法书",
+    "advancement.enigmaticlegacy:allSpellstones": "“光锥之外，即为现实”",
     "advancement.enigmaticlegacy:allSpellstones.desc": "收集每一个独特的术石。也许有某种途径将它们全部合并为一……",
     
-    "advancement.enigmaticlegacy:theCube": "钨块治愈了我的腐朽",
+    "advancement.enigmaticlegacy:theCube": "”光锥之内，即为命运“",
     "advancement.enigmaticlegacy:theCube.desc": "将所有的术石都强扭成一个强力而不自然的形体——非欧立方",
     
     "advancement.enigmaticlegacy:fabulousScroll": "手触苍穹",
@@ -489,12 +489,12 @@
     "tooltip.enigmaticlegacy.extradimensionalEye3": "§5然后你可以使用 §6左键§5",
     "tooltip.enigmaticlegacy.extradimensionalEye4": "§5点击生物，将其",
     "tooltip.enigmaticlegacy.extradimensionalEye5": "§5传送到这个位置，只要他",
-    "tooltip.enigmaticlegacy.extradimensionalEye6": "§5位于同一维度。",
-    "tooltip.enigmaticlegacy.extradimensionalEye7": "§6使用后消失。",
+    "tooltip.enigmaticlegacy.extradimensionalEye6": "§5位于同一共鸣之界。",
+    "tooltip.enigmaticlegacy.extradimensionalEye7": "§6一次性，使用后消失。",
     
     "tooltip.enigmaticlegacy.recallPotion1": "§5将你送回床上或§6重生锚§5旁。",
     "tooltip.enigmaticlegacy.recallPotion2": "§5若无，则会传送到",
-    "tooltip.enigmaticlegacy.recallPotion3": "§5§6世界出生点§5。",
+    "tooltip.enigmaticlegacy.recallPotion3": "§5§6共鸣地出生点§5。",
     
     "tooltip.enigmaticlegacy.twistedMirror1": "§5凝视镜子回到床上",
     "tooltip.enigmaticlegacy.twistedMirror2": "§5或§6重生锚§5旁，若无，",
@@ -507,7 +507,7 @@
     
     "tooltip.enigmaticlegacy.escapeTome1": "§5当你死亡时，传送你的物品到",
     "tooltip.enigmaticlegacy.escapeTome2": "§5床上或§6重生锚§5旁，若无，",
-    "tooltip.enigmaticlegacy.escapeTome3": "§5则会传送到§6主世界中心。",
+    "tooltip.enigmaticlegacy.escapeTome3": "§5则会传送到§6瓦纳海姆中心。",
     "tooltip.enigmaticlegacy.escapeTome4": "§5自身会保留在死亡位置。",
     
     "tooltip.enigmaticlegacy.superMagnetRing1": "§5立即收集掉落物，",
@@ -528,13 +528,13 @@
     
     "tooltip.enigmaticlegacy.miningCharm1": "§6+%1$s§d 挖掘速度",
     "tooltip.enigmaticlegacy.miningCharm2": "§6+%1$s§d 时运等级",
-    "tooltip.enigmaticlegacy.miningCharm3": "§5当你在地下时，给予你§6夜视§5效果。 ",
+    "tooltip.enigmaticlegacy.miningCharm3": "§5当你在地下时，给予你§6深夜诗人§5效果。 ",
     "tooltip.enigmaticlegacy.miningCharm4": "§5该效果可通过将护符",
     "tooltip.enigmaticlegacy.miningCharm5": "§5拿在手上§6右击§5关闭。",
-    "tooltip.enigmaticlegacy.miningCharmNightVision": "§d夜视：%1$s",
+    "tooltip.enigmaticlegacy.miningCharmNightVision": "§d深夜诗人模式：%1$s",
     
     "tooltip.enigmaticlegacy.enderRing1": "§5允许你用绑定按键或",
-    "tooltip.enigmaticlegacy.enderRing2": "§5物品栏开启§6末影箱§5。",
+    "tooltip.enigmaticlegacy.enderRing2": "§5物品栏开启§6四维小笼包§5。",
     
     "tooltip.enigmaticlegacy.angelBlessing1": "§d主动技能：",
     "tooltip.enigmaticlegacy.angelBlessing2": "§6- 向你视野的方向运动时，你的速度会在增加",
@@ -688,7 +688,7 @@
     
     "tooltip.enigmaticlegacy.etheriumSword1": "§6手持这把剑时，",
     "tooltip.enigmaticlegacy.etheriumSword2": "§5右击即可将你抛掷向",
-    "tooltip.enigmaticlegacy.etheriumSword3": "§5你视线的相反方向",
+    "tooltip.enigmaticlegacy.etheriumSword3": "§5你视线的相反方向（战术后撤）",
     "tooltip.enigmaticlegacy.etheriumSword4": "§5冷却时间为 §6%1$s§6 秒",
     "tooltip.enigmaticlegacy.etheriumSword5": "§6潜行状态下右击§5可以切换开关",
     
@@ -802,7 +802,7 @@
     "tooltip.enigmaticlegacy.cursedOnesOnly2": "才能使用该物品。",
     
     "tooltip.enigmaticlegacy.worthyOnesOnly1": "§5获得使用这种物品的资格需要付出极大的牺牲：",
-    "tooltip.enigmaticlegacy.worthyOnesOnly2": "§5你必须在自来到世界以来§699.5%§的时间",
+    "tooltip.enigmaticlegacy.worthyOnesOnly2": "§5你必须在自来到世界以来§699.5%§的时间(默认)",
     "tooltip.enigmaticlegacy.worthyOnesOnly3": "§5都在七咒的折磨下度过。",
     "tooltip.enigmaticlegacy.worthyOnesOnly4": "目前这段时间的占比为：",
     
@@ -954,7 +954,7 @@
     "tooltip.enigmaticlegacy.astralPotato1": "§5看，星尘蕴藏的无尽美味！",
     
     "tooltip.enigmaticlegacy.cosmicCake1": "§5这比普通蛋糕有营养多了！",
-    "tooltip.enigmaticlegacy.cosmicCake2": "§5会逐渐修补自身。",
+    "tooltip.enigmaticlegacy.cosmicCake2": "§5会逐渐修补自身，且你一般吃不完。",
     
     "tooltip.enigmaticlegacy.soulCompass1": "§5它会指向最近的§6灵魂水晶",
     
@@ -975,7 +975,7 @@
     "tooltip.enigmaticlegacy.enigmaticEyeAwakened3": "§5但可以确定的是似乎其并没有表现出与你建立联系的意图。",
     "tooltip.enigmaticlegacy.enigmaticEyeAwakened4": "§5祂是出于没有能力的缘故还是仅仅不想与你建立",
     "tooltip.enigmaticlegacy.enigmaticEyeAwakened5": "§5非精神的联系？这个问题依旧有待解答。",
-    "tooltip.enigmaticlegacy.enigmaticEyeAwakened6": "§5显示装备§6迷人徽章§5的玩家的真名。",
+    "tooltip.enigmaticlegacy.enigmaticEyeAwakened6": "§5显示装备§6迷人徽章§5的锦依卫的真名。",
     
     "tooltip.enigmaticlegacy.enigmaticElytra1": "§5滑翔时按住跳跃键以持续向前加速。",
     "tooltip.enigmaticlegacy.enigmaticElytra2": "§5加速时耐久消耗更快。",
@@ -1030,16 +1030,16 @@
     "gui.enigmaticlegacy.blazing_core_bar_offsetY": "0",
     "gui.enigmaticlegacy.blazing_core__COMMENT": "Two strings above allow to move heat bar title by defining offsetX and offsetY to any positive or negative integers. This might be required for certain localizations more than for others depending on amount of symbols title takes takes to be spelled. You can, alternatively, leave title empty if you can't think of a solution that would look good, so that it just won't be rendered. Four symbols or less fit perfectly without any corrections. The string you read currently is just a commentary for localizators - you need not to translate it.",
     
-    "quote.no_peril_1": "倘若过程中没有曲折艰辛，那也就无法成就最终的荣耀。",
+    "quote.no_peril_1": "还没有看到胜利，何必就让自己出局？",
     "quote.end_doorstep_1": "终末之地的门户已经打开……只差迈出最后一步了。",
-    "quote.only_because_1": "跌倒，并不意味着你将就此踌躇不前。",
-    "quote.demise_is_1": "对于如你一样的半神而言，死亡不过是暂时的不便罢了。",
-    "quote.we_fall_1": "我们之所以跌倒，是为了学习如何重新站起来。",
+    "quote.only_because_1": "就算前路崎岖，布满了荆棘，还有我和你在一起。",
+    "quote.demise_is_1": "却始终信仰，因为长夜过去总会有新曙光。",
+    "quote.we_fall_1": "梦想不渺茫，是眼泪，加汗与热血熬出钻石发光。",
     "quote.you_will_endure_1": "你将承担这次失败的代价，并从中吸取教训。",
     "quote.oblivion_rejects_1": "湮灭拒绝了你……不要浪费这次机会，趁你还有能力时好好利用它。",
-    "quote.setback_1": "一次挫折，绝非失败。",
+    "quote.setback_1": "一整个宇宙，随细胞跳动，从黑夜，到白昼。",
     "quote.death_may_1": "死亡可能会阻挡你前进的脚步，但只要意志尚存，这就只是暂时的障碍。",
-    "quote.eternity_to_keep_1": "不惜一切代价去尝试吧——你的不朽意味着你还有无数次机会。",
+    "quote.eternity_to_keep_1": "继续努力吧——未来一定会比梦想更加灿烂。",
     "quote.violence_calls_1": "暴力必将唤起复仇。现在回归，还以颜色！",
     "quote.immortal_1": "你即为不朽！回归，向那可怜造物展示你的力量！",
     "quote.appaling_presence_1": "它的躯壳已逝……但留下的伤痕仍然深深刻在这方土地之上。",
@@ -1048,14 +1048,14 @@
     "quote.i_wandered_1": "我曾数次游历过这些破碎的陆地……",
     "quote.i_wandered_2": "沧海桑田，繁华转瞬即逝，只留下满目荒凉。",
     
-    "quote.another_demigod_1": "又一位游荡在这废弃土地上的半神……",
-    "quote.another_demigod_2": "让我在这段旅途中陪伴你吧。人生苦短，但或许你能成就他人穷极一生都无法完成之事。",
+    "quote.another_demigod_1": "有歌相伴的风景，陪我渡过孤寂……",
+    "quote.another_demigod_2": "再一次又一次我重塑自己，只为你屏住的呼吸。",
     
-    "quote.another_eon_1": "又一个时代，又一位流浪者。又一段故事开始了……",
-    "quote.another_eon_2": "我将以我全部之热情见证你的传说。",
+    "quote.another_eon_1": "又一个夜晚，不平凡，你已经不算简单……",
+    "quote.another_eon_2": "亲爱的小孩，爱自己，要大胆。",
     
-    "quote.perhaps_you_1": "或许，你将最终发掘这世界早已遗忘的秘密……",
-    "quote.perhaps_you_2": "倘若如此，我便是这无上成就的见证者。",
+    "quote.perhaps_you_1": "或许，也曾感受失望，见证无数次身边的人来人往……",
+    "quote.perhaps_you_2": "希望你，单枪匹马，活的漂亮。",
     
     "quote.sulfur_air_1": "空气中弥漫着刺鼻的硫磺味、烧焦的大地，烧焦的尸体……",
     "quote.sulfur_air_2": "这便是名副其实的地狱。",
@@ -1080,7 +1080,7 @@
     
     "quote.with_dragons_1": "随着末影龙的逝去，这片虚空变得比以往更加空旷、更加毫无生机。",
     "quote.with_dragons_2": "你会继续向着这片破碎的大地深处探索……",
-    "quote.with_dragons_3": "……还是回到主世界，回到理智与活力的怀抱中？",
+    "quote.with_dragons_3": "……还是回到瓦纳海姆，回到理智与活力的怀抱中？",
     "quote.with_dragons_4": "当然，你我都心知肚明……你无法抗拒探索这片无尽的未知的冲动，只是时间早晚的问题。",
     
     "quote.terrifying_form_1": "……它可怖的躯壳并非永生，但它的灵魂永不安息。",
@@ -1192,7 +1192,7 @@
     "book.enigmaticlegacy.entry.soul_loss.page.1": "每次死亡都有其代价，但除此之外，还有一个更重要的问题，这个问题比丢失物品和等级要严重得多。<br2/>每次你在世界中死亡，你的一部分灵魂就会离你而去，徘徊于你的死亡地点。它并不会长时间保持虚无状态，相反，它会迅速地在物理现实中显示出自身——这就是灵魂水晶。",
     "book.enigmaticlegacy.entry.soul_loss.page.2": "好在，成为如此这般的现实形态，使得它较之原先更为坚韧了。<br2/>灵魂水晶会飘浮于半空中，无法被破坏且不与任何施加于其上的力发生反应，似乎只有那些比半神位阶更高的自然方可破坏灵魂水晶。那些希望自己可以占有或破坏你的灵魂水晶的其他半神，只是在做白日梦罢了。",
     "book.enigmaticlegacy.entry.soul_loss.page.3": "你每失去一小块灵魂，你的生命力便会随之减弱。虚弱侵袭，死亡也就更易到来。但是，若你走到你的灵魂水晶旁边，它会朝向你飞来，被囚禁于晶体内的遗失灵魂之碎片，也会立即从中脱离，复归于你，并与你身上的灵魂水乳交融，回复如初。",
-    "book.enigmaticlegacy.entry.soul_loss.page.4": "好在，即便是在最糟糕的情况下。你也不会完全丧失掉你的生命力。灵魂越稀薄，就越是难以被撕裂。<br2/>不夸张地说，你是没有办法丢失掉所有灵魂碎片的，死再多次也是如此——但是，死亡次数过多会使你变得极端脆弱，任何的损伤都是致命的威胁。",
+    "book.enigmaticlegacy.entry.soul_loss.page.4": "好在，即便是在最糟糕的情况下。你也不会完全丧失掉你的生命力（配置文件可改）。灵魂越稀薄，就越是难以被撕裂。<br2/>不夸张地说，你是没有办法丢失掉所有灵魂碎片的，死再多次也是如此——但是，死亡次数过多会使你变得极端脆弱，任何的损伤都是致命的威胁。",
     
     
     "book.enigmaticlegacy.entry.first_glance.name": "初见",
@@ -1251,7 +1251,7 @@
     "book.enigmaticlegacy.entry.unholy_grail.page.3": "但作为一个独特的奖杯，留着它也挺不错的。",
     
     
-    "book.enigmaticlegacy.entry.void_stone.name": "无尽虚空之印章",
+    "book.enigmaticlegacy.entry.void_stone.name": "湮灭虚空之石",
     "book.enigmaticlegacy.entry.void_stone.heading.1": "基石",
     "book.enigmaticlegacy.entry.void_stone.page.1": "有些人总期盼着有着一种逆天的物品：这个物品有着极为酷炫的名字，以此彰显它的无所不能……好吧，无所不能，除了把你的背包清理得一干二净以外。<br2/>然而，这一物品却将这一功能作为自己主要的，或许可以说是唯一的功能。并且毋庸置疑，它在这件事上可谓是老手行家。这件独特的遗物可以与一样或者几样物品，或方块相互绑定。当这些绑定物出现在了你的物品栏中时，",
     "book.enigmaticlegacy.entry.void_stone.page.2": "它会将这些东西进行处理，具体处理方式取决于你的选择。只需一个物品作为样本，以及一些简单的操作，就可以清理掉符合样本的所有对象\ue908\ue909或者只是处理过量的对象。<br2/>若有额外的需要，你也可以使用更多的基石，进一步满足你的使用需求。",
@@ -1304,10 +1304,10 @@
     "book.enigmaticlegacy.entry.eye_of_nebula.page.2": "但是，后一个能力你是无法控制的，它并不是时刻都会对你有利，有时它还会害你。",
     
     
-    "book.enigmaticlegacy.entry.enigmatic_item.name": "创造之心",
+    "book.enigmaticlegacy.entry.enigmatic_item.name": "神明之心",
     "book.enigmaticlegacy.entry.enigmatic_item.heading.1": "术石",
     "book.enigmaticlegacy.entry.enigmatic_item.page.1": "这块石头蕴含的力量如此磅礴浩大，也因此，从未有过哪个半神掌握过这块石头。<br2/>它提供的终极防御，能让绝大多数的环境威胁彻底无效。大多数敌对生物仍然会以你为目标，并能够正常伤害你，但是，只要你仍掌握着这块石头，它们就永远无法夺走你的生命——你将不会被杀死。不论你有多么濒临死亡，都没有任何力量能够将你推向死亡的深渊。",
-    "book.enigmaticlegacy.entry.enigmatic_item.page.2": "尽管名称叫“创造之心”，它也能赋予你散布毁灭的终极法门：让你能够召唤毁灭性的凋灵骷髅头雨，就像凋灵召唤的头颅一样。",
+    "book.enigmaticlegacy.entry.enigmatic_item.page.2": "尽管名称叫“神明之心”，它也能赋予你散布毁灭的终极法门：让你能够召唤毁灭性的凋灵骷髅头雨，就像凋灵召唤的头颅一样。",
     "book.enigmaticlegacy.entry.enigmatic_item.page.3": "它也会将你所凝视的对象作为目标，并迅速消灭它。",
     
     
@@ -1857,7 +1857,7 @@
     "tooltip.enigmaticlegacy.cosmicScrollCooldown": "§d剩余冷却时间: §6%1$s §6秒",
     
     "book.enigmaticlegacy.entry.cosmic_scroll.name": "建筑师的青睐",
-    "book.enigmaticlegacy.entry.cosmic_scroll.page.1": "大多数半神，甚至是那些离神船很近的人，都否认了这个卷轴的威力。由建筑师自己决定谁可以拥有这个卷轴，正如传言所说的那样——前往$（l：https://discord.gg/fuWK8ns)他领地$(/l)的路很长，而且充满危险，被这个虔诚的存在所关注是很罕有的荣誉。",
+    "book.enigmaticlegacy.entry.cosmic_scroll.page.1": "大多数半神，甚至是那些已经成为神明之人，都无法触及这个卷轴的威力。由建筑师(注：神秘遗物作者)自己决定谁可以拥有这个卷轴，正如传言所说的那样——前往$（l：https://discord.gg/fuWK8ns)他领地$(/l)的路很长，而且充满危险，被这个虔诚的存在所关注是很罕有的荣誉。",
     "book.enigmaticlegacy.entry.cosmic_scroll.page.2": "然而，那些这样做的人被授予了无与伦比的权力；让世界沐浴在他们的荣耀中，让他们把信仰传播到别人的心中"
     
 }
