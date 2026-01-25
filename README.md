@@ -3,6 +3,10 @@
 - [天依亲手特调的客户端，基于 1.21 Fabric](https://45blcg-my.sharepoint.com/:u:/g/personal/luotianyi_45blcg_onmicrosoft_com/EfvDy_CPDsxDrC0dKh2F8gUBKSuMcYsSkQz_L63cn6VAng?e=QzwAL0)，内部资源包版本为 712w14b 版本，目前无需手动下载更新
 - 目前我想设计一个新的 UI，但是以我个人的能力还是不太行啊...我需要一个会设计 UI 的帮我设计一下 UI...群号 789040594，拜托了！
 - UP 现在还是高二学生，没那么多时间去维护这个项目...但 Github 的 Issue 我还是会看的！
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pearl-Luo/Tianyicraft&type=date&legend=top-left)](https://www.star-history.com/?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=dark#Pearl-Luo/Tianyicraft&type=date&legend=top-left)
+
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的 Minecraft 更有意思！
 - 支持 Java 和基岩版双平台！
