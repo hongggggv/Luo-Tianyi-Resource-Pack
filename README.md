@@ -38,7 +38,18 @@
 - 本资源包专为锦依卫准备！它包括各种自定义被修改的资源，如闪烁标语、文本和声音，其灵感均来自洛天依。在 Minecraft 尽情探索生机勃勃的洛天依世界吧！
 ### **注：本资源包由洛天依粉丝创建，与洛天依任何官方无关。所有内容均出于对角色和社区的热爱和尊重。**
 # 关于开源
-- 本资源包遵循 MIT 开源协议，你可以：
+- 本资源包的 Java 版本遵循 MIT 开源协议，你可以：
 - 修改并二次发布，以及在`"title.credits": "作者：@B-0712天依號A359" `这一行修改为你的名称，但必须在 credits.json 标上我的名称（B-0712天依號A359）。
 - 你不可以：
 - 在任何情况下宣称 Tianyicraft 是由你制作或归你所有。
+- Bedrock 版本所有内容均采用 **CC BY-NC-SA 4.0 国际许可协议** 授权
+- 署名（BY）：使用时需同时标注**原项目**及**本项目**的双来源信息
+- 非商业（NC）：禁止用于商业优势或金钱报酬相关的任何场景
+- 相同方式共享（SA）：任何基于 Bedrock 版本的二次创作，必须采用 CC BY-NC-SA 4.0 发布，不得添加额外限制
+完整法律条款见：[LICENSE](https://github.com/Pearl-Luo/Tianyicraft/blob/Bedrock/LICENSE) | https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans
+## 引用声明
+Bedrock 版本中语言文件复用 [mclangcn](https://github.com/ff98sha/mclangcn)，原作者：[ff98sha](https://github.com/ff98sha)。
+- 对原内容的修改说明：使用部分文案进行二次修改
+- 原项目许可协议：CC BY-NC-SA 4.0（https://creativecommons.org/licenses/by-nc-sa/4.0/）
+
+
