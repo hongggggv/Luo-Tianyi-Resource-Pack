@@ -4,7 +4,7 @@
 - 目前我想设计一个新的 UI，但是以我个人的能力还是不太行啊...我需要一个会设计 UI 的帮我设计一下 UI...群号 789040594，拜托了！
 - UP 现在还是高二学生，没那么多时间去维护这个项目...但 Github 的 Issue 我还是会看的！
 ## Star History
-
+喜欢的话别忘了点一个 Star 喵~
 [![Star History Chart](https://api.star-history.com/svg?repos=Pearl-Luo/Tianyicraft&type=date&legend=top-left)](https://www.star-history.com/?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=dark#Pearl-Luo/Tianyicraft&type=date&legend=top-left)
 
 # 里面有什么？
