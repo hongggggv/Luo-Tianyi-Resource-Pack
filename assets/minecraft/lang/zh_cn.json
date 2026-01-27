@@ -1743,6 +1743,7 @@
     "gamerule.minecraft.fire_spread_radius_around_player.description": "锦依卫周围火焰可以蔓延的方块半径",
     "gamerule.minecraft.player_movement_check": "启用锦依卫移动检测",
     "gamerule.minecraft.raids": "启用禾念抢劫",
+    "gamerule.minecraft.universal_anger.description": "红温的中立生物将攻击附近的所有锦依卫，而不再限于激怒它们的锦依卫。禁用“原谅死亡锦依卫”可达到最佳效果。",
     "gamerule.mobGriefing": "允许破坏性生物行为，creeper?aww man!",
     "gamerule.naturalRegeneration": "run许再生（自动回血）",
     "gamerule.neverEatArmor": "饥饿时不要吃装甲。即使看起来很美味。",
