@@ -355,7 +355,7 @@
     "advancement.enigmaticlegacy:guardianHeart.desc": "杀死远古守护者并获得守护者之心",
     
     "advancement.enigmaticlegacy:infernalShield": "有本事刺穿§l它§r啊！",
-    "advancement.enigmaticlegacy:infernalShield.desc": "锻造赤炎之盾，一个只有咒怨缠身者才能用的终极防御工具",
+    "advancement.enigmaticlegacy:infernalShield.desc": "锻造炽炎之盾，一个只有咒怨缠身者才能用的终极防御工具",
     
     "advancement.enigmaticlegacy:twistedMirror": "织线与终章",
     "advancement.enigmaticlegacy:twistedMirror.desc": "创建扭曲魔镜",
@@ -379,7 +379,7 @@
     "advancement.enigmaticlegacy:allSpellstones.desc": "收集每一个独特的术石。也许有某种途径将它们全部合并为一……",
     
     "advancement.enigmaticlegacy:theCube": "”光锥之内，即为命运“",
-    "advancement.enigmaticlegacy:theCube.desc": "将所有的术石都强扭成一个强力而不自然的形体——非欧立方",
+    "advancement.enigmaticlegacy:theCube.desc": "将所有的术石都强扭成一个强力而不自然的形体——非欧立方，曾译为命运之骰",
     
     "advancement.enigmaticlegacy:fabulousScroll": "手触苍穹",
     "advancement.enigmaticlegacy:fabulousScroll.desc": "获得造物主的恩赐",
@@ -1455,7 +1455,7 @@
     
     
     "book.enigmaticlegacy.entry.forbidden_fruit.name": "禁忌之果",
-    "book.enigmaticlegacy.entry.forbidden_fruit.heading.1": "果实",
+    "book.enigmaticlegacy.entry.forbidden_fruit.heading.1": "禁果",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.1": "一种稀有的遗物，可以位于下界堡垒之中，乍一看，这种果实看上去完全没有食欲。它的外观的确不假，不但尝起来有可怕的灰烬和腐烂味，而且气味又油又苦。如果你能忍受这可怕的味道并且吃完整个果，立即产生的效果很可能会杀死你，所以最好先治疗好自己到完全健康状态。",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.2": "在立即产生毒影响结束后，长期影响开始发挥作用。你将永远不再感觉到的饥饿，因此将无法食用大多数常规类型的食物。尽管这种效果看似有益，但其代价是永久不饱和，并显着减慢了任何形式的生命恢复。",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.3": "待到果实带给你的短时有毒效果消失，它给你附加上的长时效果便显露了出来。你再也不会体验到任何形式的饥饿，也因此无法吃下任何常规的食物。似乎这一效果有很多好处？但是它也是有代价的：不会饿，自然也就不会饱（没有饱和度），并且无论何种形式的生命再生效果，对你的影响都会被大幅削弱。这一效果无法消除，哪怕是死亡也不行，就好像那无法弥补的原罪。记住，使用前请三思。",
