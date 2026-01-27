@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [15, 64],
+        "min_format": 15,
+        "max_format": 712,
+        "description": "Tianyicraft的UI"
+    },
+    "author": [
+        "B-0712天依號A359"
+    ],
+    "home": "https://space.bilibili.com/636419039"
+}
