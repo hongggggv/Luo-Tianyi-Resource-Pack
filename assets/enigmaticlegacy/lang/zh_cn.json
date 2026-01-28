@@ -1102,7 +1102,7 @@
     
     
     "book.enigmaticlegacy.category.tools.name": "工具和武器",
-    "book.enigmaticlegacy.category.tools.desc": "在无手头工具的情况下，哪怕是半神，也休想轻松地释放出自己体内那创生与毁灭之力。<br2/>剑实际上与其他工具并无二异——它同样有着自己的目的因，在沉默中遵循着自己的使命。只是，恰巧，它的目的是为了给敌人放血罢了。",
+    "book.enigmaticlegacy.category.tools.desc": "在手头莫得工具的情况下，哪怕是半神，也休想轻松地释放出自己体内那创生与毁灭之力。<br2/>剑实际上与其他工具并无二异——它同样有着自己的目的，在沉默中遵循着自己的使命。只是，恰巧，它的目的是为了给敌人放血罢了。",
     
     
     "book.enigmaticlegacy.category.armor.name": "盔甲",
@@ -1114,7 +1114,7 @@
     
     
     "book.enigmaticlegacy.category.relics.name": "遗物",
-    "book.enigmaticlegacy.category.relics.desc": "无穷遗物散布在世界各地，而时代变迁，其中的许多早已被世人遗忘，而另一些则还流传于传说之中\ue908\ue909<br2/>而以探险与征服为生的你，恰好对这些东西极为地感兴趣，因为这些东西乃是通向不可思议之力量的钥匙，而且循其引导，在其背后，你似能找到你长久以来追寻的答案。",
+    "book.enigmaticlegacy.category.relics.desc": "无穷遗物散布在世界各地，而时代变迁，其中的许多早已被世人遗忘，而另一些则还流传于传说之中\ue908\ue909<br2/>而以探险与征服为生的你，恰好对这些东西极为感兴趣，因为这些东西乃是通向不可思议之力量的钥匙，而且循其引导，在其背后，你似能找到你长久以来追寻的答案。",
     
     
     "book.enigmaticlegacy.category.brewing.name": "酿造",
@@ -1126,7 +1126,7 @@
     
     
     "book.enigmaticlegacy.category.enchantments.name": "附魔",
-    "book.enigmaticlegacy.category.enchantments.desc": "附魔，以其自身而言，乃是一种极佳的艺术形式。各个流派的大师都在寻求不同方法进行 附魔，并且，最终并没有人知道究竟哪种方法效果最好，甚至，是否有一种最好的方法存在，这件事也悬而未决。<br2/>与其他艺术一样，所有的附魔流派建基于同一基础之上，而你，无论如何，都需要认真钻研构成这一基础的各个要点。",
+    "book.enigmaticlegacy.category.enchantments.desc": "附魔，以其自身而言，乃是一种极佳的艺术形式。各个流派的大师都在寻求不同方法进行 注魔，并且，最终并没有人知道究竟哪种方法效果最好，甚至，是否有一种最好的方法存在，这件事也悬而未决。<br2/>与其他艺术一样，所有的附魔流派建基于同一基础之上，而你，无论如何，都需要认真钻研构成这一基础的各个要点。",
     
     
     
@@ -1135,7 +1135,7 @@
     
     "book.enigmaticlegacy.entry.berserk_charm.name": "狂战之印记",
     "book.enigmaticlegacy.entry.berserk_charm.page.1": "畏惧死亡并不稀奇，毕竟它是一种生物本能。但是对于那些选择承受诅咒的人，恐惧是不可原谅的弱点。<br2/>借助“扭曲之心”的力量结合全部七个诅咒，你可以锻造这个勋章。它能将对你而言无比糟糕的局势逆转回来：",
-    "book.enigmaticlegacy.entry.berserk_charm.page.2": "越是接近死亡之边缘，你的愤怒和勇气就会越发充实，在咽下最后一口气之前，无论情况有多么糟糕，你都得拼尽全力，为自己杀出一条血路。",
+    "book.enigmaticlegacy.entry.berserk_charm.page.2": "越是接近死亡之边缘，你的愤怒和勇气就会越发充实，在咽下最后一口气之前，无论情况有多么糟糕，你都得拼尽全力，为自己杀出一条血路，因为你没得选择。",
     
     
     "book.enigmaticlegacy.entry.cursed_scroll.name": "千咒",
@@ -1150,14 +1150,14 @@
     
     
     "book.enigmaticlegacy.entry.ceaseless_enchantment.name": "无尽",
-    "book.enigmaticlegacy.entry.ceaseless_enchantment.heading.1": "附魔",
+    "book.enigmaticlegacy.entry.ceaseless_enchantment.heading.1": "无限",
     "book.enigmaticlegacy.entry.ceaseless_enchantment.page.1": "可以附在弩上的附魔，简单易用。<br2/>效果与弓的无限附魔基本相同。当附魔在弩上时，射击时不会消耗常规箭矢，这样你就不必担心要补充箭矢了。<br2/>",
     "book.enigmaticlegacy.entry.ceaseless_enchantment.page.2": "只会在常规箭矢上起效，药水箭和烟火不受无尽附魔影响，他们仍会正常消耗。",
-    "book.enigmaticlegacy.entry.ceaseless_enchantment.page.3": "神射手只会影响箭矢，例如，它不会增加烟火的伤害。<br2/>此外，它与多重射击和穿透附魔冲突。",
+    "book.enigmaticlegacy.entry.ceaseless_enchantment.page.3": "服务端在配置文件中可以调整是否需要至少一根箭才能无限使用，默认为否。<br2/>“最初便掌握最终至理”",
     
     
     "book.enigmaticlegacy.entry.sharpshooter_enchantment.name": "神射手",
-    "book.enigmaticlegacy.entry.sharpshooter_enchantment.heading.1": "附魔",
+    "book.enigmaticlegacy.entry.sharpshooter_enchantment.heading.1": "百发百中",
     "book.enigmaticlegacy.entry.sharpshooter_enchantment.page.1": "可以附在弩上的附魔，极为有用。<br2/>可以增加弩箭的伤害，效果与弓的力量附魔基本相同。具体而言，神射手的每一等级都会使弩的伤害在基础上增加 <&l>40%%$(clear)",
     "book.enigmaticlegacy.entry.sharpshooter_enchantment.page.2": "神射手只会影响箭矢，例如，它不会增加烟火的伤害。<br2/>此外，它与多重射击和穿透附魔冲突。",
     
@@ -1169,21 +1169,21 @@
     
     
     "book.enigmaticlegacy.entry.wrath_enchantment.name": "愤怒",
-    "book.enigmaticlegacy.entry.wrath_enchantment.heading.1": "附魔",
+    "book.enigmaticlegacy.entry.wrath_enchantment.heading.1": "叉出去！",
     "book.enigmaticlegacy.entry.wrath_enchantment.page.1": "一个三叉戟专属的附魔，类似于剑和斧的锋利附魔，增加三叉戟造成的伤害。对近战和远程攻击均有效。",
     "book.enigmaticlegacy.entry.wrath_enchantment.page.2": "但是，它比锋利附魔更强，每一级愤怒附魔会增加 1.25 的伤害。<br2/>此附魔与穿刺以及洪流属于同一类别，因此与它们互斥。",
     
     
     "book.enigmaticlegacy.entry.torrent_enchantment.name": "洪流",
-    "book.enigmaticlegacy.entry.torrent_enchantment.heading.1": "附魔",
+    "book.enigmaticlegacy.entry.torrent_enchantment.heading.1": "潮水涌动",
     "book.enigmaticlegacy.entry.torrent_enchantment.page.1": "此附魔会增加三叉戟对这两种生物造成的伤害：免疫高温伤害的（比如烈焰人和僵尸猪灵）和怕水的（比如末影人）。<br2/>每级魔咒增加 2.5 伤害，就像亡灵杀手对亡灵那样。",
     "book.enigmaticlegacy.entry.torrent_enchantment.page.2": "此附魔与穿刺和愤怒属于同类别的附魔，因此与它们互斥。",
     
     
     "book.enigmaticlegacy.entry.slayer_enchantment.name": "杀手",
-    "book.enigmaticlegacy.entry.slayer_enchantment.heading.1": "附魔",
+    "book.enigmaticlegacy.entry.slayer_enchantment.heading.1": "战争",
     "book.enigmaticlegacy.entry.slayer_enchantment.page.1": "另一种可以为你的剑和斧头增加伤害的附魔，他与锋利、亡灵杀手和节肢杀手属于同类别附魔，因此与它们互斥。<br2/>它会为你的武器增加对所有怪物的伤害。每级魔咒增加 1.5 伤害，",
-    "book.enigmaticlegacy.entry.slayer_enchantment.page.2": "比起亡灵杀手 +2.5 的伤害要少。但是他依然是非常可靠的选择，因为它的效果句湖覆盖了全部的敌对怪物，而亡灵杀手和节肢杀手仅涵盖了其中的一部分。",
+    "book.enigmaticlegacy.entry.slayer_enchantment.page.2": "比起亡灵杀手 +2.5 的伤害要少。但是他依然是非常可靠的选择，因为它的增伤效果覆盖了全部的敌对怪物，而亡灵杀手和节肢杀手仅涵盖了其中的一部分。",
     "book.enigmaticlegacy.entry.slayer_enchantment.page.3": "此外，被带有这个魔咒的武器攻击的怪物会被短暂减速。",
     
     
@@ -1192,7 +1192,7 @@
     "book.enigmaticlegacy.entry.soul_loss.page.1": "每次死亡都有其代价，但除此之外，还有一个更重要的问题，这个问题比丢失物品和等级要严重得多。<br2/>每次你在世界中死亡，你的一部分灵魂就会离你而去，徘徊于你的死亡地点。它并不会长时间保持虚无状态，相反，它会迅速地在物理现实中显示出自身——这就是灵魂水晶。",
     "book.enigmaticlegacy.entry.soul_loss.page.2": "好在，成为如此这般的现实形态，使得它较之原先更为坚韧了。<br2/>灵魂水晶会飘浮于半空中，无法被破坏且不与任何施加于其上的力发生反应，似乎只有那些比半神位阶更高的自然方可破坏灵魂水晶。那些希望自己可以占有或破坏你的灵魂水晶的其他半神，只是在做白日梦罢了。",
     "book.enigmaticlegacy.entry.soul_loss.page.3": "你每失去一小块灵魂，你的生命力便会随之减弱(-10%生命上限)。虚弱侵袭，死亡也就更易到来。但是，若你走到你的灵魂水晶旁边，它会朝向你飞来，被囚禁于晶体内的遗失灵魂之碎片，也会立即从中脱离，复归于你，并与你身上的灵魂水乳交融，回复如初。",
-    "book.enigmaticlegacy.entry.soul_loss.page.4": "好在，即便是在最糟糕的情况下。你也不会完全丧失掉你的生命力（配置文件可改）。灵魂越稀薄，就越是难以被撕裂。<br2/>不夸张地说，你是没有办法丢失掉所有灵魂碎片的，死再多次也是如此——但是，死亡次数过多会使你变得极端脆弱，任何的损伤都是致命的威胁。",
+    "book.enigmaticlegacy.entry.soul_loss.page.4": "好在，即便是在最糟糕的情况下。你也不会完全丧失掉你的生命力（配置文件可改）。灵魂越稀薄，就越是难以被撕裂。<br2/>不夸张地说，一般情况下你是没有办法丢失掉所有灵魂碎片的，死再多次也是如此——但是，死亡次数过多会使你变得极端脆弱，任何的损伤都是致命的威胁。",
     
     
     "book.enigmaticlegacy.entry.first_glance.name": "初见",
@@ -1210,7 +1210,7 @@
     "book.enigmaticlegacy.entry.etherium_sword.name": "以太阔剑",
     "book.enigmaticlegacy.entry.etherium_sword.page.1": "尽管看上去较重，实际上，这把剑要比普通的短剑稍微容易操作一些。当然，你挥动起来很轻松，但你的敌人就没办法轻松地接下你的攻击了。<br2/>以太阔剑的性能位于其他两种以太武器之间，它不像镰刀那么轻巧敏捷，但也没斧那么笨重，它在处于两者的完美平衡之上：伤害不俗，冷却合理，即使对有防护的敌人也能造成极大的伤害。",
     "book.enigmaticlegacy.entry.etherium_sword.page.2": "不像其他工具，以太阔剑的技能是绝对的战斗技能。根据你的命令，它将你从所面对的地方后退一段相当远的距离。它可以用作在一系列打击之间快速撤回的方法，或者是需要闪避致命攻击时的用法。",
-    "book.enigmaticlegacy.entry.etherium_sword.page.3": "较短的技能冷却时间可以帮助你在焦灼的情景下战斗，多加练习后将更得心应手。<br2/>类似其他以太工具，阔剑有着令人惊异的耐久，远远超越了任何常见的武器。",
+    "book.enigmaticlegacy.entry.etherium_sword.page.3": "较短的技能冷却时间可以帮助你在焦灼的情景下战斗，多加练习后将更得心应手。<br2/>类似其他以太工具，阔剑有着令人惊异的耐久，远远超越了大多数常见的武器。",
     "book.enigmaticlegacy.entry.etherium_sword.page.4": "",
     
     
@@ -1246,16 +1246,16 @@
     
     "book.enigmaticlegacy.entry.unholy_grail.name": "不洁圣杯",
     "book.enigmaticlegacy.entry.unholy_grail.heading.1": "圣杯",
-    "book.enigmaticlegacy.entry.unholy_grail.page.1": "你在一处无名的废墟中发现了这个遗物——你惊讶极了，你可知道不少的关于关于这一遗物的传说。它就这样被随意地遗弃在了一堆垃圾杂物中，平平无奇，无甚特殊之处。<br2/>然而事实证明，它没有出乎你的意料：和传说中描述的一样，它确实一点用处都没有。拿在手中，你可以发现，圣杯里总是装满了水，而无论你喝了几口，里面的水总能恢复如初。",
+    "book.enigmaticlegacy.entry.unholy_grail.page.1": "你在一处无名的废墟中发现了这个稀有的遗物——你惊讶极了，你可知道不少关于这一遗物的传说。它就这样被随意地遗弃在了一堆垃圾杂物中，平平无奇，无甚特殊之处。<br2/>然而事实证明，它没有出乎你的意料：和传说中描述的一样，它确实一点用处都没有。拿在手中，你可以发现，圣杯里总是装满了水，而无论你喝了几口，里面的水总能恢复如初。",
     "book.enigmaticlegacy.entry.unholy_grail.page.2": "但是这杯子里的水似乎已经被污染了，带着毒素，喝起来也有股灰烬的味道。而喝完之后，要么你会生一场大病，要么你就直接被毒死了，这取决于在你意识到不对劲之前一共喝了多少。",
-    "book.enigmaticlegacy.entry.unholy_grail.page.3": "但作为一个独特的奖杯，留着它也挺不错的。",
+    "book.enigmaticlegacy.entry.unholy_grail.page.3": "除非你能把这玩意和传说中的禁果做成汤，否则其过于无用。但作为一个独特的奖杯，留着它也挺不错的。<br2/>据说有一种方法可以发挥圣杯的力量？假的吧，它过于没用了。",
     
     
     "book.enigmaticlegacy.entry.void_stone.name": "湮灭虚空之石",
-    "book.enigmaticlegacy.entry.void_stone.heading.1": "基石",
+    "book.enigmaticlegacy.entry.void_stone.heading.1": "石头",
     "book.enigmaticlegacy.entry.void_stone.page.1": "有些人总期盼着有着一种逆天的物品：这个物品有着极为酷炫的名字，以此彰显它的无所不能……好吧，无所不能，除了把你的背包清理得一干二净以外。<br2/>然而，这一物品却将这一功能作为自己主要的，或许可以说是唯一的功能。并且毋庸置疑，它在这件事上可谓是老手行家。这件独特的遗物可以与一样或者几样物品，或方块相互绑定。当这些绑定物出现在了你的物品栏中时，",
     "book.enigmaticlegacy.entry.void_stone.page.2": "它会将这些东西进行处理，具体处理方式取决于你的选择。只需一个物品作为样本，以及一些简单的操作，就可以清理掉符合样本的所有对象\ue908\ue909或者只是处理过量的对象。<br2/>若有额外的需要，你也可以使用更多的基石，进一步满足你的使用需求。",
-    "book.enigmaticlegacy.entry.void_stone.page.3": "在 实践中，它唯一的缺点是，它不能只是删除列表中的某个单独的对象对应的物品，如果你想用它删掉或者替换某些物品，只能是将列表中的对象全部进行操作，分开来操作是不行的。所以你在操作前得想清楚。<br2/>直到现在，被遗物吸收的物品究竟去往了何方，你仍是不甚知晓。你只知道，这些东西一去不复返，再无找回的可能了\ue908\ue909",
+    "book.enigmaticlegacy.entry.void_stone.page.3": "在实践中，它唯一的缺点是，它不能只是删除列表中的某个单独的对象对应的物品，如果你想用它删掉或者替换某些物品，只能是将列表中的对象全部进行操作，分开来操作是不行的。所以你在操作前得想清楚。<br2/>直到现在，被遗物吸收的物品究竟去往了何方，你仍是不甚知晓。你只知道，这些东西一去不复返，再无找回的可能了\ue908\ue909",
     "book.enigmaticlegacy.entry.void_stone.page.4": "好在，直到目前为止，它从未尝试过吸收你的部分身体，而且，基石不太可能与活物发生某种反应。<br2/>然而，每次触摸这枚基石，你心中总会萦绕着一股模糊的焦虑感。",
     
     
@@ -1266,42 +1266,42 @@
     
     
     "book.enigmaticlegacy.entry.spellstones.name": "术石",
-    "book.enigmaticlegacy.entry.spellstones.page.1": "你可能会发现，术石与的其他大多数遗物不同。<br2/>它们是强大的元素魔法的来源和容器，能够赋予佩戴者超越一般人类的力量。而如今，重新制造术石的方法已经遗失了——术石的起源可以追溯到它创生的瞬间，那时，狂乱的能量被释放出来，而先于能量而存在的、寒冷且黑暗的虚无容纳了这股能量。",
+    "book.enigmaticlegacy.entry.spellstones.page.1": "你可能会发现，术石与其他的大多数遗物不同。<br2/>它们是强大的元素魔法的来源和容器，能够赋予佩戴者超越一般人类的力量。而如今，重新制造术石的方法已经遗失了——术石的起源可以追溯到它创生的瞬间，那时，狂乱的能量被释放出来，而先于能量而存在的、寒冷且黑暗的虚无容纳了这股能量。",
     "book.enigmaticlegacy.entry.spellstones.page.2": "随即，反应，冲突，消磨，彼此之间不断争斗，最后仅剩下了绝对的混沌。于混沌之中，它们诞生了，它们的形式无比稳固，足够它们从亘古留存至今。而万世流转，直到某天，你来到了此处\ue908\ue909<br2/>如今，我们已经无法通过自然生成的方式获得基石了。似乎所有的术石都被远古文明占有，而如今，这些文明早已尘归尘土归土，也只剩下一些残破废墟，而那些遗物则藏于其中。",
     "book.enigmaticlegacy.entry.spellstones.page.3": "残垣断壁，遗物长眠于其中，它们已被遗失了太久太久。现在，它们正等待着勇敢的探索者找到它们，让它们的力量重现于世间。",
     
     
     "book.enigmaticlegacy.entry.void_pearl.name": "虚空珍珠",
-    "book.enigmaticlegacy.entry.void_pearl.heading.1": "术石",
+    "book.enigmaticlegacy.entry.void_pearl.heading.1": "虚无",
     "book.enigmaticlegacy.entry.void_pearl.page.1": "末地并不只是末地，还有更多的东西蕴藏在其中。在这里，更为黑暗和神秘的事物与你照面：宏伟虚空之上，座座浮岛盘旋飘浮，数量无穷无尽。<br2/>这里似乎被\ue908\ue909空无一物，给填满了，真的是这样。并且，不管是出于何种原因，哪怕是空气在那儿都不复存在了；而那些可能愚蠢到徘徊在这些岛屿边缘并掉下去的生命，他们都湮灭了，在黑暗之虚无中，等待消亡的临近。",
     "book.enigmaticlegacy.entry.void_pearl.page.2": "尽管如此，也许虚空并不是全无。这颗宝珠具有与之紧密相关的属性，",
     "book.enigmaticlegacy.entry.void_pearl.page.3": "这些属性与其他任何元素都不对应，就好像虚空本身就是一种元素。<br2/>可以肯定，这个术石起源于此，尽管你并不知道如何有东西能够进入到虚空的深处，并且活着回来。",
     
     
     "book.enigmaticlegacy.entry.ocean_stone.name": "海洋之愿",
-    "book.enigmaticlegacy.entry.ocean_stone.heading.1": "术石",
+    "book.enigmaticlegacy.entry.ocean_stone.heading.1": "渊海",
     "book.enigmaticlegacy.entry.ocean_stone.page.1": "如果想要探索深海，或者居住在无边无际的海洋里，海洋之愿会是最适合你的完美遗物。<br2/>在沉没的废墟中找到它之后，你可能会发现，自己在水中比在陆地上要强大得多：在水下呼吸就和空气里一样容易；游泳比在地表上跑更快；即使在最明亮的日子，在水下也要比在地上看得更清晰；那些深海中仍对你持有敌意的生物，会发现它们在面对你时无比孱弱，然后心生惧意。",
     "book.enigmaticlegacy.entry.ocean_stone.page.2": "假如，你发现自己无比需要液体，而周围并无池塘时\ue908\ue909只需牺牲一点经验，就可以让天空为你哭泣。",
     "book.enigmaticlegacy.entry.ocean_stone.page.3": "好吧，若是能直接拥有一个供自己使用的湖泊，那这个功能就没啥用了。但是这一能力所代表的力量，就连神都会为之侧目。",
     
     
     "book.enigmaticlegacy.entry.blazing_core.name": "烈焰之核",
-    "book.enigmaticlegacy.entry.blazing_core.heading.1": "术石",
+    "book.enigmaticlegacy.entry.blazing_core.heading.1": "灼炎",
     "book.enigmaticlegacy.entry.blazing_core.page.1": "下界。熊熊燃烧的废土，延伸出暴烈熔流的炽热之海，失落碎裂之灵魂的幽泣回荡其间，任何想要占有和统御这片废土的尝试都化作四处的灰烬。 毫无意外，这一术石乃是火元素本体的具身化之物。",
-    "book.enigmaticlegacy.entry.blazing_core.page.2": "下界环境酷热难当，而烈焰之核可以为你提供生存于下界所需的一切：火焰和熔岩将对你完全无害，并在一定程度上，火焰将保护你免受敌人的侵害\ue908\ue909好吧，也许并不算是保护，但至少它可以帮助你即刻对敌人施展报复。",
+    "book.enigmaticlegacy.entry.blazing_core.page.2": "下界环境酷热难当，而烈焰之核可以为你提供生存于下界所需的几乎一切：火焰和熔岩将对你完全无害，并在一定程度上，火焰将保护你免受敌人的侵害\ue908\ue909好吧，也许并不算是保护，但至少它可以帮助你即刻对敌人施展报复。",
     
     
     "book.enigmaticlegacy.entry.golem_heart.name": "魔像之心",
-    "book.enigmaticlegacy.entry.golem_heart.heading.1": "术石",
+    "book.enigmaticlegacy.entry.golem_heart.heading.1": "地岩",
     "book.enigmaticlegacy.entry.golem_heart.page.1": "这可能是最常见的术石之一，无论是不计其数的废弃矿井还是各式各样的地牢，在主世界里的几乎任何地方都能找到它。但低估它的力量的人无疑相当愚蠢。<br2/>这块术石与大地的力量相关，它不像其他术石那样，能够帮助持有者以奇特且精巧的方式解决问题，而是帮助它的佩戴者聚精会神，抵御那些外来的蛮力。",
-    "book.enigmaticlegacy.entry.golem_heart.page.2": "它使佩戴者的皮肤像钢铁一样坚韧，可以抵抗高压，切割和穿透，远胜于凡胎肉体。",
+    "book.enigmaticlegacy.entry.golem_heart.page.2": "它使佩戴者的皮肤像钢铁一样坚韧，可以抵抗高压，切割和穿透，远胜于凡胎肉体。但请注意：魔法会击穿这种防御。",
     "book.enigmaticlegacy.entry.golem_heart.page.3": "当佩戴者没有装备其他盔甲时，魔像之心的作用便会充分发挥出来，佩戴者的皮肤会变得 如同盔甲那般。",
     
     
     "book.enigmaticlegacy.entry.eye_of_nebula.name": "星云之眼",
-    "book.enigmaticlegacy.entry.eye_of_nebula.heading.1": "术石",
+    "book.enigmaticlegacy.entry.eye_of_nebula.heading.1": "末影",
     "book.enigmaticlegacy.entry.eye_of_nebula.page.1": "在那瑰诡神秘的末地浮陆中，你可以找到这种术石。这一术石充盈着末影之能量，这种能量与维度本身的特征有关。<br2/>佩戴时，你将拥有与“末影人”类似的能力，能够在瞬间传送到你的所看着的生物背后。有时候，它也会在你受到攻击时把你传送走，如此便可避开攻击。",
-    "book.enigmaticlegacy.entry.eye_of_nebula.page.2": "但是，后一个能力你是无法控制的，它并不是时刻都会对你有利，有时它还会害你，比如在狱界的上层不小心被传走。",
+    "book.enigmaticlegacy.entry.eye_of_nebula.page.2": "但是，后一个能力你是无法控制的，它并不是时刻都会对你有利，有时它还会害你，比如在狱界的上层不小心被传到基岩之上。",
     
     
     "book.enigmaticlegacy.entry.enigmatic_item.name": "神明之心",
@@ -1316,12 +1316,12 @@
     "book.enigmaticlegacy.entry.enigmatic_amulet.page.1": "当你第一次踏入这个世界，你便发现你的口袋里躺着这样的一个小玩意，一摸就能摸到。它起源何处？它为何归属于你？你对此毫无头绪。<br2/>护符的核心处镶嵌着一块色彩艳丽的石头，它的颜色变换无常，其内部还散发出隐隐光辉。流光四溢，好似活物——如此瑰丽之景象，实是令人大饱眼福。",
     "book.enigmaticlegacy.entry.enigmatic_amulet.page.2": "短暂地检测之后，你发现护符的一侧镌刻着些许铭文，铭文显示着一个名字：“<&4><&l><playername>$(clear)”。<br2/>你又鼓捣了一阵，尝试着检测它的整体结构，并看看有没有可能复制一个出来，但直到目前为止，你还没有成功过。好像这个东西完全不属于这个世界，它是被某个远超出你的理解范围的神秘力量所锻造，并带到此地的。",
     "book.enigmaticlegacy.entry.enigmatic_amulet.page.3": "带着它时，你会感到自己比平常稍微强壮了一些。<br2/>但这似乎并不是它唯一有用的性质。如果你的肉体被怪物不幸撕碎，不再能承装你的灵魂，这一护身符便会打开一道通往未知空间的裂隙，并将你原先应该掉在地上的所有物品装入其中，护身符也不例外。",
-    "book.enigmaticlegacy.entry.enigmatic_amulet.page.4": "在你的死亡之处，你会找到一个状若钥匙之物，它可以与裂隙相连接。你称之为“超维容器”。不像那些普通的物品，超维容器似乎完全无法被破坏，且任何外力都无法影响到它，但那些拥有者神性的人是例外，而碰巧，你就拥有一小部分的神性。<br2/>它就只是飘浮着，一动不动，直到你靠近它，并与它交互。",
+    "book.enigmaticlegacy.entry.enigmatic_amulet.page.4": "在你的死亡之处，你会找到一个状若钥匙之物，它可以与裂隙相连接。你称之为“超维容器”。不像那些普通的物品，超维容器似乎完全无法被破坏，且任何外力都无法影响到它，但那些拥有神力的人是例外，而碰巧，你就拥有一小部分的神性。<br2/>它就只是飘浮着，一动不动，直到你靠近它，并与它交互。",
     "book.enigmaticlegacy.entry.enigmatic_amulet.page.5": "然后，它就会坠入你的手中并破碎，而那些装在无形空间之中的物品都会被释放出来。",
     
     
     "book.enigmaticlegacy.entry.angel_blessing.name": "天使之祝",
-    "book.enigmaticlegacy.entry.angel_blessing.heading.1": "术石",
+    "book.enigmaticlegacy.entry.angel_blessing.heading.1": "天使",
     "book.enigmaticlegacy.entry.angel_blessing.page.1": "你可以在古老的神庙废墟中找到这种术石，这些神庙的建造的目的为何，你不甚清楚。但是，相较于神庙，弄清楚“天使之祝”的制作目的则要简单得多。<br2/>它可以为你提供与气元素相关的力量：操纵风，将那些射向你的箭矢吹飞；在摔落时避免双腿摔断；将你推动到你凭借肌肉力量无法到达的地方。或者，如果你愿意，这些功能甚至可以同一时间全部施放出来。",
     "book.enigmaticlegacy.entry.angel_blessing.page.2": "它的主动功能在你跳跃时使用效果最好，因为其动量会叠加一起，使你实现真正的长跳或高跳。",
     "book.enigmaticlegacy.entry.angel_blessing.page.3": "你发现，当它与你紧密相触的时候，一阵轻松和平静之意便会沁入心间，但你并不知道这是由什么原因导致的。",
@@ -1400,7 +1400,7 @@
     "book.enigmaticlegacy.entry.lore_inscriber.page.15": "!&5I used to rule &6The World\ue908\ue909",
     "book.enigmaticlegacy.entry.lore_inscriber.page.16": "!&1&lWhy&r &2&ndo&r &3&oI&r &4&mfeel&r &6&kpain",
     "book.enigmaticlegacy.entry.lore_inscriber.page.17": "",
-    "book.enigmaticlegacy.entry.lore_inscriber.page.18": "当你完整录入“物品描述片段”后，你可以用铁砧中将其与任何物品合并，它将会传输Lore和名字到物品中。此操作总是会花费你4级经验。<br2/>你不必同时定义名称和Lore，你可以只定义其中之一。当你附加的碎片上没有自定义名字，原始物品的名字将不会被覆盖；当只有名字时，Lore条目将保存不变。",
+    "book.enigmaticlegacy.entry.lore_inscriber.page.18": "当你完整录入“物品描述片段”后，你可以用铁砧中将其与任何物品合并，它将会传输描述和名字到物品中。此操作总是会花费你4级经验。<br2/>你不必同时定义名称和描述，你可以只定义其中之一。当你附加的碎片上没有自定义名字，原始物品的名字将不会被覆盖；当只有名字时，描述部分将保持不变。",
     
     
     "book.enigmaticlegacy.entry.extradimensional_eye.name": "超维之眼",
@@ -1457,17 +1457,17 @@
     "book.enigmaticlegacy.entry.forbidden_fruit.name": "禁忌之果",
     "book.enigmaticlegacy.entry.forbidden_fruit.heading.1": "禁果",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.1": "一种稀有的遗物，可以位于下界堡垒之中，乍一看，这种果实看上去完全没有食欲。它的外观的确不假，不但尝起来有可怕的灰烬和腐烂味，而且气味又油又苦。如果你能忍受这可怕的味道并且吃完整个果，立即产生的效果很可能会杀死你，所以最好先治疗好自己到完全健康状态。",
-    "book.enigmaticlegacy.entry.forbidden_fruit.page.2": "在立即产生毒影响结束后，长期影响开始发挥作用。你将永远不再感觉到的饥饿，因此将无法食用大多数常规类型的食物。尽管这种效果看似有益，但其代价是永久不饱和，并显着减慢了任何形式的生命恢复。",
+    "book.enigmaticlegacy.entry.forbidden_fruit.page.2": "在立即产生毒影响结束后，长期影响开始发挥作用。你将永远不再感觉到饥饿，因此将无法食用大多数常规类型的食物。尽管这种效果看似有益，但其代价是永久不饱和，并显着减慢了任何形式的生命恢复。",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.3": "待到果实带给你的短时有毒效果消失，它给你附加上的长时效果便显露了出来。你再也不会体验到任何形式的饥饿，也因此无法吃下任何常规的食物。似乎这一效果有很多好处？但是它也是有代价的：不会饿，自然也就不会饱（没有饱和度），并且无论何种形式的生命再生效果，对你的影响都会被大幅削弱。这一效果无法消除，哪怕是死亡也不行，就好像那无法弥补的原罪。记住，使用前请三思。",
     "book.enigmaticlegacy.entry.forbidden_fruit.page.4": "",
     
     
     "book.enigmaticlegacy.entry.guardian_heart.name": "守卫者之心",
     "book.enigmaticlegacy.entry.guardian_heart.heading.1": "心脏",
-    "book.enigmaticlegacy.entry.guardian_heart.page.1": "深海神殿，以及无数在它们内外巡逻的守卫者，是这个世界上未解之谜之一。<br2/>比起它们守护的那片充满水和黑暗的领域，眼前的守卫者们能带来更多的利益。这种遗物似乎是一颗活生生的心脏，你可以从一只远古守卫者身上收割而来，它似乎是古老而强大的守护者变种。",
+    "book.enigmaticlegacy.entry.guardian_heart.page.1": "深海神殿，以及无数在它们内外巡逻的守卫者，是这个世界上的未解之谜之一。<br2/>比起它们守护的那片充满水和黑暗的领域，眼前的守卫者们能带来更多的利益。这种遗物似乎是一颗活生生的心脏，你可以从一只远古守卫者身上收割而来，它似乎是古老而强大的守护者变种。",
     "book.enigmaticlegacy.entry.guardian_heart.page.2": "它们甚至在你潜入海面之下并靠近它们的家之前便已经察觉到你，并且反复诅咒你，使你几乎完全无法破坏方块，从而有效防止你为了进入神殿内部而大挖特挖。",
     "book.enigmaticlegacy.entry.guardian_heart.page.3": "这种心脏似乎是它们的感官和力量的源泉，没了它，它们也就无法对你施放诅咒了。它与“七咒之戒”的邪恶能量共鸣，这就是为什么你能够使它完整而鲜活，犹如它还活着般。",
-    "book.enigmaticlegacy.entry.guardian_heart.page.4": "当你拥有了守卫者之心，普通的守卫者不仅会变为中立状态，还会优先攻击对你存在的威胁，比如怪物们。这种尊重仍然是个迷，也许是守卫者之心的力量比起远古守卫者自己的心脏，能与守卫者产生更大的联系，更大的影响守卫者的思想，你佩戴着的七咒之戒更是加强了这股联系。",
+    "book.enigmaticlegacy.entry.guardian_heart.page.4": "当你拥有了守卫者之心，普通的守卫者不仅会变为中立状态，还会优先攻击对你存在的威胁，比如怪物们。这种尊重仍然是个谜，也许是守卫者之心的力量比起远古守卫者自己的心脏，能与守卫者产生更大的联系，更大的影响守卫者的思想，你佩戴着的七咒之戒更是加强了这股联系。",
     "book.enigmaticlegacy.entry.guardian_heart.page.5": "然而，这种假设提出了许多关于这些心脏和守卫者自身的起源的未解之谜。<br2/>心脏的另一个能力是：当你拿着他或者放在快捷栏的时候，看着离你较近的怪物，心脏将会诅咒这个怪物。",
     "book.enigmaticlegacy.entry.guardian_heart.page.6": "通常情况下，它似乎没有能力产生强大的诅咒，即使是远古守卫者自身也无法用它的力量做更多的事情，而仅仅是拖慢了你的进攻而已。但是七咒之戒会加强心脏的力量，除了轻微的减益，受影响的怪物思想将会被操纵，身体将不由自主的攻击其他怪物。",
     "book.enigmaticlegacy.entry.guardian_heart.page.7": "被操控的怪物周围的怪物也会受诅咒影响，强制忘记自己在做什么，并且转而攻击被操控的怪物。<br2/>要注意的是，当被诅咒的目标完成击杀后将会恢复到正常状态。当被诅咒的怪物死亡后，其余受此影响而强制攻击被控目标的怪物将会恢复到正常的怪物行为，他们很可能试图杀死你。",
@@ -1641,7 +1641,7 @@
     "book.enigmaticlegacy.entry.cursed_stone.page.2": "此乃你们之间的联系如此稳固的原因，甚至是死亡中也不会解除。",
     "book.enigmaticlegacy.entry.cursed_stone.page.3": "你可以在一定程度上从戒指内部吸取力量，戒指也可以从你内部吸取力量以增强其物理形态，牢牢固定在手指上。<br2/>似乎能影响这些联系的只有极高的热量，但那样无法在保证自身安全的情况下将其断开。",
     "book.enigmaticlegacy.entry.cursed_stone.page.4": "但如果你击败了凋灵并收获了其掉落的邪恶精髓，你将有能力克服这种障碍。邪恶之石象征着你与七咒之戒之间的联系，以某种形式贴近石头，易碎的物理效果将会表现出来。从而允许你利用戒指的漏洞，用某种特殊的仪式使其自我毁灭。",
-    "book.enigmaticlegacy.entry.cursed_stone.page.5": "要使用这块石头，需要前往炽热和失落的灵魂，被称为下界的维度。尽你所能的漫步在支离破碎的景观，攀登悬崖峭壁，在边缘俯视，直到发现脚下有熔岩海。深呼吸一口，然后一跃迈进下面炽热的熔岩海中间，让你的身体沉没在熔岩海里被烧死。",
+    "book.enigmaticlegacy.entry.cursed_stone.page.5": "要使用这块石头，需要前往炽热和失落的灵魂，被称为下界的维度。尽你所能的漫步在支离破碎的景观，攀登悬崖峭壁，在边缘俯视，直到发现脚下有足够大的熔岩海。深呼吸一口，然后一跃迈进下面炽热的熔岩海中间，让你的身体沉没在熔岩海里被烧死。",
     "book.enigmaticlegacy.entry.cursed_stone.page.6": "如果一切正确执行，戒指应被融化并永久摧毁。",
     "book.enigmaticlegacy.entry.cursed_stone.page.7": "但从绑定中解放的代价并不便宜，因为你通过邪恶之石暴露了与你的灵魂以之纠缠的部分。为了使仪式成功，必须先销毁这一部分，否则仪式根本不可能成功。至少有了这种牺牲，你再也不会看到七咒之戒了，除非你的世界中还有其他七咒之戒，这几乎不可能。",
     
@@ -1718,7 +1718,7 @@
     
     
     "book.enigmaticlegacy.entry.eternal_binding_curse.name": "灵魂绑定诅咒",
-    "book.enigmaticlegacy.entry.eternal_binding_curse.heading.1": "诅咒附魔",
+    "book.enigmaticlegacy.entry.eternal_binding_curse.heading.1": "和我在一起",
     "book.enigmaticlegacy.entry.eternal_binding_curse.page.1": "这个诅咒附魔的名称与“绑定诅咒”如此相似并非偶然——因为它与后者作用几乎完全相同，防止你移除已装备的盔甲和配饰。然而，不同之处在于带有此诅咒附魔的物品在你死亡后也不会与你分离。",
     "book.enigmaticlegacy.entry.eternal_binding_curse.page.2": "对于盔甲而言，这并不严重，因为它迟早会因为耐久耗尽而损坏；然而对于大多数配饰而言，这个诅咒附魔会使你永远无法脱下配饰，直到你永久死亡或到达时间的尽头。",
     "book.enigmaticlegacy.entry.eternal_binding_curse.page.3": "不像其绝大多数其他附魔，获得此诅咒附魔的唯一方法似乎是装备附魔师的珍珠后在附魔台附魔时得到。",
@@ -1765,7 +1765,7 @@
     
     "book.enigmaticlegacy.entry.cosmic_cake.name": "天依快乐糕",
     "book.enigmaticlegacy.entry.cosmic_cake.page.1": "终将迎来终末——这一致命缺点决定了尘世间的蛋糕无法臻于极致，就如凡人的性命那般。但最终，你想出了一个妙招来改正这一恼人的缺陷，让你能永远纵享其奶油的丝滑。",
-    "book.enigmaticlegacy.entry.cosmic_cake.page.2": "这个蛋糕被赋予了原初之力，融合了外星美味与元素能量。它无视时间流逝，逆转了熵，会随逐渐恢复自身。",
+    "book.enigmaticlegacy.entry.cosmic_cake.page.2": "这个蛋糕被赋予了原初之力，融合了外星美味与元素能量。它无视时间流逝，逆转了熵，会随逐渐恢复自身。但破坏蛋糕下的基座会毁坏蛋糕，故请放好它。",
     "book.enigmaticlegacy.entry.cosmic_cake.page.3": "无论你多么屈服于暴食之罪，它总会从你的无尽贪食之中恢复。面对如此美味，谁能拒绝以权力、影响、财富甚至生命本身来换取沉浸在无休止摄食行为之中的机会？<br2/>万物终将归于尘土……唯有此物恒久长青。好吃！",
     
     
@@ -1832,10 +1832,10 @@
     "advancement.enigmaticlegacy:cosmicScroll": "神圣守护者",
     "advancement.enigmaticlegacy:cosmicScroll.desc": "前往建筑师的领域朝圣，成为他的忠实信徒，以佩戴他的印记、获得他的祝福",
     
-    "tooltip.enigmaticlegacy.blessedOnesOnly1": "只有被建筑师选召的那些人",
+    "tooltip.enigmaticlegacy.blessedOnesOnly1": "只有被造物主选召的那些人",
     "tooltip.enigmaticlegacy.blessedOnesOnly2": "才能够获取、使用此物品。",
     
-    "tooltip.enigmaticlegacy.blessed1": "§5被建筑师亲自选召的人亲临，",
+    "tooltip.enigmaticlegacy.blessed1": "§5被造物主亲自选召的人亲临，",
     "tooltip.enigmaticlegacy.blessed2": "§5可以放大它的力量。",
     
     "tooltip.enigmaticlegacy.cosmicScrollLore1": "§5看到失去信仰令我无比心痛，但愿它",
@@ -1856,8 +1856,8 @@
     "tooltip.enigmaticlegacy.cosmicScroll14": "§5而且你地近战伤害可以点燃他们。",
     "tooltip.enigmaticlegacy.cosmicScrollCooldown": "§d剩余冷却时间: §6%1$s §6秒",
     
-    "book.enigmaticlegacy.entry.cosmic_scroll.name": "建筑师的青睐",
-    "book.enigmaticlegacy.entry.cosmic_scroll.page.1": "大多数半神，甚至是那些已经成为神明之人，都无法触及这个卷轴的威力。由建筑师(注：神秘遗物作者)自己决定谁可以拥有这个卷轴，正如传言所说的那样——前往$（l：https://discord.gg/fuWK8ns)他领地$(/l)的路很长，而且充满危险，被这个虔诚的存在所关注是很罕有的荣誉。",
-    "book.enigmaticlegacy.entry.cosmic_scroll.page.2": "然而，那些这样做的人被授予了无与伦比的权力；让世界沐浴在他们的荣耀中，让他们把信仰传播到别人的心中"
+    "book.enigmaticlegacy.entry.cosmic_scroll.name": "造物主的青睐",
+    "book.enigmaticlegacy.entry.cosmic_scroll.page.1": "大多数半神，甚至是那些已经成为神明之人，都无法触及这个卷轴的威力。由造物主(注：神秘遗物作者)自己决定谁可以拥有这个卷轴，正如传言所说的那样——前往$（l：https://discord.gg/fuWK8ns)他领地$(/l)的路很长，而且充满危险，被这个虔诚的存在所关注是很罕有的荣誉。",
+    "book.enigmaticlegacy.entry.cosmic_scroll.page.2": "然而，那些这样做的人被授予了无与伦比的权力；让世界沐浴在他们的荣耀中，让他们把信仰传播到别人的心中（赞助mod作者获取，或者安装Architect Bypass，但后者不能获取成就）"
     
 }
