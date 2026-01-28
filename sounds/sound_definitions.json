@@ -352,6 +352,11 @@
                 "name":"sounds/tianyi/menu/zxyzz",
                 "stream":true,
                 "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/qdh",
+                "stream":true,
+                "load_on_low_memory":true
             }
         ]
     },
