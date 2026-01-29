@@ -280,10 +280,10 @@
     
     
     "advancementTab.enigmaticlegacy": "神秘遗物",
-    "advancementTab.enigmaticlegacy.desc": "昔日残遗",
+    "advancementTab.enigmaticlegacy.desc": "昔日残遗，掩于此世",
     
-    "advancement.enigmaticlegacy:discoverSpellstone": "元素之力",
-    "advancement.enigmaticlegacy:discoverSpellstone.desc": "找到你的第一块术石",
+    "advancement.enigmaticlegacy:discoverSpellstone": "元神，启动！",
+    "advancement.enigmaticlegacy:discoverSpellstone.desc": "找到你的第一块术石，其中蕴含了元素之力，一般在特定领域很有用",
     
     "advancement.enigmaticlegacy:discoverScroll": "专业的巫师",
     "advancement.enigmaticlegacy:discoverScroll.desc": "获得你的第一个奥秘卷轴，但你不能直接施法",
@@ -295,31 +295,31 @@
     "advancement.enigmaticlegacy:recallPotion.desc": "酿造召回药水\n“曾跨越多少次昼夜更替”",
     
     "advancement.enigmaticlegacy:magnetRing": "天磁良机",
-    "advancement.enigmaticlegacy:magnetRing.desc": "找到或制作磁力之戒",
+    "advancement.enigmaticlegacy:magnetRing.desc": "找到或制作磁力之戒，然后吸走说你是磁小鬼的人的物品",
     
     "advancement.enigmaticlegacy:superMagnetRing": "饕餮之眼",
-    "advancement.enigmaticlegacy:superMagnetRing.desc": "找到或制作错位之戒",
+    "advancement.enigmaticlegacy:superMagnetRing.desc": "找到或制作错位之戒，可以帮你收集物品或阻止按Q释放剑弃",
     
     "advancement.enigmaticlegacy:heavenScroll": "天音也悠扬~",
     "advancement.enigmaticlegacy:heavenScroll.desc": "找到或制作天堂之礼",
     
     "advancement.enigmaticlegacy:voidPearl": "希望消逝",
-    "advancement.enigmaticlegacy:voidPearl.desc": "认领虚(yang)空(shou)珍珠，仅能在末地城以0.7%概率发现",
+    "advancement.enigmaticlegacy:voidPearl.desc": "认领虚(yang)空(shou)珍珠，仅能在末地城类宝箱以0.7%概率发现\n(比B站收藏集抽大隐藏概率0.5%高点，但是差不多)",
     
     "advancement.enigmaticlegacy:forbiddenAxe": "骇人报复",
     "advancement.enigmaticlegacy:forbiddenAxe.desc": "用行刑者之斧砍下敌人的头颅。",
     
     "advancement.enigmaticlegacy:megasponge": "是谁住在最深处的大菠萝里？",
-    "advancement.enigmaticlegacy:megasponge.desc": "找到或制作无内海绵",
+    "advancement.enigmaticlegacy:megasponge.desc": "找到（自然应该找不到）或制作无内海绵",
     
     "advancement.enigmaticlegacy:mendingMixture": "外星物质",
-    "advancement.enigmaticlegacy:mendingMixture.desc": "找到或制作修补混合物",
+    "advancement.enigmaticlegacy:mendingMixture.desc": "找到或制作修补混合物，瓦纳海姆既然能做那就是瓦纳海姆的！",
     
     "advancement.enigmaticlegacy:unholyGrail": "啊哈哈哈，寄汤来喽",
-    "advancement.enigmaticlegacy:unholyGrail.desc": "饮用不洁圣杯内的水",
+    "advancement.enigmaticlegacy:unholyGrail.desc": "饮用不洁圣杯内的水，然后你会发现这就是一杯远古臭水",
     
     "advancement.enigmaticlegacy:unholyGrailWorthy": "罪恶霸业",
-    "advancement.enigmaticlegacy:unholyGrailWorthy.desc": "足以驾驭不洁圣杯的力量……但代价是什么？",
+    "advancement.enigmaticlegacy:unholyGrailWorthy.desc": "足以扭转并驾驭不洁圣杯的力量……但代价是什么？",
     
     "advancement.enigmaticlegacy:astralDust": "悬停在无界的太空",
     "advancement.enigmaticlegacy:astralDust.desc": "发现星尘，一种很有用的材料",
@@ -345,14 +345,14 @@
     "advancement.enigmaticlegacy:forbiddenFruit": "原初罪行",
     "advancement.enigmaticlegacy:forbiddenFruit.desc": "吃下禁果，摆脱饥饿的诅咒；那么，神罚是什么呢？",
     
-    "advancement.enigmaticlegacy:cursedRing": "七重痼病",
-    "advancement.enigmaticlegacy:cursedRing.desc": "带上七咒之戒并接受七个诅咒",
+    "advancement.enigmaticlegacy:cursedRing": "§c七重痼病",
+    "advancement.enigmaticlegacy:cursedRing.desc": "带上七咒之戒并接受七个诅咒。自此，田园牧歌成为幻想，杀伐才是你的宿命...",
     
     "advancement.enigmaticlegacy:twistedHeart": "痛苦游离之核",
     "advancement.enigmaticlegacy:twistedHeart.desc": "创造扭曲的心",
     
     "advancement.enigmaticlegacy:guardianHeart": "恶意之眼",
-    "advancement.enigmaticlegacy:guardianHeart.desc": "杀死远古守护者并获得守护者之心",
+    "advancement.enigmaticlegacy:guardianHeart.desc": "杀死远古守护者并获得守卫者之心，它在一直看着你...",
     
     "advancement.enigmaticlegacy:infernalShield": "有本事刺穿§l它§r啊！",
     "advancement.enigmaticlegacy:infernalShield.desc": "锻造炽炎之盾，一个只有咒怨缠身者才能用的终极防御工具",
@@ -366,23 +366,23 @@
     "advancement.enigmaticlegacy:astralFruit": "神明的造物",
     "advancement.enigmaticlegacy:astralFruit.desc": "在末地城内找到天体果实\n“你眺望整个宇宙，找不到我”",
     
-    "advancement.enigmaticlegacy:abyssalHeart": "不堪一击却君临你的心",
+    "advancement.enigmaticlegacy:abyssalHeart": "§c不堪一击却君临你的心",
     "advancement.enigmaticlegacy:abyssalHeart.desc": "在满足极度邪恶的情况下杀死末影龙并获得深渊之心",
     
-    "advancement.enigmaticlegacy:theInfinitum": "我即是无由无用无穷无尽",
-    "advancement.enigmaticlegacy:theInfinitum.desc": "获得无止之言，成为深渊的使者",
+    "advancement.enigmaticlegacy:theInfinitum": "§4我即是无由无用无穷无尽",
+    "advancement.enigmaticlegacy:theInfinitum.desc": "获得无止之言，成为深渊的使者\n§7“最初便掌握最终至理”",
     
     "advancement.enigmaticlegacy:desolationRing": "现实面前如此不堪一击",
     "advancement.enigmaticlegacy:desolationRing.desc": "铸造荒芜之负，并忍受其结果",
     
-    "advancement.enigmaticlegacy:allSpellstones": "“光锥之外，即为现实”",
+    "advancement.enigmaticlegacy:allSpellstones": "§6“光锥之外，即为现实”",
     "advancement.enigmaticlegacy:allSpellstones.desc": "收集每一个独特的术石。也许有某种途径将它们全部合并为一……",
     
-    "advancement.enigmaticlegacy:theCube": "”光锥之内，即为命运“",
+    "advancement.enigmaticlegacy:theCube": "§e”光锥之内，即为命运“",
     "advancement.enigmaticlegacy:theCube.desc": "将所有的术石都强扭成一个强力而不自然的形体——非欧立方，曾译为命运之骰",
     
     "advancement.enigmaticlegacy:fabulousScroll": "手触苍穹",
-    "advancement.enigmaticlegacy:fabulousScroll.desc": "获得造物主的恩赐",
+    "advancement.enigmaticlegacy:fabulousScroll.desc": "获得造物主的恩赐，实际上应该说是天主的恩赐",
     
     "tooltip.enigmaticlegacy.holdShift": "§5按住 §6Shift§5 查看详情。",
     
@@ -480,9 +480,9 @@
     "tooltip.enigmaticlegacy.extradimensionalEyeZ": "§d- Z: §6%1$s",
     "tooltip.enigmaticlegacy.extradimensionalEyeDimension": "§6维度：§5%1$s",
     
-    "tooltip.enigmaticlegacy.overworld": "§2主世界",
-    "tooltip.enigmaticlegacy.nether": "§4下界",
-    "tooltip.enigmaticlegacy.end": "§5末地",
+    "tooltip.enigmaticlegacy.overworld": "§2瓦纳海姆",
+    "tooltip.enigmaticlegacy.nether": "§4狱火灼界",
+    "tooltip.enigmaticlegacy.end": "§5终末地",
     
     "tooltip.enigmaticlegacy.extradimensionalEye1": "§5按住 §6Shift 并右击§5绑定到",
     "tooltip.enigmaticlegacy.extradimensionalEye2": "§5你所站立的位置。",
@@ -498,7 +498,7 @@
     
     "tooltip.enigmaticlegacy.twistedMirror1": "§5凝视镜子回到床上",
     "tooltip.enigmaticlegacy.twistedMirror2": "§5或§6重生锚§5旁，若无，",
-    "tooltip.enigmaticlegacy.twistedMirror3": "§5则会传送到§6世界出生点§。",
+    "tooltip.enigmaticlegacy.twistedMirror3": "§5则会传送到§6共鸣地出生点§。",
     
     "tooltip.enigmaticlegacy.forbiddenAxeBeheadingChance": "§6+%1$s§d 斩首概率",
     "tooltip.enigmaticlegacy.forbiddenAxe1": "§5有机会斩下怪物的头颅。",
@@ -720,7 +720,7 @@
     "tooltip.enigmaticlegacy.voidStoneMode0": "§6全部销毁",
     "tooltip.enigmaticlegacy.voidStoneMode1": "§6保留一组",
     "tooltip.enigmaticlegacy.voidStoneMode2": "§6超量吸收",
-    "tooltip.enigmaticlegacy.voidStoneModeInactive": "§6未启用",
+    "tooltip.enigmaticlegacy.voidStoneModeInactive": "§6莫得启用",
     
     "tooltip.enigmaticlegacy.astralBreaker1": "§5破坏 §6%1$s§6x%1$s§6x%2$s§5 的区域",
     "tooltip.enigmaticlegacy.astralBreaker2": "§6潜行§5时不生效",
@@ -743,7 +743,7 @@
     "tooltip.enigmaticlegacy.revelationTome4": "§5很有用的古代学术资料和研究。",
     
     "tooltip.enigmaticlegacy.revelationTomeClick": "§6右击§5学习知识",
-    "tooltip.enigmaticlegacy.revelationTomeMarkRead": "§c你已学习此书",
+    "tooltip.enigmaticlegacy.revelationTomeMarkRead": "§c你已学习此书，不想再看了",
     
     "tooltip.enigmaticlegacy.theAcknowledgment1": "§5那来自于启示的眩目光晕，",
     "tooltip.enigmaticlegacy.theAcknowledgment2": "§5将会焚化那些拒绝承启之人。",
@@ -1078,7 +1078,7 @@
     "quote.countless_dead_1": "无穷无尽的逝去的灵魂，其怨念最终化成了难以言表的恐怖怪物……",
     "quote.countless_dead_2": "位于如此邪恶的生物之下，这片大地都在恐惧中颤抖。",
     
-    "quote.with_dragons_1": "随着末影龙的逝去，这片虚空变得比以往更加空旷、更加毫无生机。",
+    "quote.with_dragons_1": "随着巨龙的逝去，这片虚空变得比以往更加空旷、更加毫无生机。",
     "quote.with_dragons_2": "你会继续向着这片破碎的大地深处探索……",
     "quote.with_dragons_3": "……还是回到瓦纳海姆，回到理智与活力的怀抱中？",
     "quote.with_dragons_4": "当然，你我都心知肚明……你无法抗拒探索这片无尽的未知的冲动，只是时间早晚的问题。",
