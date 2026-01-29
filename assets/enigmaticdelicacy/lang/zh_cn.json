@@ -175,8 +175,8 @@
   "book.enigmaticdelicacy.entry.enigmatic_fruit.page.7": "为了更好发挥失色的效果，将卷轴作为载体，涂抹凝胶并刻下奥术密文，得到了这样崭新的卷轴。<br/>该卷轴能间歇性的提供失色效果，让你能更好的长线隐匿，承受诅咒之人甚至能凭借此物较安全地探索终末之域。",
 
   "book.enigmaticdelicacy.entry.etherium_stove.name": "以太炉灶",
-  "book.enigmaticdelicacy.entry.etherium_stove.page.1": "可以说这是厨房里所需要具备的“最终兵器”。<br2/>高可塑性与高强度的以太，用于厨锅的传热太过合适，而且用星尘来作为燃料来提供强大的热源，两者相辅相成，塑造了这个最为强大的厨房利器。相比于其他的传统加热方式，以太炉灶能够近乎减半一切食物的烹饪时间，大大节省你在厨房里浪费的时间。",
-  "book.enigmaticdelicacy.entry.etherium_stove.page.2": "此外对下层的改造使得厨房之内又多出了一个无限燃料的熔炉（就是炉灶本身），空间利用最大化。",
+  "book.enigmaticdelicacy.entry.etherium_stove.page.1": "可以说这是厨房里所需要具备的“最终兵器”。<br2/>高可塑性与高强度的以太，用于厨锅的传热太过合适，而且用星尘来作为燃料来提供强大的热源，两者相辅相成，塑造了这个最为强大的厨房利器。虽然贵，但是值得。相比于其他的传统加热方式，以太炉灶能够近乎减半一切食物的烹饪时间，大大节省你在厨房里浪费的时间。",
+  "book.enigmaticdelicacy.entry.etherium_stove.page.2": "此外对下层的改造使得厨房之内又多出了一个无限燃料加速熔炼的熔炉（就是炉灶本身），空间利用最大化。",
 
   "book.enigmaticdelicacy.entry.infinisoil.name": "无尽沃土",
   "book.enigmaticdelicacy.entry.infinisoil.page.1": "无论是什么事物，如果有能力，我们总是在寻求它们的最终形态。就算是耕土也不例外。<br2/>将狂野生长精华融入土地之中，把大自然的力量充分发挥。这块闪烁着光芒的土地将以极快的速度催熟上方的作物，无需任何代价，它同样也能够生效在那些普通肥料不起作用的植物。",
@@ -184,7 +184,7 @@
 
   "book.enigmaticdelicacy.entry.etherium_machete.name": "以太砍刀",
   "book.enigmaticdelicacy.entry.etherium_machete.page.1": "这把刀的宽大刀刃决定它不仅仅能在厨房之中切开食材，还能让更多的生物变成你的食材。虽说手感略重，但在优良的伤害面前不值一提。<br2/>相比于采集的需求，你似乎觉得战斗技能更加适合这把工具。不同于阔剑的灵巧后撤，激进的冲锋也有所必要。",
-  "book.enigmaticdelicacy.entry.etherium_machete.page.2": "当然用于战斗还是逃跑，这取决于你的选择。",
+  "book.enigmaticdelicacy.entry.etherium_machete.page.2": "当然用于战斗还是逃跑，这取决于你的选择。另外，这是一把好刀，你可以去试试切一般情况下切不开的东西。",
 
   "book.enigmaticdelicacy.entry.weapon_charm.name": "武器大师的荣耀",
   "book.enigmaticdelicacy.entry.weapon_charm.page.1": "不同的武器有着不同的战斗节奏，根据不同的情况应该有着不同的加强方式。<br2/>由多把利器铸造而成的闪光护符，会根据你的主手武器给与你不同的加强方式。",
@@ -206,9 +206,9 @@
   "book.enigmaticdelicacy.entry.astral_tree.blossoming": "绽放",
   "book.enigmaticdelicacy.entry.astral_tree.materials": "材料",
   "book.enigmaticdelicacy.entry.astral_tree.building_materials": "建材",
-  "book.enigmaticdelicacy.entry.astral_tree.page.1": "看着手中为此一颗的天体果实，你的脑中闪过了它的滋味，且不论这个回忆从何而来，你决定将其留下做更多研究，为了将这一美味能再生于世上。<br2/>鉴于天体果实相似于苹果，你决定将橡树作为嫁接的目标，利用星辰的催化与末影的空间能力，算是完成了简单的嫁接。",
+  "book.enigmaticdelicacy.entry.astral_tree.page.1": "看着手中仅此一颗的天体果实，你的脑中闪过了它的滋味，且不论这个回忆从何而来，你决定将其留下做更多研究而不是吃掉，为了将这一美味能再生于世上。<br2/>鉴于天体果实相似于苹果，你决定将橡树作为嫁接的目标，利用星辰的催化与末影的空间能力，算是完成了简单的嫁接。",
   "book.enigmaticdelicacy.entry.astral_tree.page.2": "但是一般的土壤无法让它成长，而且就算是沃土也只能让其长成矮小的植株，但你也别无他法了。",
-  "book.enigmaticdelicacy.entry.astral_tree.page.3": "天体果实需要完成较长的开花结果的过程（总计约游戏内三天），一般而言没办法催熟，除非你有什么能够操纵时间的能力（如暮色的时光树）或者邪修（如机械动力的树木肥料）。",
+  "book.enigmaticdelicacy.entry.astral_tree.page.3": "天体果实需要完成较长的开花结果的过程（总计约游戏内三天），一般而言没办法催熟，除非你有什么能够操纵时间的能力（如暮色的时光树）或者邪修（如机械动力的树木肥料，诡厄巫法的药酿）。",
   "book.enigmaticdelicacy.entry.astral_tree.page.4": "星辰树除了提供无尽的天体果实之外，还有树皮，树叶等许多实用性不低的副产物。食物、饰品等等还可以进行更多的开发。",
   "book.enigmaticdelicacy.entry.astral_tree.page.5": "而谈及其木材本身，星辰木制品相较于一般的木制品更加具有韧性，且不易被火焰点燃。不管美观度如何，实用性还是具有的。",
   "book.enigmaticdelicacy.entry.astral_tree.page.6": "当叶片从面前飘过时，一阵安神的感觉袭来，感觉是泡茶的好材料。配以基本的牛奶与蜂蜜，简单但有效的安神茶便制成了。<br2/>从口味来看，还是和星辰之瓶的效果截然不同的。",
@@ -217,10 +217,10 @@
   "book.enigmaticdelicacy.entry.harmonious_grail.name": "调谐圣杯",
   "book.enigmaticdelicacy.entry.harmonious_grail.page.1": "虽然知道不洁圣杯与禁忌之果的强大联合效果，但依然有人不愿为这短暂的快感而去牺牲世间数不尽的美味。在这两股念头的碰撞下，该烹饪配方得以被研究出来。<br2/>将禁忌之果投入圣杯之中，无尽恢复的液体和无穷的禁忌气息相互碰撞，在锅内翻腾……看着杯中的液体渐渐染上异色，你觉得是时候品尝了。",
   "book.enigmaticdelicacy.entry.harmonious_grail.page.2": "小酌一口浓稠的液体，配上杯边切制的果块，细腻的滋味让人久久不能忘怀，如果你曾品尝过天体果实，其中相似的口味必能感知一二。",
-  "book.enigmaticdelicacy.entry.harmonious_grail.page.3": "",
+  "book.enigmaticdelicacy.entry.harmonious_grail.page.3": "“魔法古代臭水和申必烂果子在申必的各种材料的作用下变成了申必的美味饮品”——by 未知冒险家",
 
   "book.enigmaticdelicacy.entry.balanced_stewed_soup.name": "均衡禁忌",
-  "book.enigmaticdelicacy.entry.balanced_stewed_soup.page.1": "对于来自禁忌之果的诅咒，完全抛弃略显可惜，但花落人断肠，吃不了，那真叫忧伤。经过一顿开发，这样一份均衡两者的选择就此出现。<br2/>在救赎效果的持续期间，除了对于生命恢复的限制则依旧存留部分，你会像正常人一般感到饥饿，但似乎无法掌握饥饿的确切情况。",
+  "book.enigmaticdelicacy.entry.balanced_stewed_soup.page.1": "对于来自禁忌之果的诅咒，完全抛弃略显可惜，但花落人断肠，吃不了，那真叫忧伤。经过一顿开发，这样一份均衡两者的选择就此出现。<br2/>在救赎效果的持续期间，除了对于生命恢复的限制则依旧存留部分（比之前减半），你会像正常人一般感到饥饿，但似乎无法掌握饥饿的确切情况。",
   "book.enigmaticdelicacy.entry.balanced_stewed_soup.page.2": "此外无需担心药水的消耗，这份炖汤能在未被完全喝完时缓慢自然恢复，未知的事物果然具有非凡的力量。",
 
   "book.enigmaticdelicacy.entry.curse_blade.name": "破损之戒",
@@ -230,7 +230,7 @@
   "book.enigmaticdelicacy.entry.curse_blade.page.2": "将目光放在一枚奇怪的护符之上——地狱双刃护符。<br2/>同为带有诅咒的物品，还有那锋利的双刃，我们不妨将其用禁忌之战斧打碎，利用其中的双刃完成此行。",
   "book.enigmaticdelicacy.entry.curse_blade.page.3": "将手指放在砧板之上，随着一阵清脆的声响，七咒之戒就此脱离。伴随而来的便是剧烈的疼痛，些微损坏的刀和诅咒的生命水晶。<br2/>但是就目前而言，你可以先对于摆脱七咒感到高兴一点。",
   "book.enigmaticdelicacy.entry.curse_blade.page.4": "最后，利用召回药水将受困在诅咒生命水晶的灵魂悉数救回，就可以真正的脱离七咒的苦海了。",
-  "book.enigmaticdelicacy.entry.curse_blade.page.5": "在这一切之后，你的手中可能还有些许灵魂碎片余留，不如用其锻造一些奇特的道具吧。<br2/>注意，七咒只能切一次，如果§c你手残又戴上了..哼哼！切不了辣！受着吧！",
+  "book.enigmaticdelicacy.entry.curse_blade.page.5": "在这一切之后，你的手中可能还有些许灵魂碎片余留，不如用其锻造一些奇特的道具吧。<br2/>注意，七咒只能切一次（一只手只能戴一个戒指），如果§c你手残又戴上了..哼哼！切不了辣！受着吧！",
 
   "book.enigmaticdelicacy.entry.divine_fruit_pie.name": "神之珍馐",
   "book.enigmaticdelicacy.entry.divine_fruit_pie.page.1": "如若未曾经过七咒的洗礼，那么你就没有阅读本资料的资格。就算想了解，也一定不要去尝试，你会后悔的。<br2/>灵液瓶和天体果实，想必没人能够抵住它们的诱惑，想必同时出现在物品栏内的几率微乎其微，你是怎样发现的呢？是借助了神秘的力量？<br2/>一盘虽然能够分成四份，但",

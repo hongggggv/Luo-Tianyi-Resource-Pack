@@ -18,7 +18,7 @@
 
   "enchantment.enigmaticaddons.redemption_curse": "救赎诅咒",
   "enchantment.enigmaticaddons.redemption_curse_alt": "救赎祝福",
-  "enchantment.enigmaticaddons.redemption_curse.desc": "增加受到的伤害（每个4%，佩戴救赎之戒时反转为减少）",
+  "enchantment.enigmaticaddons.redemption_curse.desc": "增加受到的伤害（每个增加4%，佩戴救赎之戒时反转为减少）",
   "enchantment.enigmaticaddons.frost_aspect": "霜冻附加",
   "enchantment.enigmaticaddons.frost_aspect.desc": "攻击目标逐渐冻结",
   "enchantment.enigmaticaddons.frost_protection": "霜冻保护",
@@ -29,11 +29,11 @@
   "book.enigmaticaddons.entry.redemption_curse.name": "救赎诅咒",
   "book.enigmaticaddons.entry.redemption_curse.heading.1": "诅咒附魔",
   "book.enigmaticaddons.entry.redemption_curse.page.1": "这些依附在盔甲的诅咒，是来自救赎命途的磨练之一。<br2/>这个诅咒会放大你收到的伤害(每个+4%)，削弱护甲提供的防御能力。但是在你完成救赎仪式之后，这些诅咒就会转变成来自救赎的祝福，为你提供伤害减免。",
-  "book.enigmaticaddons.entry.redemption_curse.page.2": "而因其独特的诅咒方式，救赎诅咒与其他诅咒并不相容，所以在一定程度上，它能够保护你的护甲免受其他诅咒侵害，当然只是一定程度。",
+  "book.enigmaticaddons.entry.redemption_curse.page.2": "而因其独特的诅咒方式，救赎诅咒与其他诅咒并不相容，所以在一定程度上，它能够保护你的护甲免受其他诅咒侵害，当然只是一定程度，并不能防住强制添加。",
   "book.enigmaticaddons.entry.frost_enchantment.name": "霜冻",
-  "book.enigmaticaddons.entry.frost_enchantment.heading.1": "附魔",
-  "book.enigmaticaddons.entry.frost_enchantment.heading.2": "附魔",
-  "book.enigmaticaddons.entry.frost_enchantment.heading.3": "附魔",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.1": "霜寒",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.2": "冷护",
+  "book.enigmaticaddons.entry.frost_enchantment.heading.3": "凝冰",
   "book.enigmaticaddons.entry.frost_enchantment.page.1": "在那些常见的附魔类别里，你又开发出了几个与霜冻有关的附魔。",
   "book.enigmaticaddons.entry.frost_enchantment.page.2": "霜冻附加 - 在你的武器上增添了寒冷的气息，被击中的目标都会慢慢变成冰块。当然与火焰附加附魔冲突。",
   "book.enigmaticaddons.entry.frost_enchantment.page.3": "霜冻保护 - 提供了针对霜冻类伤害的防护，并且能够让你在寒冷中坚持更久。全身保护等级大于等于16时免疫霜冻。与保护类附魔冲突。",
@@ -54,7 +54,7 @@
   "tooltip.enigmaticaddons.livingOde8": "§d对动物使用来安抚对方，并恢复保护效果",
 
   "book.enigmaticaddons.entry.ode_to_living.name": "生灵颂词",
-  "book.enigmaticaddons.entry.ode_to_living.page.1": "之前的指南似乎无法让所有的动物朋友去认可你，这本颂词能够安抚一些动物朋友的情绪。它也继承了前一版指南的功能。<br2/>颂词的内容对你来说还是过于晦涩，因此只能随身携带，以便随时需要。",
+  "book.enigmaticaddons.entry.ode_to_living.page.1": "之前的指南似乎无法让所有的动物朋友去认可你（比如北极熊），这本颂词能够安抚一些动物朋友的情绪。它也继承了前一版指南的功能。<br2/>颂词的内容对你来说还是过于晦涩，因此只能随身携带，以便随时需要。",
   "book.enigmaticaddons.entry.ode_to_living.page.2": "",
 
   "item.enigmaticaddons.night_scroll": "暗夜契约卷轴",
@@ -66,8 +66,8 @@
   "tooltip.enigmaticaddons.nightScroll5": "§6+%1$s §d生命窃取",
 
   "book.enigmaticaddons.entry.night_scroll.name": "暗夜契约卷轴",
-  "book.enigmaticaddons.entry.night_scroll.page.1": "虽说失眠症对于半神而言不值一提，但那些夜幕中的潜伏者着实令人生厌，不止的撕叫声，上下翻飞的身影。你决定用他们的残体来制作一份卷轴。<br2/>暗夜的力量不仅使幻翼们害怕，而且允许你在黑暗之中发挥出更多的能力。",
-  "book.enigmaticaddons.entry.night_scroll.page.2": "",
+  "book.enigmaticaddons.entry.night_scroll.page.1": "虽说失眠症对于半神而言不值一提，但那些夜幕中的潜伏者着实令人生厌，不止的撕叫声，上下翻飞的身影。你决定用他们的残体来制作一份卷轴。<br2/>暗夜的力量不仅使幻翼们凋谢，害怕，而且允许你在黑暗之中发挥出更多的能力。",
+  "book.enigmaticaddons.entry.night_scroll.page.2": "请注意：如果不承受七咒或者救赎使用会陷入无止黑暗之中。",
 
   "item.enigmaticaddons.quartz_ring": "魔法石英戒指",
 
@@ -167,7 +167,7 @@
 
   "book.enigmaticaddons.entry.etherium_core.name": "以太核心",
   "book.enigmaticaddons.entry.etherium_core.page.1": "一个是在世界里随处可见的魔像之心，一个是极其珍贵的以太护甲，将两者合一便能得到这一专精于物理防御的术石。<br2/>将魔像之心作为以太护盾的不竭能源之后，你便可以随时通过这枚术石主动触发以太护盾，不太受限于视你的健康状况而定。但不仅于此，魔像之心还赋予了护盾新的能力，记仇的它会记下",
-  "book.enigmaticaddons.entry.etherium_core.page.2": "你每次收到的伤害，折算、累加，并在下一次攻击时，将所有力量灌注这一击之中，好好偿还回去。<br2/>此外，不同于其他的术石，纯净的以太力量似乎并没有什么弱点，请放心使用。",
+  "book.enigmaticaddons.entry.etherium_core.page.2": "你每次收到的伤害，折算、累加，并在下一次攻击时，将所有力量灌注这一击之中，好好偿还回去。<br2/>此外，不同于其他的术石，纯净的以太力量似乎并没有什么弱点，只需要偶尔关注护盾的冷却就行了，请放心使用。",
   "book.enigmaticaddons.entry.etherium_core.page.3": "",
 
   "item.enigmaticaddons.illusion_lantern": "虚幻冥灯",
@@ -206,7 +206,7 @@
 
   "book.enigmaticaddons.entry.dragon_bow.name": "龙息",
   "book.enigmaticaddons.entry.dragon_bow.page.1": "龙息仅仅只能用于酿造吗？你也许思考过这个问题。回忆起末影龙用致命的哈喇子来灼烧你的盔甲与皮肤，你也很想让来其他人尝尝这个滋味。还有那个挂在末地船仅能拿来装饰的诡异龙头…<br2/>故在种种原因的驱使下，这把由魔法注入的弓诞生了。",
-  "book.enigmaticaddons.entry.dragon_bow.page.2": "这把弓能够射出龙息箭而不需要任何弹药，但需要稍长一点的蓄力时间。当龙息箭击中时便会化为范围龙息，并尝试去以它的方式挽留或追逐每个经过的人。",
+  "book.enigmaticaddons.entry.dragon_bow.page.2": "这把弓能够射出龙息箭而不需要任何弹药，但需要稍长一点的蓄力时间。当龙息箭击中时便会化为范围龙息，并尝试去以它的方式挽留或追逐每个经过的人。附魔会增幅其力量，多重射击甚至允许龙息箭不产生无敌帧攻击。",
   "book.enigmaticaddons.entry.dragon_bow.page.3": "不过有一点要注意，这把弓仅仅只是让你能够利用龙息的力量，并不能让你快乐且愚蠢地在龙息中遨游，你走进去还会受伤。<br2/>你或许会觉得这把弓过于平庸，所以我们进一步地开发它的潜能。<br2/>鉴于龙息在酿造中的作用，你决定尝试让药水在这把弓上发挥作用。倒在弓表面上的药水都渐渐被吸收，融入了幻化的箭矢之中，不过容量终究是有限的。",
   "book.enigmaticaddons.entry.dragon_bow.page.4": "而且如果有你不中意的效果，用水就可以清除了。",
 
@@ -220,7 +220,7 @@
 
   "book.enigmaticaddons.entry.sanguinary_handbook.name": "血腥狩猎",
   "book.enigmaticaddons.entry.sanguinary_handbook.page.1": "在一定的时期之后，你一定会有所感觉，身边的那些追随者们的实力已经与你相差过大，同时野猎指南提供的保护也不值一提了。于是，你又想到了有关扭曲之心的一个新用途<br2/>这本手册让你的追随者们掌握了新的能力，并且也获得来自你身上的部分暴力增幅。",
-  "book.enigmaticaddons.entry.sanguinary_handbook.page.2": "让他们聆听手册中的箴言，无私地奉献生命吧！",
+  "book.enigmaticaddons.entry.sanguinary_handbook.page.2": "但注意，这本书不继承之前的转移伤害能力，你的宠物或仆从可能会战死。如果你不在意的话，让他们聆听手册中的箴言，无私地奉献生命吧！",
 
   "item.enigmaticaddons.false_justice": "虚伪审判",
 
@@ -241,7 +241,7 @@
 
   "book.enigmaticaddons.entry.cursed_xp_scroll.name": "无知诅咒",
   "book.enigmaticaddons.entry.cursed_xp_scroll.page.1": "当你的时期到达一定的阶段后，经验除了拿来替别人使用，似乎不太有用武之地了，但现在，通过诅咒之力，这枚卷轴的性质就发生了巨大的改变。<br2/>贪婪的无知诅咒将卷轴的狩猎范围变得更广，并将获取到的经验的大部分吞噬，留给你的简直微乎其微。<br2/>当然，诅咒带来的恩惠也不",
-  "book.enigmaticaddons.entry.cursed_xp_scroll.page.2": "容小觑，极大的强化了你的战斗能力。最后也请记住，诅咒始终在等待机会，当你处于最脆弱的状态时，它会带走一切，即使你不会在死后爆装备。",
+  "book.enigmaticaddons.entry.cursed_xp_scroll.page.2": "容小觑，极大的强化了你的战斗能力。最后也请记住，诅咒始终在等待机会，当你处于最脆弱的状态时，它会带走一切。",
 
   "item.enigmaticaddons.thunder_scroll": "万钧之护卷轴",
 
@@ -250,11 +250,11 @@
   "tooltip.enigmaticaddons.thunderScroll3": "§5目标在受击一定次数后",
   "tooltip.enigmaticaddons.thunderScroll4": "§5会受到§6落雷§5打击",
   "tooltip.enigmaticaddons.thunderScroll5": "§5受到§d闪电伤害§5减半",
-  "tooltip.enigmaticaddons.thunderScroll6": "§5并不受其他大多数效果影响",
+  "tooltip.enigmaticaddons.thunderScroll6": "§5落雷伤害并不受其他大多数效果影响",
 
   "book.enigmaticaddons.entry.thunder_scroll.name": "万钧之护卷轴",
   "book.enigmaticaddons.entry.thunder_scroll.page.1": "虽说海洋意志术石能够一定程度上控制雷电的产生，但这终究只是间接控制，不够迅速。<br2/>我们利用神圣之力将共鸣闪电的咒语书写与卷轴之上，以术石为基底，以剑为媒介去释放来自天穹的力量。在战斗的过程中，这个卷轴会驱使你施展横扫攻击，来尽可能地去将闪电的目标扩大，同时",
-  "book.enigmaticaddons.entry.thunder_scroll.page.2": "电属性也能让你的攻击更容易穿透护甲的影响，让你能更好的面对高护甲和群体对象。<br2/>另外也请你放心，来自天空的闪电不会轻易劈到他们的主人。",
+  "book.enigmaticaddons.entry.thunder_scroll.page.2": "电属性也能让你的攻击更容易穿透护甲的影响，让你能更好的面对高护甲和群体对象。<br2/>另外也请你放心，来自天空的闪电不会轻易劈到他们的主人，即使身着古老引擎也不用担心会被自己的闪电炸烂。",
 
   "item.enigmaticaddons.hell_blade_charm": "地狱刃片护符",
 
@@ -268,7 +268,7 @@
   "book.enigmaticaddons.entry.hell_blade_charm.name": "地狱刃片护符",
   "book.enigmaticaddons.entry.hell_blade_charm.title": "地狱双刃",
   "book.enigmaticaddons.entry.hell_blade_charm.page.1": "这枚护符似乎一直在下界的某处期待着你的到来，等着你用自己的鲜血来浇灌它。<br2/>无论是谁，当注意到这枚护符给予的强大力量时，即使它也诚实地表明了代价，都不免会心动而佩戴上它。一般而言，这些佩戴者都以十分愚蠢的死状收尾。",
-  "book.enigmaticaddons.entry.hell_blade_charm.page.2": "所以，请慎重的佩戴这枚护符，特别是同时承受七咒之人。",
+  "book.enigmaticaddons.entry.hell_blade_charm.page.2": "所以，请慎重的佩戴这枚护符，特别是同时承受七咒之人。但若不惧七咒与护符的代价，你会得到无比强力的力量。与千咒和血战沙场组合甚至能双拳打核爆。",
 
   "item.enigmaticaddons.forger_gem": "锻造者的宝石",
 
@@ -278,19 +278,19 @@
   "tooltip.enigmaticaddons.forgerGem5" : "§5出一把§d不可破坏§5的相应工具",
 
   "book.enigmaticaddons.entry.forger_gem.name": "锻造者的宝石",
-  "book.enigmaticaddons.entry.forger_gem.page.1": "锻造工具与武器，是增强实力的过程中难以避免的一步，但在登峰造极的那一刻前，总会因为昂贵的造价或是濒临破裂的铁砧而担忧。<br2/>这个饰品则会直接将古老的锻造技巧注入你的双手，能够有效降低铁砧破裂的概率，并能够借助宝石的能量，将造价大幅降低，从而提高了锻造的上限。",
-  "book.enigmaticaddons.entry.forger_gem.page.2": "此外，七咒的魔力也允许你去打造一些不可破坏的造物，虽然这需要两把相同的崭新工具和大量的经验。<br2/>有时你也能在一些箱子里发现这些作物旧时代遗物的宝石。",
+  "book.enigmaticaddons.entry.forger_gem.page.1": "锻造工具与武器，是增强实力的过程中难以避免的一步，但在登峰造极的那一刻前，总会因为昂贵的造价或是濒临破裂的铁砧而担忧。<br2/>这个饰品则会直接将古老的锻造技巧注入你的双手，能够有效降低铁砧破裂的概率(12%->2%)，并能够借助宝石的能量，将造价大幅降低，从而提高了锻造的上限。",
+  "book.enigmaticaddons.entry.forger_gem.page.2": "此外，七咒或救赎的魔力也允许你去打造一些不可破坏的造物，虽然这需要两把相同的崭新工具(护甲)和大量的经验并会增加其12的累计惩罚。<br2/>有时你也能在一些箱子里发现这些作物旧时代遗物的宝石。",
 
   "item.enigmaticaddons.adventure_charm": "冒险者之证",
   "item.enigmaticaddons.despair_insignia": "绝望者证章",
 
   "tooltip.enigmaticaddons.adventureCharm1" : "§5使你无法挖掘方块",
   "tooltip.enigmaticaddons.adventureCharm2" : "§5按住 §6Shift §5时不起效",
-  "tooltip.enigmaticaddons.despairInsignia" : "§d可能与平时有点不同",
+  "tooltip.enigmaticaddons.despairInsignia" : "§d可能与平时有点不同~",
 
   "book.enigmaticaddons.entry.adventure_charm.name": "冒险者之证",
-  "book.enigmaticaddons.entry.adventure_charm.page.1": "创造与破坏，这是无上的创世神之力，但在有些时候你会很难把握好力道，稍有不慎就容易产生不必要的破坏。而且在纯粹的战斗中，你更希望将这种力量转化为更加实用的形式。",
-  "book.enigmaticaddons.entry.adventure_charm.page.2": "现在这枚护符也许可以暂时满足你的这些需求，将破坏之力转化为了少量的战斗增益，当然这枚护符也不会占用你珍贵的栏位，是否装备完全出于你的选择。",
+  "book.enigmaticaddons.entry.adventure_charm.page.1": "创造与破坏，这是无上的创世之力，但在有些时候你会很难把握好力道，稍有不慎就容易产生不必要的破坏。而且在纯粹的战斗中，你更希望将这种力量转化为更加实用的形式。",
+  "book.enigmaticaddons.entry.adventure_charm.page.2": "现在这枚护符也许可以暂时满足你的这些需求，将破坏之力转化为了少量的战斗增益，当然这枚护符也不会占用你珍贵的栏位，是否装备完全出于你的选择。听说有一些极端的冒险者，他们的护符变成了另一个样子...",
 
   "item.enigmaticaddons.void_tome": "虚无之书",
 
@@ -299,7 +299,7 @@
   "book.enigmaticaddons.entry.void_tome.name": "虚无之书",
   "book.enigmaticaddons.entry.void_tome.heading": "虚无",
   "book.enigmaticaddons.entry.void_tome.page.1": "这本异常之书静静地躺在主世界的某个角落之中，等待着渴求知识的人找到它的存在。<br2/>一旦你翻开这本散发着不祥之气的书，你的大脑似乎被接入了一片无止的虚空之中，大量的无形之物涌入你的脑中，冲散一切的知觉，拨弄着每一根神经，似乎在向你轻语那无尽的奥秘…",
-  "book.enigmaticaddons.entry.void_tome.page.2": "当你回过神来，那本书消失了，留下的只有头内的剧痛，和对奥秘卷轴的崭新认知。",
+  "book.enigmaticaddons.entry.void_tome.page.2": "当你回过神来，那本书消失了，再寻也无法寻到第二本，留下的只有头内的剧痛，和对奥秘卷轴的崭新认知。读过这本书被疼死的概率很小，但不是0。",
 
   "item.enigmaticaddons.antique_bag": "古旧书袋",
   "gui.enigmaticaddons.antique_bag": "§5魔法书袋",
@@ -324,12 +324,12 @@
 
   "tooltip.enigmaticaddons.artificialFlowerAttribute": "§d当前属性：",
   "tooltip.enigmaticaddons.artificialFlowerEffect": "§d当前效果：",
-  "tooltip.enigmaticaddons.artificialFlowerNone": "§5无",
+  "tooltip.enigmaticaddons.artificialFlowerNone": "§5莫得喵~",
 
   "book.enigmaticaddons.entry.artificial_flower.name": "人工花朵",
   "book.enigmaticaddons.entry.artificial_flower.heading": "魔法花",
   "book.enigmaticaddons.entry.artificial_flower.page.1": "在无名废墟之中，这朵亮丽的小花引起了你的注意。还当你未想明白为何如此美丽的花朵生长在箱子之中，它的触感就告诉你其实这是人工的造物。<br2/>富含魔力的人工花可以将材料转化为各种来路不明的效果，它如同刚刚入世的孩童一般难以辨别效果的好坏，只知一味的给予。",
-  "book.enigmaticaddons.entry.artificial_flower.page.2": "此外，如果身上有一些同类饰品的话，这朵可爱的花说不定会更开心。",
+  "book.enigmaticaddons.entry.artificial_flower.page.2": "此外，如果身上有一些同类饰品的话，这朵可爱的花说不定会更开心。小花的中间似乎还能放个戒指？",
 
   "item.enigmaticaddons.extradimensional_scepter": "超维权杖",
 
@@ -344,7 +344,7 @@
 
   "book.enigmaticaddons.entry.extradimensional_scepter.name": "超维权杖",
   "book.enigmaticaddons.entry.extradimensional_scepter.page.1": "超维之眼虽说是良好的生物运输工具，但是作为一次性用品还是过于繁琐了，我们是否可以利用来自下界的材料来做一点新工具呢？一把崭新的权杖由此诞生！<br2/>我们现在可以通过权杖直接将生物传送到独属于权杖的超维度中，也可以在战斗之中将许多目标封锁在超维度中渐渐撕裂。",
-  "book.enigmaticaddons.entry.extradimensional_scepter.page.2": "当然，这些操作有一个缺点，需要目标相对于自己在生命力上足够虚弱。（小于你当前生命值的2倍，神明可以无视条件）",
+  "book.enigmaticaddons.entry.extradimensional_scepter.page.2": "当然，这些操作有一个缺点，需要目标相对于自己在生命力上足够虚弱，否则没有效果。（小于你当前生命值的2倍，神明可以无视条件）",
 
   "item.enigmaticaddons.astral_potion": "星辰之瓶",
 
@@ -353,7 +353,7 @@
 
   "book.enigmaticaddons.entry.astral_potion.name": "星辰之瓶",
   "book.enigmaticaddons.entry.astral_potion.heading": "酿造",
-  "book.enigmaticaddons.entry.astral_potion.page.1": "星尘在药水酿造中巨大潜能，相必你一定有所体会。但是在面对一些陌生的药剂，你似乎不能简单的将其星尘催化，更别说那些不能从药水里获得的效果了。<br2/>你将视线转向了蜂蜜，当然，这绝对不是因为好奇星尘在蜂蜜中的口味。",
+  "book.enigmaticaddons.entry.astral_potion.page.1": "星尘在药水酿造的巨大潜能，相必你一定有所体会。但是在面对一些陌生的药剂，你似乎不能简单的将其星尘催化，更别说那些不能从药水里获得的效果了。<br2/>你将视线转向了蜂蜜，当然，这绝对不是因为好奇星尘在蜂蜜中的口味。",
   "book.enigmaticaddons.entry.astral_potion.page.2": "从结果上看，这瓶神秘物质能够延长你身上的药水效果持续时间。但如果你想短时间内再来一瓶，额，注意后果，你可能会吐上一会…",
 
   "item.enigmaticaddons.primeval_cube": "原初立方",
@@ -417,7 +417,7 @@
 
   "book.enigmaticaddons.entry.the_bless.name": "恩惠之典",
   "book.enigmaticaddons.entry.the_bless.page.1": "这依旧是一本知识之书，作为倒转之启一体两面的存在。<br2/>同样是利用邪恶精髓，灵液的纯化效应则将这本书变化的更倾向于保守一面，增加你在频繁受击中存活的可能性，并让你免疫永燃火焰的侵害。这便是恩惠之一。",
-  "book.enigmaticaddons.entry.the_bless.page.2": "当然这本书不止于此，启示之证的焚化之力也在此处得到了进一步的强化，去除焚烧者一切的福音，给予焚烧者更为猛烈的痛击。",
+  "book.enigmaticaddons.entry.the_bless.page.2": "当然这本书不止于此，启示之证的焚化之力也在此处得到了进一步的强化，去除焚烧者一切的福音，给予焚烧者更为猛烈的痛击。“愿你的名受显扬，愿你的国来临，愿你的旨意奉行在人间”",
 
   "item.enigmaticaddons.bless_amplifier": "神化之书",
 
@@ -445,7 +445,7 @@
   "book.enigmaticaddons.entry.bless_stone.page.1": "当你正在犹豫是否要牺牲自己的一部分去摆脱七咒之戒时，现在，在你面前有了一个崭新的选择：田园诗歌。<br2/>目前在你眼前的最大问题，就是你与诅咒像纠缠的那一部分，以目前的材料和手段，似乎无从下手。但是将思路转换，既然无法打破联系，那就让联系以一种新的方式呈现。",
   "book.enigmaticaddons.entry.bless_stone.page.2": "将些许的纯化之力慢慢渗入七咒之戒中，调动其中的祝福之力去尝试调谐，甚至改变各项诅咒之力，不过这一切操作的进行，依旧需要在联系最脆弱的时候，即你需要直面死亡。（极限挑战者需要雷引此石方可发现奥秘）",
   "book.enigmaticaddons.entry.bless_stone.page.3": "在最后的一次灵魂破碎之后，七咒之戒就会从你的眼前彻底消失，变为了手上的一抹金色。（不可逆！）<br2/>以往的诅咒彻底消失了，原先的祝福则得到了部分的保留。虽说昔日陪伴着你的大部分物件都已无法使用，但依旧有一些东西，见证了你充满苦难的过去，那不断接",
-  "book.enigmaticaddons.entry.bless_stone.page.4": "近于死亡的过去。它们依旧认可着你的资格，愿意为你破除诅咒的束缚，依旧陪伴着你。<br2/>愿你在远离诅咒的日子里，尽情的享受生活。但你也无法真正了解这枚戒指，请不要轻易做下选择。<br2/>提醒：即使是神明，也不要将此物与七咒佩戴，它们释放的神魔之力足以毁灭世间。",
+  "book.enigmaticaddons.entry.bless_stone.page.4": "近于死亡的过去。它们依旧认可着你的资格，愿意为你破除诅咒的束缚，依旧陪伴着你。<br2/>愿你在远离诅咒的日子里，尽情的享受生活。但你也无法真正了解这枚戒指，请不要轻易做下选择。<br2/>提醒：即使是神明，也不要将此物与七咒佩戴，它们释放的神魔之力足以毁灭你。",
 
   "item.enigmaticaddons.bless_ring": "救赎之戒",
   "item.enigmaticaddons.broken_ring": "破损之戒",
@@ -525,7 +525,7 @@
 
   "book.enigmaticaddons.entry.chaos_elytra.name": "混沌之傲",
   "book.enigmaticaddons.entry.chaos_elytra.page.1": "既然深渊之心在手，为何不将目光置于天空之中？<br2/>基于壮丽鞘翅相同的制作工艺，用上更为邪恶、更有力量的材料，便可获得这更为强力的鞘翅。借助末影和星辰之力翱翔在天空之中，去傲视那些匍匐在大地的生灵。",
-  "book.enigmaticaddons.entry.chaos_elytra.page.2": "当从空中去向地面，伴随我们的降临必是混乱邪恶，带给地面以冲击，将一切置以混沌。",
+  "book.enigmaticaddons.entry.chaos_elytra.page.2": "当从空中去向地面，伴随我们的降临必是混乱邪恶，带给地面以冲击，将一切置以混沌。“这天地万般，如何与我久周旋？”",
 
   "item.enigmaticaddons.violence_scroll": "暴戾之咒",
 
@@ -598,18 +598,18 @@
   "item.enigmaticaddons.common_potion_lingering.effect.long_frozen_heart": "滞留型冻结之心药水",
   "item.enigmaticaddons.ultimate_potion_lingering.effect.ultimate_frozen_heart": "滞留型冻结之心药水",
 
-  "item.enigmaticaddons.common_potion.effect.mining_fatigue": "挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion.effect.long_mining_fatigue": "挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion.effect.strong_mining_fatigue": "挖掘疲劳药水",
-  "item.enigmaticaddons.ultimate_potion.effect.ultimate_mining_fatigue": "挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_splash.effect.mining_fatigue": "喷溅型挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_splash.effect.long_mining_fatigue": "喷溅型挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_splash.effect.strong_mining_fatigue": "喷溅型挖掘疲劳药水",
-  "item.enigmaticaddons.ultimate_potion_splash.effect.ultimate_mining_fatigue": "喷溅型挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_lingering.effect.mining_fatigue": "滞留型挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_lingering.effect.long_mining_fatigue": "滞留型挖掘疲劳药水",
-  "item.enigmaticaddons.common_potion_lingering.effect.strong_mining_fatigue": "滞留型挖掘疲劳药水",
-  "item.enigmaticaddons.ultimate_potion_lingering.effect.ultimate_mining_fatigue": "滞留型挖掘疲劳药水",
+  "item.enigmaticaddons.common_potion.effect.mining_fatigue": "胳膊累了药水",
+  "item.enigmaticaddons.common_potion.effect.long_mining_fatigue": "胳膊累了药水",
+  "item.enigmaticaddons.common_potion.effect.strong_mining_fatigue": "胳膊累了药水",
+  "item.enigmaticaddons.ultimate_potion.effect.ultimate_mining_fatigue": "胳膊累了药水",
+  "item.enigmaticaddons.common_potion_splash.effect.mining_fatigue": "喷溅型胳膊累了药水",
+  "item.enigmaticaddons.common_potion_splash.effect.long_mining_fatigue": "喷溅型胳膊累了药水",
+  "item.enigmaticaddons.common_potion_splash.effect.strong_mining_fatigue": "喷溅型胳膊累了药水",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.ultimate_mining_fatigue": "喷溅型胳膊累了药水",
+  "item.enigmaticaddons.common_potion_lingering.effect.mining_fatigue": "滞留型胳膊累了药水",
+  "item.enigmaticaddons.common_potion_lingering.effect.long_mining_fatigue": "滞留型胳膊累了药水",
+  "item.enigmaticaddons.common_potion_lingering.effect.strong_mining_fatigue": "滞留型胳膊累了药水",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.ultimate_mining_fatigue": "滞留型胳膊累了药水",
 
   "book.enigmaticaddons.entry.frozen_heart_potion.name": "冻结之心药水",
   "book.enigmaticaddons.entry.frozen_heart_potion.heading.1": "酿造",
@@ -631,7 +631,7 @@
   "item.enigmaticaddons.ultimate_potion.effect.extreme_strength": "力量药水",
   "item.enigmaticaddons.ultimate_potion.effect.extreme_weakness": "虚弱药水",
   "item.enigmaticaddons.ultimate_potion.effect.extreme_haste": "急迫药水",
-  "item.enigmaticaddons.ultimate_potion.effect.extreme_mining_fatigue": "挖掘疲劳药水",
+  "item.enigmaticaddons.ultimate_potion.effect.extreme_mining_fatigue": "胳膊累了药水",
 
   "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_leaping": "喷溅型跳跃提升药水",
   "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_swiftness": "喷溅型迅捷药水",
@@ -642,7 +642,7 @@
   "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_strength": "喷溅型力量药水",
   "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_weakness": "喷溅型虚弱药水",
   "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_haste": "喷溅型急迫药水",
-  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_mining_fatigue": "喷溅型挖掘疲劳药水",
+  "item.enigmaticaddons.ultimate_potion_splash.effect.extreme_mining_fatigue": "喷溅型胳膊累了药水",
 
   "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_leaping": "滞留型跳跃提升药水",
   "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_swiftness": "滞留型迅捷药水",
@@ -653,7 +653,7 @@
   "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_strength": "滞留型力量药水",
   "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_weakness": "滞留型虚弱药水",
   "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_haste": "滞留型急迫药水",
-  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_mining_fatigue": "滞留型挖掘疲劳药水",
+  "item.enigmaticaddons.ultimate_potion_lingering.effect.extreme_mining_fatigue": "滞留型胳膊累了药水",
 
   "advancement.enigmaticaddons:pureHeart": "知地为智 知天圣",
   "advancement.enigmaticaddons:pureHeart.desc": "创造纯净之心，净化你那腐败的心灵（？）",
