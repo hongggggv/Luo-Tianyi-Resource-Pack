@@ -110,7 +110,7 @@
     "item.enigmaticlegacy.quote_player": "呓语播放器",
     "item.enigmaticlegacy.insignia": "迷人徽章",
     "item.enigmaticlegacy.deception_amulet": "诡计护符 [未完成]",
-    "item.enigmaticlegacy.the_judgement": "虚伪审判",
+    "item.enigmaticlegacy.the_judgement": "审判之刃",
     "item.enigmaticlegacy.soul_dust": "灵魂尘",
     
     "block.enigmaticlegacy.big_lamp": "大灯笼",
@@ -378,7 +378,7 @@
     "advancement.enigmaticlegacy:allSpellstones": "§6“光锥之外，即为现实”",
     "advancement.enigmaticlegacy:allSpellstones.desc": "收集每一个独特的术石。也许有某种途径将它们全部合并为一……",
     
-    "advancement.enigmaticlegacy:theCube": "§e”光锥之内，即为命运“",
+    "advancement.enigmaticlegacy:theCube": "§e“光锥之内，即为命运”",
     "advancement.enigmaticlegacy:theCube.desc": "将所有的术石都强扭成一个强力而不自然的形体——非欧立方，曾译为命运之骰",
     
     "advancement.enigmaticlegacy:fabulousScroll": "手触苍穹",
