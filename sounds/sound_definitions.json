@@ -357,6 +357,11 @@
                 "name":"sounds/tianyi/menu/qdh",
                 "stream":true,
                 "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/yuemingdongfang",
+                "stream":true,
+                "load_on_low_memory":true
             }
         ]
     },
@@ -468,6 +473,11 @@
             },
             {
                 "name":"sounds/tianyi/menu/xcp",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/yuemingp",
                 "stream":true,
                 "load_on_low_memory":true
             }
@@ -638,6 +648,11 @@
             },
             {
                 "name":"sounds/tianyi/menu/xcp",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/yuemingp",
                 "stream":true,
                 "load_on_low_memory":true
             }

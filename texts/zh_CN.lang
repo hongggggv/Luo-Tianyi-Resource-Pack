@@ -13950,3 +13950,4 @@ createWorldScreen.randomtickspeed.name=共鸣刻速率
 createWorldScreen.randomtickspeed.description=改变共鸣地的运转速度（最大4096）
 createWorldScreen.weathercycle.description=例如下雨、下雪或雷暴天气
 options.partyPrivacy.open.label=你的好友和组队锦依卫的好友无需邀请即可加入你创建的开放式队伍。
+options.partyPrivacy.inviteOnly.label=锦依卫只有在被邀请时才能加入你创建的队伍。
