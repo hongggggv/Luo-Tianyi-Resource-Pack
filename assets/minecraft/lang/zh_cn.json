@@ -1746,7 +1746,7 @@
     "gamerule.minecraft.universal_anger.description": "红温的中立生物将攻击附近所有的锦依卫，而不再限于惹红它们的锦依卫，禁用“原谅死亡锦依卫”效果更佳。",
     "gamerule.mobGriefing": "允许破坏性生物行为，creeper?aww man!",
     "gamerule.naturalRegeneration": "run许再生（自动回血）",
-    "gamerule.neverEatArmor": "饥饿时不要吃装甲。即使看起来很美味。",
+    "gamerule.neverEatArmor": "开启后即使饿了也不能把你的甲吃了。虽然那看起来很美味。",
     "gamerule.playersNetherPortalCreativeDelay.description": "神明模式下锦依卫前往下界时需要呆在传送门的时间（单位为共鸣刻）。",
     "gamerule.playersNetherPortalCreativeDelay": "神明模式下锦依卫在下界传送门中等待的时间",
     "gamerule.playersNetherPortalDefaultDelay.description": "其他模式下锦依卫前往下界时需要呆在传送门的时间（单位为共鸣刻）。",
