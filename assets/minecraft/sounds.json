@@ -74,7 +74,8 @@
             "tianyi/yjygg",
             "tianyi/zxyzz",
             "tianyi/qdh",
-            "tianyi/yuemingdongfang"
+            "tianyi/yuemingdongfang",
+            "tianyi/pilang"
         ]
     },
     "music.credits": {
@@ -194,7 +195,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.crimson.forest": {
@@ -202,7 +204,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.crimson_forest": {
@@ -210,7 +213,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.basalt_deltas": {
@@ -218,7 +222,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.nether_wastes": {
@@ -226,7 +231,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.soulsand_vallery": {
@@ -234,7 +240,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.soul_sand_valley": {
@@ -242,7 +249,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.nether.warped_forest": {
@@ -250,7 +258,8 @@
         "sounds":[
             "tianyi/jtjmp",
             "tianyi/aloudp",
-            "tianyi/dzqyp"
+            "tianyi/dzqyp",
+            "tianyi/pilangp"
         ]
     },
     "music.overworld.badlands": {
