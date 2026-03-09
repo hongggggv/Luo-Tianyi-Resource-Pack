@@ -22,14 +22,14 @@
 # 如何加载这个资源包呢？
 - 下载以后放入 `resourcepacks` 这个文件夹即可
 # 我发现了 Bug！
-- 直接在这里提交 [issue](https://github.com/hongggggv/Tianyicraft/issues) 即可，资源包的创作者会去捉虫的（可能会回复不及时，请见谅）。
+- 直接在这里提交 [issue](https://github.com/Pearl-Luo/Tianyicraft/issues) 即可，资源包的创作者会去捉虫的（可能会回复不及时，请见谅）。
 # 常见问题
 - Q1.这个资源包怎么用呢？
 - A:请见上文。
 - Q2.资源包的闪烁标语为什么这么多？
 - A:这 712 条闪烁标语是文案组无数个小时的努力制作而成，712 条是为了庆祝洛天依的生日 7 月 12 日。
 - Q3.我有一些问题要问！
-- A:直接在 [Discussion](https://github.com/hongggggv/Tianyicraft/discussions) 提出即可。
+- A:直接在 [Discussion](https://github.com/Pearl-Luo/Tianyicraft/discussions) 提出即可。
 - Q4.有英文版本吗？
 - A:不好意思，这个暂时没有哦，洛天依的绝大部分歌曲都是中文演唱，目前只有在中文语境下才能体验到完整内容。
 - Q5.支持的游戏版本？
