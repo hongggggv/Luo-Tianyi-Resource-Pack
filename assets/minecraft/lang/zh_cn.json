@@ -1066,9 +1066,9 @@
     "commands.profile_fetch.failed_to_serialize": "在试图序列化锦依卫档案时掉坑了：%s",
     "commands.profile_fetch.give_item": "赠予物品",
     "commands.profile_fetch.id.failure": "解析ID为%s的锦依卫档案失败惹...",
-    "commands.profile_fetch.id.success": "天依已成功解析ID为%s的锦依卫档案：%s",
+    "commands.profile_fetch.id.success": "天依成功解析ID为%s的锦依卫档案awa：%s",
     "commands.profile_fetch.name.failure": "解析名称为%s的锦依卫档案失败惹QAQ",
-    "commands.profile_fetch.name.success": "成功解析了名称为%s的锦依卫档案awa：%s",
+    "commands.profile_fetch.name.success": "天依成功解析了名称为%s的锦依卫档案awa：%s",
     "commands.publish.alreadyPublished": "多人共鸣地已经在端口%s开放啦~",
     "commands.publish.failed": "哎呀！在开放共鸣地时出错啦！错误代码：404",
     "commands.publish.started": "现在本地共鸣地已在%s端口开放",
@@ -4378,5 +4378,9 @@
     "world.mine.next": "下一个矿境",
     "world.mine.revisit.lost": "重访遗憾败北的旧矿境",
     "world.mine.revisit.won": "重访胜利的旧矿境",
-    "world.mine": "矿境%s"
+    "world.mine": "矿境%s",
+    "commands.fetchprofile.no_profile": "唔，实体%s莫得锦依卫档案哦~",
+    "commands.fetchprofile.entity.success": "天依成功解析了实体%s的锦依卫档案awa：%s",
+    "commands.time.rate": "时钟%s现在以正常速度的%s倍运行",
+    "build.spawn_protection": "%s处于重生点保护下"
 }
