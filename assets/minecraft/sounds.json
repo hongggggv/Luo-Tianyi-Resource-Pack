@@ -88,8 +88,7 @@
         "replace": true,
         "sounds": [
             "tianyi/ssgp",
-            "tianyi/clp",
-            "tianyi/zzp"
+            "tianyi/clp"
         ]
     },
     "music.game": {
