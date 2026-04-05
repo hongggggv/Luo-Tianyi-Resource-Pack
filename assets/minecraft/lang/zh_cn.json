@@ -4446,7 +4446,7 @@
     "item.minecraft.group_action": "组合/取消组合",
     "item.minecraft.highlight_action": "高亮",
     "item.minecraft.move_action": "移动",
-    "item.minecraft.punch_action": "击打",
+    "item.minecraft.punch_action": "戳戳",
     "item.minecraft.select_action": "选择",
     "item.minecraft.select_group_action.details": "选中的组合：%s",
     "living_blocks.group.all": "全部",
