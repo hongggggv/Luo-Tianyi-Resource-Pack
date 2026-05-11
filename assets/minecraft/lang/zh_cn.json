@@ -4456,5 +4456,10 @@
     "world.mine.next": "下一个矿境",
     "world.mine.revisit.lost": "重访遗憾败北的旧矿境",
     "world.mine.revisit.won": "重访胜利的旧矿境",
-    "world.mine": "矿境%s"
+    "world.mine": "矿境%s",
+    "gamerule.keepInventory": "寄了后保留物品栏",
+    "commands.time.set.absolute": "已将%s的瓦纳海姆时设为%s刻",
+    "commands.time.set.time_marker": "已将%s的瓦纳海姆时调至时间标记%s的时刻",
+    "advancements.husbandry.uh_oh.title": "死手快涂啊！",
+    "advancements.husbandry.uh_oh.description": "让硫方怪吸收掉一个三硝基甲苯，嗯？颜料爆炸啦！Boom！"
 }
