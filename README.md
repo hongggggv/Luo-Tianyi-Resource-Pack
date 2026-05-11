@@ -43,9 +43,6 @@
 - 你不可以：
 - 在任何情况下宣称 Tianyicraft 是由你制作或归你所有。
 - Bedrock 版本所有内容均采用 **CC BY-NC-SA 4.0 国际许可协议** 授权
-- 署名（BY）：使用时需同时标注**原项目**及**本项目**的双来源信息
-- 非商业（NC）：禁止用于商业优势或金钱报酬相关的任何场景
-- 相同方式共享（SA）：任何基于 Bedrock 版本的二次创作，必须采用 CC BY-NC-SA 4.0 发布，不得添加额外限制
 完整法律条款见：[LICENSE](https://github.com/Pearl-Luo/Tianyicraft/blob/Bedrock/LICENSE) | https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans
 ## 引用声明
 Bedrock 版本中语言文件复用 [mclangcn](https://github.com/ff98sha/mclangcn)，原作者：[ff98sha](https://github.com/ff98sha)。
