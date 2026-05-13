@@ -3135,7 +3135,7 @@
     "options.sharePresence.all": "默认",
     "options.sharePresence.all.tooltip": "同好既可以看到你是否在线，也可以看到你是否在共鸣。",
     "options.sharePresence.limited": "仅是否在线",
-    "options.sharePresence.limited.tooltip": "同好可以看到你是否在线，但不被run许可以看到你是否在共鸣。 你仍然可以邀请同好加入共鸣地。",
+    "options.sharePresence.limited.tooltip": "同好可以看到你是否在线，但不被run许看到你是否在共鸣。 你仍然可以邀请同好加入共鸣地。",
     "options.sharePresence.none": "隐身",
     "options.sharePresence.none.tooltip": "不分享任何在线信息，在同好列表中始终显示为“离线”。",
     "options.showNowPlayingToast.tooltip": "当天依开始歌唱时显示弹窗。天依正在歌唱时，会在天依的共鸣面板中持续显示同一弹窗。",
