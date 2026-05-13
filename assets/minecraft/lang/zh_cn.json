@@ -4462,7 +4462,7 @@
     "commands.time.set.time_marker": "已将%s的瓦纳海姆时调至时间标记%s的时刻",
     "advancements.husbandry.uh_oh.title": "死手快涂啊！",
     "advancements.husbandry.uh_oh.description": "让硫方怪吸收掉一个三硝基甲苯，嗯？颜料爆炸啦！Boom！",
-    
+
     "title.multiplayer.online": "来来我亲爱的朋友~（在线）",
     "accessibility.onboarding.accessibility.button.narration": "辅助功能设置",
     "connect.p2p.establishing": "建立连接中…",
@@ -4555,7 +4555,7 @@
     "menu.multiplayerOptions.network.online.tooltip": "在线好友可以加入。",
     "menu.multiplayerOptions.otherPlayers.header": "其他锦依卫",
     "menu.multiplayerOptions.publish.started.lan": "此共鸣地现已对内部神州领开放。端口号为%s",
-    "menu.multiplayerOptions.publish.started.online": "此共鸣地现已对多人游戏开放。端口号为%s",
+    "menu.multiplayerOptions.publish.started.online": "此共鸣地现已对多人共鸣开放。端口号为%s",
     "menu.multiplayerOptions.publish.stopped": "此共鸣地不再对多人游戏开放",
     "menu.multiplayerOptions.title": "多人共鸣选项"
 }
