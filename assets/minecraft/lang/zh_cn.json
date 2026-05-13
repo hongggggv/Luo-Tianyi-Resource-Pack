@@ -4570,9 +4570,9 @@
     "world.event.remaining": "剩余怪物",
     "world.event.warden": "监守者生成",
     "world.event.wither": "凋灵生成",
+    "world.mine": "矿境%s",
     "world.mine.base": "矿境%s基础",
     "world.mine.next": "下一个矿境",
     "world.mine.revisit.lost": "重访遗憾败北的旧矿境",
-    "world.mine.revisit.won": "重访胜利的旧矿境",
-    "world.mine": "矿境%s"
+    "world.mine.revisit.won": "重访胜利的旧矿境"
 }
