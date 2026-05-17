@@ -2633,6 +2633,7 @@
     "menu.paused": "共鸣地已暂停~",
     "menu.playdemo": "开始试玩共鸣地",
     "menu.playerReporting": "举报锦依卫",
+    "menu.playerReporting.no_players": "共鸣地中没有可以举报的锦依卫qwq",
     "menu.preparingSpawn": "天依已在努力加载啦：%s%%",
     "menu.quit": "和天依告别",
     "menu.reportBugs": "跟Bugjump说些特性",
