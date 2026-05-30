@@ -362,6 +362,11 @@
                 "name":"sounds/tianyi/menu/yuemingdongfang",
                 "stream":true,
                 "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/pilang",
+                "stream":true,
+                "load_on_low_memory":true
             }
         ]
     },
@@ -543,6 +548,11 @@
                 "name": "sounds/tianyi/menu/dzqyp",
                 "stream": true,
                 "load_on_low_memory": true
+            },
+            {
+                "name":"sounds/tianyi/menu/pilangp",
+                "stream":true,
+                "load_on_low_memory":true
             }
         ]
     },
