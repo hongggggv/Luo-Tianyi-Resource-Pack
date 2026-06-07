@@ -1,7 +1,7 @@
 # 这是什么？
 - Tianyicraft 是一个可以美化 Minecraft 1.20.x、1.21.x 和 26.x 版本的以洛天依为主题的资源包，这个资源包修改的部分从死亡提示到游戏界面，囊括 Minecraft 的相当一部分文案。但为了保持 Minecraft 原版的体验，大部分原版内容得以保留。其由洛天依的爱好者共同发展，旨在实现洛天依与其他领域的联动，因此本资源包也是第一个在海外平台上的洛天依资源包。
 - [天依亲手特调的客户端，基于 1.21 Fabric（停更）](https://45blcg-my.sharepoint.com/:u:/g/personal/luotianyi_45blcg_onmicrosoft_com/EfvDy_CPDsxDrC0dKh2F8gUBKSuMcYsSkQz_L63cn6VAng?e=QzwAL0)，内部资源包版本为 712w09a 版本
-- 欢迎加入 [789040594](https://qm.qq.com/q/eOlbXuw7h8) 这个群来玩喵，可以在这里与我们和群友交流，也可以关注 Tianyicraft 开发的最新消息，甚至是游玩我们的服务器~
+- 欢迎加入 [789040594](https://qm.qq.com/q/eOlbXuw7h8)[暂不可用] 这个群来玩喵，可以在这里与我们和群友交流，也可以关注 Tianyicraft 开发的最新消息，甚至是游玩我们的服务器~
 ## Star History
 喜欢的话别忘了点一个 Star 喵~
 [![Star History Chart](https://api.star-history.com/svg?repos=Pearl-Luo/Tianyicraft&type=date&legend=top-left)](https://www.star-history.com/?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=dark#Pearl-Luo/Tianyicraft&type=date&legend=top-left)
