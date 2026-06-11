@@ -2618,9 +2618,9 @@
     "menu.modded": " (Powered by LuoTianyi)",
     "menu.multiplayer": "多人一起共鸣，更精彩",
     "menu.multiplayerOptions.applyChanges": "应用更改",
-    "menu.multiplayerOptions.button": "多人共鸣…",
+    "menu.multiplayerOptions.button": "对内部神州领开放",
     "menu.multiplayerOptions.network.header": "网络",
-    "menu.multiplayerOptions.network.lan.tooltip": "处于同一网络上的锦依卫可加入。",
+    "menu.multiplayerOptions.network.lan.tooltip": "处于同一神州领（网络）上的锦依卫可加入。",
     "menu.multiplayerOptions.network.lan": "内部神州领",
     "menu.multiplayerOptions.network.off.tooltip": "无人可以加入。",
     "menu.multiplayerOptions.network.off": "关机状态",
@@ -2647,7 +2647,7 @@
     "menu.returnToMenu": "保存共鸣进度并中止共鸣",
     "menu.savingLevel": "保存当前共鸣地钟",
     "menu.sendFeedback": "送点反馈",
-    "menu.shareToLan": "对神州领开放",
+    "menu.shareToLan": "对内部神州领开放",
     "menu.singleplayer": "和天依一起共鸣",
     "merchant.deprecated": "村民每天最多补货两次。明天再来吧！",
     "mine.angry_ghast_boss.description": "这位对你不太满意",
@@ -4488,5 +4488,9 @@
     "world.mine.next": "下一个矿境",
     "world.mine.revisit.lost": "重访遗憾败北的旧矿境",
     "world.mine.revisit.won": "重访胜利的旧矿境",
-    "world.mine": "矿境%s"
+    "world.mine": "矿境%s",
+    "menu.multiplayerOptions.lan": "内部神州领",
+    "editGamerule.inGame.disabled.hardcore.tooltip": "人生只有一次，抱歉，规则就是规则。",
+    "options.worldOptions.game_mode.disabled.tooltip": "这里是现实模式，是为了活下去，所以天依拒绝了你的心律共鸣请求喵~",
+    "options.worldOptions.allow_commands.disabled.tooltip": "为确保现实模式的体验，天依已关闭无限共鸣权限，好好活着吧，加油喵~"
 }
