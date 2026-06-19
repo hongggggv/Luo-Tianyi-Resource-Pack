@@ -14000,3 +14000,7 @@ options.lefthanded.name=左手模式物品栏操作
 options.lefthanded.description=将物品栏按钮置于快捷栏左侧（原右侧），非常适合惯用左手的锦依卫使用
 options.showBlockSelectButton.description=开启此功能可让你所见即所得，直接复制你看着的方块到手里，再也不用担心找半天辣！
 options.showBlockSelectButton.message=开启此功能可让你所见即所得，直接复制你看着的方块到手里，再也不用担心找半天辣！
+hbui.Storage.ManageWorldStorage.buttons.deleteLabelLocalAndCloud=删除本地与云端共鸣地
+hbui.Storage.ManageWorldStorage.buttons.deleteLabelLocalOnly=删除本地共鸣地
+hbui.Storage.ManageWorldStorage.buttons.deleteLabelCloudOnly=删除云端共鸣地
+hbui.Storage.ManageWorldStorage.buttons.deleteLabelCloudNotSupported=删除共鸣地
