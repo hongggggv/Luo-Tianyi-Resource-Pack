@@ -218,12 +218,12 @@
     "enchantment.enigmaticlegacy.sorrow": "悲恸诅咒",
     
     "enchantment.enigmaticlegacy.eternal_binding.desc": "使装备无法被非神明卸下，即使持有者死亡。",
-    "enchantment.enigmaticlegacy.sorrow.desc": "受到伤害时有可能会受到额外的随机负面效果。",
+    "enchantment.enigmaticlegacy.sorrow.desc": "受到伤害时有10%概率会受到额外的随机负面效果。",
     "enchantment.enigmaticlegacy.nemesis.desc": "对使用者造成反弹伤害，威力为近战伤害的25%",
-    "enchantment.enigmaticlegacy.sharpshooter.desc": "增加箭矢的伤害并减少伤害随机性",
+    "enchantment.enigmaticlegacy.sharpshooter.desc": "增加弩箭的伤害并减少伤害随机性，类似弓的力量",
     "enchantment.enigmaticlegacy.ceaseless.desc": "射击不消耗普通箭矢（弩专用）",
-    "enchantment.enigmaticlegacy.torrent.desc": "增加对火焰免疫和怕水的生物的伤害",
-    "enchantment.enigmaticlegacy.wrath.desc": "增加对任意生物的伤害",
+    "enchantment.enigmaticlegacy.torrent.desc": "增加对火焰免疫和怕水的生物的伤害，与杀手类附魔互斥",
+    "enchantment.enigmaticlegacy.wrath.desc": "增加三叉戟对任意生物的伤害，与穿刺和激流互斥",
     "enchantment.enigmaticlegacy.slayer.desc": "增加对任意怪物的伤害并暂时缓慢",
     
     "curios.identifier.scroll": "奥秘卷轴",
@@ -822,7 +822,7 @@
     "tooltip.enigmaticlegacy.animalGuidebook3": "§5在你周围的§6疣猪兽§5变得被动。",
     "tooltip.enigmaticlegacy.animalGuidebook4": "§d修正§6第二诅咒§d的方法：",
     "tooltip.enigmaticlegacy.animalGuidebook5": "§5- 可驯服的生物对你保持中立",
-    "tooltip.enigmaticlegacy.animalGuidebookCreative1": "§6右键生物来查看是否可以",
+    "tooltip.enigmaticlegacy.animalGuidebookCreative1": "§6神可右键生灵查看其可否",
     "tooltip.enigmaticlegacy.animalGuidebookCreative2": "§6被驯服或改变诅咒效果.",
     
     "tooltip.enigmaticlegacy.hunterGuidebook1": "§5放在物品栏中时，所有在你",

@@ -4,7 +4,8 @@
 - 欢迎加入 [298989392](https://qm.qq.com/q/wS9ixlXzoc)[秽土转生群，仅支持群号搜索] 这个群来玩喵，可以在这里与我们和群友交流，也可以关注 Tianyicraft 开发的最新消息，甚至是游玩我们的服务器~
 ## Star History
 喜欢的话别忘了点一个 Star 喵~
-[![Star History Chart](https://api.star-history.com/svg?repos=Pearl-Luo/Tianyicraft&type=date&legend=top-left)](https://www.star-history.com/?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=dark#Pearl-Luo/Tianyicraft&type=date&legend=top-left)
+
+[![Star History Chart](https://api.star-history.com/chart?repos=Pearl-Luo/Tianyicraft&type=date&legend=top-left&sealed_token=twJMAXzxDs6RxfuAteo1Y8hOlWAx_RWOLv3Dle5M1AdBAUGJ3iSwsQQu9xh4nqcIXE2z4GeWc6vtr67lsv0xPokkFhyo51V4IOXgxlE2mzfvvHFdQjAyLulLEYvRqeStXkA6lWScaK8nhQEAsWWhuSRhym3xl0vrvSail_pnBzq9SNt8a6ZbzKTL6gPX)](https://www.star-history.com/?type=date&legend=top-left&repos=Pearl-Luo%2FTianyicraft)
 
 # 里面有什么？
 - 几乎所有的死亡提示内容修改，让你的 Minecraft 更有意思！
