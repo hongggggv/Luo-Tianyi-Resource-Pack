@@ -4517,5 +4517,17 @@
     "world.mine.next": "下一个矿境",
     "world.mine.revisit.lost": "重访遗憾败北的旧矿境",
     "world.mine.revisit.won": "重访胜利的旧矿境",
-    "world.mine": "矿境%s"
+    "world.mine": "矿境%s",
+    "mco.pdp.friends.description": "你邀请的同好可以随时免费进入你的云州，即使你不在线。最多可与10名锦依卫同时在线！",
+    "mco.pdp.friends.title": "更好的共同共鸣方式",
+    "mco.pdp.minigames.description": "探索不断更新的小游戏、冒险地图和更多内容。",
+    "mco.pdp.minigames.title": "小游戏 - 免费创作者内容",
+    "mco.pdp.private.backups": "• 自动备份",
+    "mco.pdp.private.easyToManage": "• 易于设置，易于管理",
+    "mco.pdp.private.secure": "• 私密且安全",
+    "mco.pdp.private.title": "个人服务器",
+    "mco.pdp.private.worldSlots": "• 三个共鸣地栏位",
+    "mco.pdp.trial.description": "30天免费试用！",
+    "mco.pdp.trial.title": "不断线的专属服务器",
+    "mco.pdp.tryForFree": "免费尝试"
 }
